@@ -1,0 +1,2136 @@
+Vehicle_Model,Engine_Displacement_L,Engine_Cylinders,Transmission_Type,Drive,Fuel,Cert_Region,Underhood_Id,Veh_Class,Air_Pollution_Score,City_Mpg,Hwy_Mpg,Combined_Mpg,Greenhouse_Gas_Score,Smartway
+ACURA MDX,3.5,6,SemiAuto-6,4,Gasoline,CA,BHNXT03.7M19,SUV,6.0,16,21.0,18,3,No
+ACURA MDX,3.5,6,SemiAuto-6,4,Gasoline,FA,BHNXT03.7M19,SUV,5.0,16,21.0,18,3,No
+ACURA RDX,2.3,4,SemiAuto-5,2,Gasoline,CA,BHNXT02.3X19,SUV,6.0,19,24.0,21,4,No
+ACURA RDX,2.3,4,SemiAuto-5,4,Gasoline,CA,BHNXT02.3X19,SUV,6.0,17,22.0,19,3,No
+ACURA RDX,2.3,4,SemiAuto-5,2,Gasoline,FA,BHNXT02.3X19,SUV,5.0,19,24.0,21,4,No
+ACURA RDX,2.3,4,SemiAuto-5,4,Gasoline,FA,BHNXT02.3X19,SUV,5.0,17,22.0,19,3,No
+ACURA RL,3.7,6,SemiAuto-6,4,Gasoline,CA,BHNXV03.7PB9,midsize car,6.0,17,24.0,20,4,No
+ACURA RL,3.7,6,SemiAuto-6,4,Gasoline,FA,BHNXV03.7PB9,midsize car,5.0,17,24.0,20,4,No
+ACURA TL,3.5,6,SemiAuto-5,2,Gasoline,CA,BHNXV03.5EB9,midsize car,6.0,18,26.0,21,4,No
+ACURA TL,3.7,6,SemiAuto-5,4,Gasoline,CA,BHNXV03.74B9,midsize car,6.0,17,25.0,20,4,No
+ACURA TL,3.7,6,Man-6,4,Gasoline,CA,BHNXV03.74B9,midsize car,6.0,17,25.0,20,4,No
+ACURA TL,3.5,6,SemiAuto-5,2,Gasoline,FA,BHNXV03.5EB9,midsize car,5.0,18,26.0,21,4,No
+ACURA TL,3.7,6,SemiAuto-5,4,Gasoline,FA,BHNXV03.74B9,midsize car,5.0,17,25.0,20,4,No
+ACURA TL,3.7,6,Man-6,4,Gasoline,FA,BHNXV03.74B9,midsize car,5.0,17,25.0,20,4,No
+ACURA TSX,2.4,4,Man-6,2,Gasoline,CA,BHNXV02.4DB9,small car,6.0,21,29.0,24,5,No
+ACURA TSX,2.4,4,SemiAuto-5,2,Gasoline,CA,BHNXV02.4DB9,small car,6.0,22,31.0,26,6,Yes
+ACURA TSX,3.5,6,SemiAuto-5,2,Gasoline,CA,BHNXV03.5EB9,small car,6.0,19,28.0,23,5,No
+ACURA TSX,2.4,4,Man-6,2,Gasoline,FA,BHNXV02.4DB9,small car,5.0,21,29.0,24,5,No
+ACURA TSX,2.4,4,SemiAuto-5,2,Gasoline,FA,BHNXV02.4DB9,small car,5.0,22,31.0,26,6,No
+ACURA TSX,3.5,6,SemiAuto-5,2,Gasoline,FA,BHNXV03.5EB9,small car,5.0,19,28.0,23,5,No
+ACURA TSX Wagon,2.4,4,SemiAuto-5,2,Gasoline,CA,BHNXV02.4DB9,station wagon,6.0,22,30.0,25,6,Yes
+ACURA TSX Wagon,2.4,4,SemiAuto-5,2,Gasoline,FA,BHNXV02.4DB9,station wagon,5.0,22,30.0,25,6,No
+ACURA ZDX,3.7,6,SemiAuto-6,4,Gasoline,CA,BHNXV03.7PB9,SUV,6.0,16,23.0,19,3,No
+ACURA ZDX,3.7,6,SemiAuto-6,4,Gasoline,FA,BHNXV03.7PB9,SUV,5.0,16,23.0,19,3,No
+ASTON MARTIN DB9,5.9,12,Man-6,2,Gasoline,FA,BASXV05.9VH1,small car,5.0,11,17.0,13,1,No
+ASTON MARTIN DB9,5.9,12,SemiAuto-6,2,Gasoline,FA,BASXV05.9VH1,small car,5.0,13,20.0,15,1,No
+ASTON MARTIN DB9,5.9,12,Man-6,2,Gasoline,CA,BASXV05.9VH1,small car,5.0,11,17.0,13,1,No
+ASTON MARTIN DB9,5.9,12,SemiAuto-6,2,Gasoline,CA,BASXV05.9VH1,small car,5.0,13,20.0,15,1,No
+ASTON MARTIN DBS,5.9,12,Man-6,2,Gasoline,FA,BASXV05.9VH1,small car,5.0,11,17.0,13,1,No
+ASTON MARTIN DBS,5.9,12,SemiAuto-6,2,Gasoline,FA,BASXV05.9VH1,small car,5.0,12,18.0,14,1,No
+ASTON MARTIN DBS,5.9,12,Man-6,2,Gasoline,CA,BASXV05.9VH1,small car,5.0,11,17.0,13,1,No
+ASTON MARTIN DBS,5.9,12,SemiAuto-6,2,Gasoline,CA,BASXV05.9VH1,small car,5.0,12,18.0,14,1,No
+ASTON MARTIN Rapide,5.9,12,SemiAuto-6,2,Gasoline,FA,BASXV05.9VH1,small car,5.0,13,19.0,15,1,No
+ASTON MARTIN Rapide,5.9,12,SemiAuto-6,2,Gasoline,CA,BASXV05.9VH1,small car,5.0,13,19.0,15,1,No
+ASTON MARTIN V12 Vantage,5.9,12,Man-6,2,Gasoline,FA,BASXV05.9VH1,small car,5.0,11,17.0,13,1,No
+ASTON MARTIN V12 Vantage,5.9,12,Man-6,2,Gasoline,CA,BASXV05.9VH1,small car,5.0,11,17.0,13,1,No
+ASTON MARTIN V8 Vantage,4.7,8,Man-6,2,Gasoline,FA,BASXV04.7VH2,small car,5.0,13,19.0,15,1,No
+ASTON MARTIN V8 Vantage,4.7,8,AutoMan-6,2,Gasoline,FA,BASXV04.7VH2,small car,5.0,14,20.0,16,1,No
+ASTON MARTIN V8 Vantage,4.7,8,Man-6,2,Gasoline,CA,BASXV04.7VH2,small car,5.0,13,19.0,15,1,No
+ASTON MARTIN V8 Vantage,4.7,8,AutoMan-6,2,Gasoline,CA,BASXV04.7VH2,small car,5.0,14,20.0,16,1,No
+ASTON MARTIN V8 Vantage S,4.7,8,AutoMan-7,2,Gasoline,FA,BASXV04.7VH2,small car,5.0,14,21.0,16,1,No
+ASTON MARTIN V8 Vantage S,4.7,8,AutoMan-7,2,Gasoline,CA,BASXV04.7VH2,small car,5.0,14,21.0,16,1,No
+AUDI A3,2.0,4,Man-6,2,Gasoline,CA,BADXV02.03PA,station wagon,9.0,21,30.0,24,5,No
+AUDI A3,2.0,4,SemiAuto-6,2,Gasoline,CA,BADXV02.03PA,station wagon,9.0,22,28.0,24,5,No
+AUDI A3,2.0,4,Man-6,2,Gasoline,FA,BADXV02.03PA,station wagon,7.0,21,30.0,24,5,No
+AUDI A3,2.0,4,SemiAuto-6,2,Gasoline,FA,BADXV02.03PA,station wagon,7.0,22,28.0,24,5,No
+AUDI A3,2.0,4,SemiAuto-6,4,Gasoline,CA,BADXV02.03UA,station wagon,6.0,21,28.0,24,5,No
+AUDI A3,2.0,4,Man-6,2,Gasoline,CA,BADXV02.03UA,station wagon,6.0,21,30.0,24,5,No
+AUDI A3,2.0,4,SemiAuto-6,2,Diesel,CA,BVWXV02.0U5N,station wagon,4.0,29,37.0,32,4,Yes
+AUDI A3,2.0,4,SemiAuto-6,2,Diesel,FA,BVWXV02.0U5N,station wagon,4.0,29,37.0,32,4,Yes
+AUDI A3,2.0,4,SemiAuto-6,2,Gasoline,CA,BADXV02.03UA,station wagon,6.0,22,28.0,24,5,No
+AUDI A3,2.0,4,SemiAuto-6,4,Gasoline,FA,BADXV02.03UA,station wagon,5.0,21,28.0,24,5,No
+AUDI A3,2.0,4,Man-6,2,Gasoline,FA,BADXV02.03UA,station wagon,5.0,21,30.0,24,5,No
+AUDI A3,2.0,4,SemiAuto-6,2,Gasoline,FA,BADXV02.03UA,station wagon,5.0,22,28.0,24,5,No
+AUDI A4,2.0,4,SemiAuto-8,4,Gasoline,CA,BADXJ02.03UB,small car,6.0,21,29.0,24,5,No
+AUDI A4,2.0,4,Man-6,4,Gasoline,CA,BADXJ02.03UB,small car,6.0,21,31.0,25,6,Yes
+AUDI A4,2.0,4,CVT,2,Gasoline,CA,BADXJ02.03UB,small car,6.0,22,30.0,25,6,Yes
+AUDI A4,2.0,4,SemiAuto-8,4,Gasoline,FA,BADXJ02.03UB,small car,5.0,21,29.0,24,5,No
+AUDI A4,2.0,4,Man-6,4,Gasoline,FA,BADXJ02.03UB,small car,5.0,21,31.0,25,6,No
+AUDI A4,2.0,4,CVT,2,Gasoline,FA,BADXJ02.03UB,small car,5.0,22,30.0,25,6,No
+AUDI A4 Avant,2.0,4,SemiAuto-8,4,Gasoline,CA,BADXJ02.03UB,station wagon,6.0,21,29.0,24,5,No
+AUDI A4 Avant,2.0,4,SemiAuto-8,4,Gasoline,FA,BADXJ02.03UB,station wagon,5.0,21,29.0,24,5,No
+AUDI A5,2.0,4,SemiAuto-8,4,Gasoline,CA,BADXJ02.03UB,small car,6.0,21,29.0,24,5,No
+AUDI A5,2.0,4,Man-6,4,Gasoline,CA,BADXJ02.03UB,small car,6.0,21,31.0,25,6,Yes
+AUDI A5,2.0,4,SemiAuto-8,4,Gasoline,FA,BADXJ02.03UB,small car,5.0,21,29.0,24,5,No
+AUDI A5,2.0,4,Man-6,4,Gasoline,FA,BADXJ02.03UB,small car,5.0,21,31.0,25,6,No
+AUDI A5 Cabriolet,2.0,4,SemiAuto-8,4,Gasoline,CA,BADXJ02.03UB,small car,6.0,21,29.0,24,5,No
+AUDI A5 Cabriolet,2.0,4,CVT,2,Gasoline,CA,BADXJ02.03UB,small car,6.0,22,30.0,25,6,Yes
+AUDI A5 Cabriolet,2.0,4,SemiAuto-8,4,Gasoline,FA,BADXJ02.03UB,small car,5.0,21,29.0,24,5,No
+AUDI A5 Cabriolet,2.0,4,CVT,2,Gasoline,FA,BADXJ02.03UB,small car,5.0,22,30.0,25,6,No
+AUDI A6,3.0,6,SemiAuto-6,4,Gasoline,CA,BADXV03.03UF,midsize car,6.0,18,26.0,21,4,No
+AUDI A6,3.2,6,CVT,2,Gasoline,CA,BADXJ03.23UC,midsize car,6.0,21,30.0,24,5,No
+AUDI A6,3.0,6,SemiAuto-6,4,Gasoline,FA,BADXV03.03UF,midsize car,5.0,18,26.0,21,4,No
+AUDI A6,3.2,6,CVT,2,Gasoline,FA,BADXJ03.23UC,midsize car,5.0,21,30.0,24,5,No
+AUDI A6,4.2,8,SemiAuto-6,4,Gasoline,FA,BADXV04.2365,midsize car,5.0,16,24.0,19,3,No
+AUDI A6,4.2,8,SemiAuto-6,4,Gasoline,CA,BADXV04.2365,midsize car,5.0,16,24.0,19,3,No
+AUDI A6 Avant,3.0,6,SemiAuto-6,4,Gasoline,CA,BADXV03.03UF,station wagon,6.0,18,26.0,21,4,No
+AUDI A6 Avant,3.0,6,SemiAuto-6,4,Gasoline,FA,BADXV03.03UF,station wagon,5.0,18,26.0,21,4,No
+AUDI A8,4.2,8,SemiAuto-8,4,Gasoline,CA,BADXV04.23UH,midsize car,6.0,17,27.0,21,4,No
+AUDI A8,4.2,8,SemiAuto-8,4,Gasoline,FA,BADXV04.23UH,midsize car,5.0,17,27.0,21,4,No
+AUDI A8 L,4.2,8,SemiAuto-8,4,Gasoline,CA,BADXV04.23UH,large car,6.0,17,27.0,21,4,No
+AUDI A8 L,4.2,8,SemiAuto-8,4,Gasoline,FA,BADXV04.23UH,large car,5.0,17,27.0,21,4,No
+AUDI Q5,2.0,4,SemiAuto-8,4,Gasoline,CA,BADXJ02.03UB,SUV,6.0,20,27.0,22,5,No
+AUDI Q5,3.2,6,SemiAuto-6,4,Gasoline,CA,BADXJ03.23UC,SUV,6.0,18,23.0,20,4,No
+AUDI Q5,2.0,4,SemiAuto-8,4,Gasoline,FA,BADXJ02.03UB,SUV,5.0,20,27.0,22,5,No
+AUDI Q5,3.2,6,SemiAuto-6,4,Gasoline,FA,BADXJ03.23UC,SUV,5.0,18,23.0,20,4,No
+AUDI Q7,3.0,6,SemiAuto-8,4,Diesel,CA,BADXT03.03UG,SUV,4.0,17,24.0,20,4,No
+AUDI Q7,3.0,6,SemiAuto-8,4,Gasoline,FA,BADXT03.0TLF,SUV,5.0,16,22.0,18,3,No
+AUDI Q7,3.0,6,SemiAuto-8,4,Diesel,FA,BADXT03.03UG,SUV,4.0,17,24.0,20,4,No
+AUDI Q7,3.0,6,SemiAuto-8,4,Gasoline,CA,BADXT03.0TLF,SUV,5.0,16,22.0,18,3,No
+AUDI R8,4.2,8,Man-6,4,Gasoline,FA,BADXV04.2375,small car,5.0,11,20.0,14,1,No
+AUDI R8,4.2,8,AutoMan-6,4,Gasoline,FA,BADXV04.2375,small car,5.0,13,21.0,16,1,No
+AUDI R8,4.2,8,Man-6,4,Gasoline,CA,BADXV04.2375,small car,5.0,11,20.0,14,1,No
+AUDI R8,4.2,8,AutoMan-6,4,Gasoline,CA,BADXV04.2375,small car,5.0,13,21.0,16,1,No
+AUDI R8,5.2,10,Man-6,4,Gasoline,FA,BADXV05.2LR8,small car,5.0,12,19.0,14,1,No
+AUDI R8,5.2,10,AutoMan-6,4,Gasoline,FA,BADXV05.2LR8,small car,5.0,13,19.0,15,1,No
+AUDI R8,5.2,10,Man-6,4,Gasoline,CA,BADXV05.2LR8,small car,5.0,12,19.0,14,1,No
+AUDI R8,5.2,10,AutoMan-6,4,Gasoline,CA,BADXV05.2LR8,small car,5.0,13,19.0,15,1,No
+AUDI R8 Spyder,4.2,8,Man-6,4,Gasoline,FA,BADXV04.2375,small car,5.0,11,20.0,14,1,No
+AUDI R8 Spyder,4.2,8,AutoMan-6,4,Gasoline,FA,BADXV04.2375,small car,5.0,13,21.0,16,1,No
+AUDI R8 Spyder,4.2,8,Man-6,4,Gasoline,CA,BADXV04.2375,small car,5.0,11,20.0,14,1,No
+AUDI R8 Spyder,4.2,8,AutoMan-6,4,Gasoline,CA,BADXV04.2375,small car,5.0,13,21.0,16,1,No
+AUDI R8 Spyder,5.2,10,Man-6,4,Gasoline,FA,BADXV05.2LR8,small car,5.0,12,19.0,14,1,No
+AUDI R8 Spyder,5.2,10,AutoMan-6,4,Gasoline,FA,BADXV05.2LR8,small car,5.0,13,19.0,15,1,No
+AUDI R8 Spyder,5.2,10,Man-6,4,Gasoline,CA,BADXV05.2LR8,small car,5.0,12,19.0,14,1,No
+AUDI R8 Spyder,5.2,10,AutoMan-6,4,Gasoline,CA,BADXV05.2LR8,small car,5.0,13,19.0,15,1,No
+AUDI S4,3.0,6,Man-6,4,Gasoline,CA,BADXV03.03UF,small car,6.0,18,27.0,21,4,No
+AUDI S4,3.0,6,SemiAuto-7,4,Gasoline,CA,BADXV03.03UF,small car,6.0,18,28.0,21,4,No
+AUDI S4,3.0,6,Man-6,4,Gasoline,FA,BADXV03.03UF,small car,5.0,18,27.0,21,4,No
+AUDI S4,3.0,6,SemiAuto-7,4,Gasoline,FA,BADXV03.03UF,small car,5.0,18,28.0,21,4,No
+AUDI S5,4.2,8,Man-6,4,Gasoline,FA,BADXV04.2365,small car,5.0,14,22.0,17,2,No
+AUDI S5,4.2,8,SemiAuto-6,4,Gasoline,FA,BADXV04.2365,small car,5.0,16,24.0,19,3,No
+AUDI S5,4.2,8,Man-6,4,Gasoline,CA,BADXV04.2365,small car,5.0,14,22.0,17,2,No
+AUDI S5,4.2,8,SemiAuto-6,4,Gasoline,CA,BADXV04.2365,small car,5.0,16,24.0,19,3,No
+AUDI S5 Cabriolet,3.0,6,SemiAuto-7,4,Gasoline,CA,BADXV03.03UF,small car,6.0,17,26.0,20,4,No
+AUDI S5 Cabriolet,3.0,6,SemiAuto-7,4,Gasoline,FA,BADXV03.03UF,small car,5.0,17,26.0,20,4,No
+AUDI S6,5.2,10,SemiAuto-6,4,Gasoline,FA,BADXV05.2385,midsize car,5.0,14,21.0,16,1,No
+AUDI S6,5.2,10,SemiAuto-6,4,Gasoline,CA,BADXV05.2385,midsize car,5.0,14,21.0,16,1,No
+AUDI TT Coupe,2.0,4,SemiAuto-6,4,Gasoline,CA,BADXV02.03UA,small car,6.0,22,31.0,26,6,Yes
+AUDI TT Coupe,2.0,4,SemiAuto-6,4,Gasoline,FA,BADXV02.03UA,small car,5.0,22,31.0,26,6,No
+AUDI TT Roadster,2.0,4,SemiAuto-6,4,Gasoline,CA,BADXV02.03UA,small car,6.0,22,31.0,26,6,Yes
+AUDI TT Roadster,2.0,4,SemiAuto-6,4,Gasoline,FA,BADXV02.03UA,small car,5.0,22,31.0,26,6,No
+BENTLEY Mulsanne,6.8,8,SemiAuto-8,2,Gasoline,FA,BBEXV06.84LA,midsize car,5.0,11,18.0,13,1,No
+BENTLEY Mulsanne,6.8,8,SemiAuto-8,2,Gasoline,CA,BBEXV06.84LA,midsize car,5.0,11,18.0,13,1,No
+BMW 128Ci Convertible,3.0,6,SemiAuto-6,2,Gasoline,CA,BBMXV03.051R,small car,8.0,18,27.0,21,4,No
+BMW 128Ci Convertible,3.0,6,Man-6,2,Gasoline,CA,BBMXV03.051R,small car,8.0,18,28.0,22,5,No
+BMW 128Ci Convertible,3.0,6,SemiAuto-6,2,Gasoline,CA,BBMXJ03.0E89,small car,6.0,18,27.0,21,4,No
+BMW 128Ci Convertible,3.0,6,Man-6,2,Gasoline,CA,BBMXJ03.0E89,small car,6.0,18,28.0,22,5,No
+BMW 128Ci Convertible,3.0,6,SemiAuto-6,2,Gasoline,FA,BBMXJ03.0E89,small car,5.0,18,27.0,21,4,No
+BMW 128Ci Convertible,3.0,6,SemiAuto-6,2,Gasoline,FA,BBMXV03.051R,small car,5.0,18,27.0,21,4,No
+BMW 128Ci Convertible,3.0,6,Man-6,2,Gasoline,FA,BBMXJ03.0E89,small car,5.0,18,28.0,22,5,No
+BMW 128Ci Convertible,3.0,6,Man-6,2,Gasoline,FA,BBMXV03.051R,small car,5.0,18,28.0,22,5,No
+BMW 128i,3.0,6,Man-6,2,Gasoline,CA,BBMXV03.051R,small car,8.0,18,28.0,22,5,No
+BMW 128i,3.0,6,SemiAuto-6,2,Gasoline,CA,BBMXV03.051R,small car,8.0,18,28.0,22,5,No
+BMW 128i,3.0,6,Man-6,2,Gasoline,CA,BBMXJ03.0E89,small car,6.0,18,28.0,22,5,No
+BMW 128i,3.0,6,SemiAuto-6,2,Gasoline,CA,BBMXJ03.0E89,small car,6.0,18,28.0,22,5,No
+BMW 128i,3.0,6,Man-6,2,Gasoline,FA,BBMXJ03.0E89,small car,5.0,18,28.0,22,5,No
+BMW 128i,3.0,6,Man-6,2,Gasoline,FA,BBMXV03.051R,small car,5.0,18,28.0,22,5,No
+BMW 128i,3.0,6,SemiAuto-6,2,Gasoline,FA,BBMXJ03.0E89,small car,5.0,18,28.0,22,5,No
+BMW 128i,3.0,6,SemiAuto-6,2,Gasoline,FA,BBMXV03.051R,small car,5.0,18,28.0,22,5,No
+BMW 135i,3.0,6,SemiAuto-7,2,Gasoline,CA,BBMXJ03.0N55,small car,6.0,18,25.0,21,4,No
+BMW 135i,3.0,6,Man-6,2,Gasoline,CA,BBMXJ03.0N55,small car,6.0,20,28.0,23,5,No
+BMW 135i,3.0,6,SemiAuto-7,2,Gasoline,FA,BBMXJ03.0N55,small car,5.0,18,25.0,21,4,No
+BMW 135i,3.0,6,Man-6,2,Gasoline,FA,BBMXJ03.0N55,small car,5.0,20,28.0,23,5,No
+BMW 135i Convertible,3.0,6,SemiAuto-7,2,Gasoline,CA,BBMXJ03.0N55,small car,6.0,18,25.0,20,4,No
+BMW 135i Convertible,3.0,6,Man-6,2,Gasoline,CA,BBMXJ03.0N55,small car,6.0,19,28.0,22,5,No
+BMW 135i Convertible,3.0,6,SemiAuto-7,2,Gasoline,FA,BBMXJ03.0N55,small car,5.0,18,25.0,20,4,No
+BMW 135i Convertible,3.0,6,Man-6,2,Gasoline,FA,BBMXJ03.0N55,small car,5.0,19,28.0,22,5,No
+BMW 328Ci,3.0,6,Man-6,4,Gasoline,CA,BBMXV03.051R,small car,8.0,17,25.0,20,4,No
+BMW 328Ci,3.0,6,SemiAuto-6,4,Gasoline,CA,BBMXV03.051R,small car,8.0,17,26.0,20,4,No
+BMW 328Ci,3.0,6,Man-6,2,Gasoline,CA,BBMXV03.051R,small car,8.0,18,28.0,22,5,No
+BMW 328Ci,3.0,6,SemiAuto-6,2,Gasoline,CA,BBMXV03.051R,small car,8.0,18,28.0,22,5,No
+BMW 328Ci,3.0,6,Man-6,4,Gasoline,CA,BBMXJ03.0E89,small car,6.0,17,25.0,20,4,No
+BMW 328Ci,3.0,6,SemiAuto-6,4,Gasoline,CA,BBMXJ03.0E89,small car,6.0,17,26.0,20,4,No
+BMW 328Ci,3.0,6,Man-6,2,Gasoline,CA,BBMXJ03.0E89,small car,6.0,18,28.0,22,5,No
+BMW 328Ci,3.0,6,SemiAuto-6,2,Gasoline,CA,BBMXJ03.0E89,small car,6.0,18,28.0,22,5,No
+BMW 328Ci,3.0,6,Man-6,4,Gasoline,FA,BBMXJ03.0E89,small car,5.0,17,25.0,20,4,No
+BMW 328Ci,3.0,6,Man-6,4,Gasoline,FA,BBMXV03.051R,small car,5.0,17,25.0,20,4,No
+BMW 328Ci,3.0,6,SemiAuto-6,4,Gasoline,FA,BBMXJ03.0E89,small car,5.0,17,26.0,20,4,No
+BMW 328Ci,3.0,6,SemiAuto-6,4,Gasoline,FA,BBMXV03.051R,small car,5.0,17,26.0,20,4,No
+BMW 328Ci,3.0,6,Man-6,2,Gasoline,FA,BBMXJ03.0E89,small car,5.0,18,28.0,22,5,No
+BMW 328Ci,3.0,6,Man-6,2,Gasoline,FA,BBMXV03.051R,small car,5.0,18,28.0,22,5,No
+BMW 328Ci,3.0,6,SemiAuto-6,2,Gasoline,FA,BBMXJ03.0E89,small car,5.0,18,28.0,22,5,No
+BMW 328Ci,3.0,6,SemiAuto-6,2,Gasoline,FA,BBMXV03.051R,small car,5.0,18,28.0,22,5,No
+BMW 328Ci Convertible,3.0,6,Man-6,2,Gasoline,CA,BBMXV03.051R,small car,8.0,17,26.0,20,4,No
+BMW 328Ci Convertible,3.0,6,SemiAuto-6,2,Gasoline,CA,BBMXV03.051R,small car,8.0,18,27.0,21,4,No
+BMW 328Ci Convertible,3.0,6,Man-6,2,Gasoline,CA,BBMXJ03.0E89,small car,6.0,17,26.0,20,4,No
+BMW 328Ci Convertible,3.0,6,SemiAuto-6,2,Gasoline,CA,BBMXJ03.0E89,small car,6.0,18,27.0,21,4,No
+BMW 328Ci Convertible,3.0,6,Man-6,2,Gasoline,FA,BBMXJ03.0E89,small car,5.0,17,26.0,20,4,No
+BMW 328Ci Convertible,3.0,6,Man-6,2,Gasoline,FA,BBMXV03.051R,small car,5.0,17,26.0,20,4,No
+BMW 328Ci Convertible,3.0,6,SemiAuto-6,2,Gasoline,FA,BBMXJ03.0E89,small car,5.0,18,27.0,21,4,No
+BMW 328Ci Convertible,3.0,6,SemiAuto-6,2,Gasoline,FA,BBMXV03.051R,small car,5.0,18,27.0,21,4,No
+BMW 328i,3.0,6,Man-6,4,Gasoline,CA,BBMXV03.051R,small car,8.0,17,25.0,20,4,No
+BMW 328i,3.0,6,SemiAuto-6,4,Gasoline,CA,BBMXV03.051R,small car,8.0,17,26.0,20,4,No
+BMW 328i,3.0,6,Man-6,2,Gasoline,CA,BBMXV03.051R,small car,8.0,18,28.0,22,5,No
+BMW 328i,3.0,6,SemiAuto-6,2,Gasoline,CA,BBMXV03.051R,small car,8.0,18,28.0,22,5,No
+BMW 328i,3.0,6,Man-6,4,Gasoline,CA,BBMXJ03.0E89,small car,6.0,17,25.0,20,4,No
+BMW 328i,3.0,6,SemiAuto-6,4,Gasoline,CA,BBMXJ03.0E89,small car,6.0,17,26.0,20,4,No
+BMW 328i,3.0,6,Man-6,2,Gasoline,CA,BBMXJ03.0E89,small car,6.0,18,28.0,22,5,No
+BMW 328i,3.0,6,SemiAuto-6,2,Gasoline,CA,BBMXJ03.0E89,small car,6.0,18,28.0,22,5,No
+BMW 328i,3.0,6,Man-6,4,Gasoline,FA,BBMXJ03.0E89,small car,5.0,17,25.0,20,4,No
+BMW 328i,3.0,6,Man-6,4,Gasoline,FA,BBMXV03.051R,small car,5.0,17,25.0,20,4,No
+BMW 328i,3.0,6,SemiAuto-6,4,Gasoline,FA,BBMXJ03.0E89,small car,5.0,17,26.0,20,4,No
+BMW 328i,3.0,6,SemiAuto-6,4,Gasoline,FA,BBMXV03.051R,small car,5.0,17,26.0,20,4,No
+BMW 328i,3.0,6,Man-6,2,Gasoline,FA,BBMXJ03.0E89,small car,5.0,18,28.0,22,5,No
+BMW 328i,3.0,6,Man-6,2,Gasoline,FA,BBMXV03.051R,small car,5.0,18,28.0,22,5,No
+BMW 328i,3.0,6,SemiAuto-6,2,Gasoline,FA,BBMXJ03.0E89,small car,5.0,18,28.0,22,5,No
+BMW 328i,3.0,6,SemiAuto-6,2,Gasoline,FA,BBMXV03.051R,small car,5.0,18,28.0,22,5,No
+BMW 328i Sports Wagon,3.0,6,Man-6,4,Gasoline,CA,BBMXJ03.0E89,station wagon,6.0,17,25.0,20,4,No
+BMW 328i Sports Wagon,3.0,6,Man-6,2,Gasoline,CA,BBMXJ03.0E89,station wagon,6.0,17,26.0,20,4,No
+BMW 328i Sports Wagon,3.0,6,SemiAuto-6,4,Gasoline,CA,BBMXJ03.0E89,station wagon,6.0,17,26.0,20,4,No
+BMW 328i Sports Wagon,3.0,6,SemiAuto-6,2,Gasoline,CA,BBMXJ03.0E89,station wagon,6.0,18,27.0,21,4,No
+BMW 328i Sports Wagon,3.0,6,Man-6,4,Gasoline,FA,BBMXJ03.0E89,station wagon,5.0,17,25.0,20,4,No
+BMW 328i Sports Wagon,3.0,6,Man-6,2,Gasoline,FA,BBMXJ03.0E89,station wagon,5.0,17,26.0,20,4,No
+BMW 328i Sports Wagon,3.0,6,SemiAuto-6,4,Gasoline,FA,BBMXJ03.0E89,station wagon,5.0,17,26.0,20,4,No
+BMW 328i Sports Wagon,3.0,6,SemiAuto-6,2,Gasoline,FA,BBMXJ03.0E89,station wagon,5.0,18,27.0,21,4,No
+BMW 335Ci,3.0,6,SemiAuto-6,4,Gasoline,CA,BBMXJ03.0N55,small car,6.0,18,27.0,21,4,No
+BMW 335Ci,3.0,6,Man-6,4,Gasoline,CA,BBMXJ03.0N55,small car,6.0,19,26.0,22,5,No
+BMW 335Ci,3.0,6,SemiAuto-6,2,Gasoline,CA,BBMXJ03.0N55,small car,6.0,19,28.0,22,5,No
+BMW 335Ci,3.0,6,Man-6,2,Gasoline,CA,BBMXJ03.0N55,small car,6.0,19,28.0,22,5,No
+BMW 335Ci,3.0,6,SemiAuto-6,4,Gasoline,FA,BBMXJ03.0N55,small car,5.0,18,27.0,21,4,No
+BMW 335Ci,3.0,6,Man-6,4,Gasoline,FA,BBMXJ03.0N55,small car,5.0,19,26.0,22,5,No
+BMW 335Ci,3.0,6,SemiAuto-6,2,Gasoline,FA,BBMXJ03.0N55,small car,5.0,19,28.0,22,5,No
+BMW 335Ci,3.0,6,Man-6,2,Gasoline,FA,BBMXJ03.0N55,small car,5.0,19,28.0,22,5,No
+BMW 335Ci Convertible,3.0,6,SemiAuto-6,2,Gasoline,CA,BBMXJ03.0N55,small car,6.0,19,28.0,22,5,No
+BMW 335Ci Convertible,3.0,6,Man-6,2,Gasoline,CA,BBMXJ03.0N55,small car,6.0,19,28.0,22,5,No
+BMW 335Ci Convertible,3.0,6,SemiAuto-6,2,Gasoline,FA,BBMXJ03.0N55,small car,5.0,19,28.0,22,5,No
+BMW 335Ci Convertible,3.0,6,Man-6,2,Gasoline,FA,BBMXJ03.0N55,small car,5.0,19,28.0,22,5,No
+BMW 335d,3.0,6,SemiAuto-6,2,Diesel,FA,BBMXV03.0M57,small car,5.0,23,36.0,27,5,No
+BMW 335d,3.0,6,SemiAuto-6,2,Diesel,CA,BBMXV03.0M57,small car,5.0,23,36.0,27,5,No
+BMW 335i,3.0,6,SemiAuto-6,4,Gasoline,CA,BBMXJ03.0N55,small car,6.0,18,27.0,21,4,No
+BMW 335i,3.0,6,Man-6,4,Gasoline,CA,BBMXJ03.0N55,small car,6.0,19,26.0,22,5,No
+BMW 335i,3.0,6,SemiAuto-6,2,Gasoline,CA,BBMXJ03.0N55,small car,6.0,19,28.0,22,5,No
+BMW 335i,3.0,6,Man-6,2,Gasoline,CA,BBMXJ03.0N55,small car,6.0,19,28.0,22,5,No
+BMW 335i,3.0,6,SemiAuto-6,4,Gasoline,FA,BBMXJ03.0N55,small car,5.0,18,27.0,21,4,No
+BMW 335i,3.0,6,Man-6,4,Gasoline,FA,BBMXJ03.0N55,small car,5.0,19,26.0,22,5,No
+BMW 335i,3.0,6,SemiAuto-6,2,Gasoline,FA,BBMXJ03.0N55,small car,5.0,19,28.0,22,5,No
+BMW 335i,3.0,6,Man-6,2,Gasoline,FA,BBMXJ03.0N55,small car,5.0,19,28.0,22,5,No
+BMW 335is Convertible,3.0,6,SemiAuto-7,2,Gasoline,CA,BBMXV03.0ULR,small car,6.0,17,24.0,19,3,No
+BMW 335is Convertible,3.0,6,Man-6,2,Gasoline,CA,BBMXV03.0ULR,small car,6.0,18,26.0,21,4,No
+BMW 335is Convertible,3.0,6,SemiAuto-7,2,Gasoline,FA,BBMXV03.0ULR,small car,5.0,17,24.0,19,3,No
+BMW 335is Convertible,3.0,6,Man-6,2,Gasoline,FA,BBMXV03.0ULR,small car,5.0,18,26.0,21,4,No
+BMW 335is Coupe,3.0,6,SemiAuto-7,2,Gasoline,CA,BBMXV03.0ULR,small car,6.0,17,24.0,19,3,No
+BMW 335is Coupe,3.0,6,Man-6,2,Gasoline,CA,BBMXV03.0ULR,small car,6.0,18,26.0,21,4,No
+BMW 335is Coupe,3.0,6,SemiAuto-7,2,Gasoline,FA,BBMXV03.0ULR,small car,5.0,17,24.0,19,3,No
+BMW 335is Coupe,3.0,6,Man-6,2,Gasoline,FA,BBMXV03.0ULR,small car,5.0,18,26.0,21,4,No
+BMW 528i,3.0,6,SemiAuto-8,2,Gasoline,CA,BBMXJ03.0E89,midsize car,6.0,22,32.0,25,6,Yes
+BMW 528i,3.0,6,SemiAuto-8,2,Gasoline,FA,BBMXJ03.0E89,midsize car,5.0,22,32.0,25,6,No
+BMW 535i,3.0,6,Man-6,2,Gasoline,CA,BBMXV03.0F10,midsize car,6.0,19,28.0,22,5,No
+BMW 535i,3.0,6,SemiAuto-8,4,Gasoline,CA,BBMXV03.0F10,midsize car,6.0,20,29.0,23,5,No
+BMW 535i,3.0,6,SemiAuto-8,2,Gasoline,CA,BBMXV03.0F10,midsize car,6.0,20,30.0,24,5,No
+BMW 535i,3.0,6,Man-6,2,Gasoline,FA,BBMXV03.0F10,midsize car,5.0,19,28.0,22,5,No
+BMW 535i,3.0,6,SemiAuto-8,4,Gasoline,FA,BBMXV03.0F10,midsize car,5.0,20,29.0,23,5,No
+BMW 535i,3.0,6,SemiAuto-8,2,Gasoline,FA,BBMXV03.0F10,midsize car,5.0,20,30.0,24,5,No
+BMW 535i Gran Turismo,3.0,6,SemiAuto-8,4,Gasoline,CA,BBMXV03.0F10,large car,6.0,18,27.0,21,4,No
+BMW 535i Gran Turismo,3.0,6,SemiAuto-8,2,Gasoline,CA,BBMXV03.0F10,large car,6.0,20,30.0,24,5,No
+BMW 535i Gran Turismo,3.0,6,SemiAuto-8,4,Gasoline,FA,BBMXV03.0F10,large car,5.0,18,27.0,21,4,No
+BMW 535i Gran Turismo,3.0,6,SemiAuto-8,2,Gasoline,FA,BBMXV03.0F10,large car,5.0,20,30.0,24,5,No
+BMW 550i,4.4,8,Man-6,2,Gasoline,CA,BBMXV04.4N63,midsize car,6.0,15,22.0,17,2,No
+BMW 550i,4.4,8,SemiAuto-8,4,Gasoline,CA,BBMXV04.4N63,midsize car,6.0,16,24.0,18,3,No
+BMW 550i,4.4,8,SemiAuto-8,2,Gasoline,CA,BBMXV04.4N63,midsize car,6.0,17,25.0,20,4,No
+BMW 550i,4.4,8,Man-6,2,Gasoline,FA,BBMXV04.4N63,midsize car,5.0,15,22.0,17,2,No
+BMW 550i,4.4,8,SemiAuto-8,4,Gasoline,FA,BBMXV04.4N63,midsize car,5.0,16,24.0,18,3,No
+BMW 550i,4.4,8,SemiAuto-8,2,Gasoline,FA,BBMXV04.4N63,midsize car,5.0,17,25.0,20,4,No
+BMW 550i Gran Turismo,4.4,8,SemiAuto-8,4,Gasoline,CA,BBMXV04.4N63,large car,6.0,15,22.0,17,2,No
+BMW 550i Gran Turismo,4.4,8,SemiAuto-8,2,Gasoline,CA,BBMXV04.4N63,large car,6.0,15,22.0,18,3,No
+BMW 550i Gran Turismo,4.4,8,SemiAuto-8,4,Gasoline,FA,BBMXV04.4N63,large car,5.0,15,22.0,17,2,No
+BMW 550i Gran Turismo,4.4,8,SemiAuto-8,2,Gasoline,FA,BBMXV04.4N63,large car,5.0,15,22.0,18,3,No
+BMW 740i,3.0,6,SemiAuto-6,2,Gasoline,CA,BBMXV03.0F01,large car,6.0,17,25.0,20,4,No
+BMW 740i,3.0,6,SemiAuto-6,2,Gasoline,FA,BBMXV03.0F01,large car,5.0,17,25.0,20,4,No
+BMW 740Li,3.0,6,SemiAuto-6,2,Gasoline,CA,BBMXV03.0F01,large car,6.0,17,25.0,20,4,No
+BMW 740Li,3.0,6,SemiAuto-6,2,Gasoline,FA,BBMXV03.0F01,large car,5.0,17,25.0,20,4,No
+BMW 750i,4.4,8,SemiAuto-6,4,Gasoline,CA,BBMXV04.4N63,large car,6.0,14,20.0,16,1,No
+BMW 750i,4.4,8,SemiAuto-6,2,Gasoline,CA,BBMXV04.4N63,large car,6.0,15,22.0,17,2,No
+BMW 750i,4.4,8,SemiAuto-6,4,Gasoline,FA,BBMXV04.4N63,large car,5.0,14,20.0,16,1,No
+BMW 750i,4.4,8,SemiAuto-6,2,Gasoline,FA,BBMXV04.4N63,large car,5.0,15,22.0,17,2,No
+BMW 750Li,4.4,8,SemiAuto-6,4,Gasoline,CA,BBMXV04.4N63,large car,6.0,14,20.0,16,1,No
+BMW 750Li,4.4,8,SemiAuto-6,2,Gasoline,CA,BBMXV04.4N63,large car,6.0,14,22.0,17,2,No
+BMW 750Li,4.4,8,SemiAuto-6,4,Gasoline,FA,BBMXV04.4N63,large car,5.0,14,20.0,16,1,No
+BMW 750Li,4.4,8,SemiAuto-6,2,Gasoline,FA,BBMXV04.4N63,large car,5.0,14,22.0,17,2,No
+BMW 760Li,6.0,12,SemiAuto-8,2,Gasoline,CA,BBMXV06.0N74,large car,6.0,13,19.0,15,1,No
+BMW 760Li,6.0,12,SemiAuto-8,2,Gasoline,FA,BBMXV06.0N74,large car,5.0,13,19.0,15,1,No
+BMW ActiveHybrid 7,4.4,8,SemiAuto-8,2,Gasoline,CA,BBMXV04.4F04,midsize car,6.0,17,24.0,20,4,No
+BMW ActiveHybrid 7,4.4,8,SemiAuto-8,2,Gasoline,FA,BBMXV04.4F04,midsize car,5.0,17,24.0,20,4,No
+BMW ActiveHybrid 7L,4.4,8,SemiAuto-8,2,Gasoline,CA,BBMXV04.4F04,large car,6.0,17,24.0,20,4,No
+BMW ActiveHybrid 7L,4.4,8,SemiAuto-8,2,Gasoline,FA,BBMXV04.4F04,large car,5.0,17,24.0,20,4,No
+BMW ActiveHybrid X6,4.4,8,SemiAuto-7,4,Gasoline,CA,BBMXT04.4E72,SUV,6.0,17,19.0,18,3,No
+BMW ActiveHybrid X6,4.4,8,SemiAuto-7,4,Gasoline,FA,BBMXT04.4E72,SUV,5.0,17,19.0,18,3,No
+BMW Alpina B7 LWB,4.4,8,SemiAuto-6,4,Gasoline,CA,BBMXV04.4N63,large car,6.0,14,20.0,16,1,No
+BMW Alpina B7 LWB,4.4,8,SemiAuto-6,2,Gasoline,CA,BBMXV04.4N63,large car,6.0,14,22.0,17,2,No
+BMW Alpina B7 LWB,4.4,8,SemiAuto-6,4,Gasoline,FA,BBMXV04.4N63,large car,5.0,14,20.0,16,1,No
+BMW Alpina B7 LWB,4.4,8,SemiAuto-6,2,Gasoline,FA,BBMXV04.4N63,large car,5.0,14,22.0,17,2,No
+BMW Alpina B7 SWB,4.4,8,SemiAuto-6,4,Gasoline,CA,BBMXV04.4N63,large car,6.0,14,20.0,16,1,No
+BMW Alpina B7 SWB,4.4,8,SemiAuto-6,2,Gasoline,CA,BBMXV04.4N63,large car,6.0,14,22.0,17,2,No
+BMW Alpina B7 SWB,4.4,8,SemiAuto-6,4,Gasoline,FA,BBMXV04.4N63,large car,5.0,14,20.0,16,1,No
+BMW Alpina B7 SWB,4.4,8,SemiAuto-6,2,Gasoline,FA,BBMXV04.4N63,large car,5.0,14,22.0,17,2,No
+BMW M3,4.0,8,SemiAuto-7,2,Gasoline,FA,BBMXV04.0S65,small car,5.0,14,20.0,16,1,No
+BMW M3,4.0,8,Man-6,2,Gasoline,FA,BBMXV04.0S65,small car,5.0,14,20.0,16,1,No
+BMW M3,4.0,8,SemiAuto-7,2,Gasoline,CA,BBMXV04.0S65,small car,5.0,14,20.0,16,1,No
+BMW M3,4.0,8,Man-6,2,Gasoline,CA,BBMXV04.0S65,small car,5.0,14,20.0,16,1,No
+BMW M3 Convertible,4.0,8,Man-6,2,Gasoline,FA,BBMXV04.0S65,small car,5.0,13,20.0,16,1,No
+BMW M3 Convertible,4.0,8,SemiAuto-7,2,Gasoline,FA,BBMXV04.0S65,small car,5.0,14,20.0,16,1,No
+BMW M3 Convertible,4.0,8,Man-6,2,Gasoline,CA,BBMXV04.0S65,small car,5.0,13,20.0,16,1,No
+BMW M3 Convertible,4.0,8,SemiAuto-7,2,Gasoline,CA,BBMXV04.0S65,small car,5.0,14,20.0,16,1,No
+BMW M3 Coupe,4.0,8,SemiAuto-7,2,Gasoline,FA,BBMXV04.0S65,small car,5.0,14,20.0,16,1,No
+BMW M3 Coupe,4.0,8,Man-6,2,Gasoline,FA,BBMXV04.0S65,small car,5.0,14,20.0,16,1,No
+BMW M3 Coupe,4.0,8,SemiAuto-7,2,Gasoline,CA,BBMXV04.0S65,small car,5.0,14,20.0,16,1,No
+BMW M3 Coupe,4.0,8,Man-6,2,Gasoline,CA,BBMXV04.0S65,small car,5.0,14,20.0,16,1,No
+BMW X3,3.0,6,SemiAuto-8,4,Gasoline,CA,BBMXJ03.0E89,SUV,6.0,19,25.0,21,4,No
+BMW X3,3.0,6,SemiAuto-8,4,Gasoline,CA,BBMXJ03.0N55,SUV,6.0,19,26.0,21,4,No
+BMW X3,3.0,6,SemiAuto-8,4,Gasoline,FA,BBMXJ03.0E89,SUV,5.0,19,25.0,21,4,No
+BMW X3,3.0,6,SemiAuto-8,4,Gasoline,FA,BBMXJ03.0N55,SUV,5.0,19,26.0,21,4,No
+BMW X5,3.0,6,SemiAuto-8,4,Gasoline,CA,BBMXT03.0E70,SUV,6.0,16,23.0,19,3,No
+BMW X5,4.4,8,SemiAuto-8,4,Gasoline,CA,BBMXT04.4E71,SUV,6.0,14,20.0,16,1,No
+BMW X5,3.0,6,SemiAuto-8,4,Gasoline,FA,BBMXT03.0E70,SUV,5.0,16,23.0,19,3,No
+BMW X5,3.0,6,SemiAuto-6,4,Diesel,FA,BBMXT03.0M57,SUV,5.0,19,26.0,22,4,No
+BMW X5,3.0,6,SemiAuto-6,4,Diesel,CA,BBMXT03.0M57,SUV,5.0,19,26.0,22,4,No
+BMW X5,4.4,8,SemiAuto-6,4,Gasoline,FA,BBMXT04.4S63,SUV,5.0,12,17.0,14,1,No
+BMW X5,4.4,8,SemiAuto-8,4,Gasoline,FA,BBMXT04.4E71,SUV,5.0,14,20.0,16,1,No
+BMW X5,4.4,8,SemiAuto-6,4,Gasoline,CA,BBMXT04.4S63,SUV,5.0,12,17.0,14,1,No
+BMW X6,3.0,6,SemiAuto-8,4,Gasoline,CA,BBMXT03.0E70,SUV,6.0,16,23.0,19,3,No
+BMW X6,4.4,8,SemiAuto-8,4,Gasoline,CA,BBMXT04.4E71,SUV,6.0,14,20.0,16,1,No
+BMW X6,3.0,6,SemiAuto-8,4,Gasoline,FA,BBMXT03.0E70,SUV,5.0,16,23.0,19,3,No
+BMW X6,4.4,8,SemiAuto-6,4,Gasoline,FA,BBMXT04.4S63,SUV,5.0,12,17.0,14,1,No
+BMW X6,4.4,8,SemiAuto-8,4,Gasoline,FA,BBMXT04.4E71,SUV,5.0,14,20.0,16,1,No
+BMW X6,4.4,8,SemiAuto-6,4,Gasoline,CA,BBMXT04.4S63,SUV,5.0,12,17.0,14,1,No
+BMW Z4,3.0,6,Man-6,2,Gasoline,CA,BBMXJ03.0E89,small car,6.0,18,28.0,22,5,No
+BMW Z4,3.0,6,SemiAuto-6,2,Gasoline,CA,BBMXJ03.0E89,small car,6.0,18,28.0,22,5,No
+BMW Z4,3.0,6,SemiAuto-7,2,Gasoline,FA,BBMXV03.054R,small car,5.0,17,24.0,19,3,No
+BMW Z4,3.0,6,Man-6,2,Gasoline,FA,BBMXJ03.0E89,small car,5.0,18,28.0,22,5,No
+BMW Z4,3.0,6,SemiAuto-6,2,Gasoline,FA,BBMXJ03.0E89,small car,5.0,18,28.0,22,5,No
+BMW Z4,3.0,6,Man-6,2,Gasoline,FA,BBMXV03.054R,small car,5.0,19,26.0,21,4,No
+BMW Z4,3.0,6,SemiAuto-7,2,Gasoline,CA,BBMXV03.054R,small car,5.0,17,24.0,19,3,No
+BMW Z4,3.0,6,Man-6,2,Gasoline,CA,BBMXV03.054R,small car,5.0,19,26.0,21,4,No
+BUGATTI Veyron,8.0,16,SemiAuto-7,4,Gasoline,FA,BBGTV08.0V16,small car,5.0,8,15.0,10,1,No
+BUGATTI Veyron,8.0,16,SemiAuto-7,4,Gasoline,CA,BBGTV08.0V16,small car,5.0,8,15.0,10,1,No
+BUICK Enclave,3.6,6,Auto-6,2,Gasoline,CA,BGMXJ03.6151,SUV,6.0,17,24.0,19,3,No
+BUICK Enclave,3.6,6,Auto-6,4,Gasoline,CA,BGMXJ03.6151,SUV,6.0,16,22.0,18,3,No
+BUICK Enclave,3.6,6,Auto-6,2,Gasoline,FA,BGMXJ03.6151,SUV,5.0,17,24.0,19,3,No
+BUICK Enclave,3.6,6,Auto-6,4,Gasoline,FA,BGMXJ03.6151,SUV,5.0,16,22.0,18,3,No
+BUICK Lacrosse,2.4,4,SemiAuto-6,2,Gasoline,CA,BGMXV02.4050,midsize car,9.0,19,30.0,23,5,No
+BUICK Lacrosse,2.4,4,SemiAuto-6,2,Gasoline,FC,BGMXJ02.4151,midsize car,6.0,19,30.0,23,5,No
+BUICK Lacrosse,2.4,4,SemiAuto-6,2,Gasoline,FA,BGMXV02.4050,midsize car,6.0,19,30.0,23,5,No
+BUICK Lacrosse,3.6,6,SemiAuto-6,4,Gasoline,CA,BGMXJ03.6151,midsize car,6.0,16,26.0,20,4,No
+BUICK Lacrosse,3.6,6,SemiAuto-6,2,Gasoline,CA,BGMXJ03.6151,midsize car,6.0,17,27.0,20,4,No
+BUICK Lacrosse,3.6,6,SemiAuto-6,4,Gasoline,FA,BGMXJ03.6151,midsize car,5.0,16,26.0,20,4,No
+BUICK Lacrosse,3.6,6,SemiAuto-6,2,Gasoline,FA,BGMXJ03.6151,midsize car,5.0,17,27.0,20,4,No
+BUICK Lucerne,4.6,8,Auto-4,2,Gasoline,FA,BGMXV04.6065,large car,5.0,15,23.0,18,3,No
+BUICK REGAL,2.4,4,SemiAuto-6,2,Gasoline,FC,BGMXJ02.4151,midsize car,6.0,19,30.0,23,5,No
+CADILLAC CTS,3.0,6,Man-6,2,Gasoline,FC,BGMXJ03.0157,midsize car,6.0,16,26.0,19,3,No
+CADILLAC CTS,3.0,6,SemiAuto-6,4,Gasoline,FC,BGMXJ03.0157,midsize car,6.0,18,26.0,21,4,No
+CADILLAC CTS,3.0,6,SemiAuto-6,2,Gasoline,FC,BGMXJ03.0157,midsize car,6.0,18,27.0,22,5,No
+CADILLAC CTS,3.6,6,Man-6,2,Gasoline,FA,BGMXV03.6053,midsize car,5.0,16,25.0,19,3,No
+CADILLAC CTS,3.6,6,SemiAuto-6,4,Gasoline,FA,BGMXV03.6053,midsize car,5.0,18,27.0,21,4,No
+CADILLAC CTS,3.6,6,SemiAuto-6,2,Gasoline,FA,BGMXV03.6053,midsize car,5.0,18,27.0,21,4,No
+CADILLAC CTS,3.6,6,Man-6,2,Gasoline,CA,BGMXV03.6053,midsize car,5.0,16,25.0,19,3,No
+CADILLAC CTS,3.6,6,SemiAuto-6,4,Gasoline,CA,BGMXV03.6053,midsize car,5.0,18,27.0,21,4,No
+CADILLAC CTS,3.6,6,SemiAuto-6,2,Gasoline,CA,BGMXV03.6053,midsize car,5.0,18,27.0,21,4,No
+CADILLAC CTS,6.2,8,SemiAuto-6,2,Gasoline,FA,BGMXV06.2087,midsize car,5.0,12,18.0,14,1,No
+CADILLAC CTS,6.2,8,Man-6,2,Gasoline,FA,BGMXV06.2087,midsize car,5.0,14,19.0,16,1,No
+CADILLAC CTS,6.2,8,SemiAuto-6,2,Gasoline,CA,BGMXV06.2087,midsize car,5.0,12,18.0,14,1,No
+CADILLAC CTS,6.2,8,Man-6,2,Gasoline,CA,BGMXV06.2087,midsize car,5.0,14,19.0,16,1,No
+CADILLAC CTS Wagon,3.0,6,SemiAuto-6,4,Gasoline,FC,BGMXJ03.0157,station wagon,6.0,18,26.0,21,4,No
+CADILLAC CTS Wagon,3.0,6,SemiAuto-6,2,Gasoline,FC,BGMXJ03.0157,station wagon,6.0,18,27.0,22,5,No
+CADILLAC CTS Wagon,3.6,6,SemiAuto-6,2,Gasoline,FA,BGMXV03.6053,station wagon,5.0,18,26.0,21,4,No
+CADILLAC CTS Wagon,3.6,6,SemiAuto-6,4,Gasoline,FA,BGMXV03.6053,station wagon,5.0,18,26.0,21,4,No
+CADILLAC CTS Wagon,3.6,6,SemiAuto-6,2,Gasoline,CA,BGMXV03.6053,station wagon,5.0,18,26.0,21,4,No
+CADILLAC CTS Wagon,3.6,6,SemiAuto-6,4,Gasoline,CA,BGMXV03.6053,station wagon,5.0,18,26.0,21,4,No
+CADILLAC CTS Wagon,6.2,8,SemiAuto-6,2,Gasoline,FA,BGMXV06.2087,station wagon,5.0,12,18.0,14,1,No
+CADILLAC CTS Wagon,6.2,8,Man-6,2,Gasoline,FA,BGMXV06.2087,station wagon,5.0,14,19.0,16,1,No
+CADILLAC CTS Wagon,6.2,8,SemiAuto-6,2,Gasoline,CA,BGMXV06.2087,station wagon,5.0,12,18.0,14,1,No
+CADILLAC CTS Wagon,6.2,8,Man-6,2,Gasoline,CA,BGMXV06.2087,station wagon,5.0,14,19.0,16,1,No
+CADILLAC DTS,4.6,8,Auto-4,2,Gasoline,FA,BGMXV04.6065,large car,5.0,15,23.0,18,3,No
+CADILLAC Escalade Hybrid,6.0,8,CVT,2,Gasoline,FA,BGMXT06.0371,SUV,5.0,20,23.0,21,4,No
+CADILLAC Escalade Hybrid,6.0,8,CVT,4,Gasoline,FA,BGMXT06.0371,SUV,5.0,20,23.0,21,4,No
+CADILLAC Limousine,4.6,8,Auto-4,2,Gasoline,FC,BGMXV04.6066,large car,6.0,12,18.0,14,1,No
+CADILLAC Limousine,4.6,8,Auto-4,2,Gasoline,FA,BGMXV04.6065,large car,5.0,12,18.0,14,1,No
+CADILLAC SRX,3.0,6,SemiAuto-6,2,Gasoline,FC,BGMXJ03.0157,SUV,6.0,18,25.0,20,4,No
+CADILLAC SRX,3.0,6,SemiAuto-6,4,Gasoline,FC,BGMXJ03.0157,SUV,6.0,17,23.0,19,3,No
+CADILLAC SRX,2.8,6,SemiAuto-6,4,Gasoline,FA,BGMXT02.8161,SUV,5.0,15,22.0,18,3,No
+CADILLAC SRX,2.8,6,SemiAuto-6,4,Gasoline,CA,BGMXT02.8161,SUV,5.0,15,22.0,18,3,No
+CADILLAC STS,3.6,6,SemiAuto-6,4,Gasoline,FA,BGMXV03.6053,midsize car,5.0,18,27.0,21,4,No
+CADILLAC STS,3.6,6,SemiAuto-6,2,Gasoline,FA,BGMXV03.6053,midsize car,5.0,18,27.0,21,4,No
+CADILLAC STS,3.6,6,SemiAuto-6,4,Gasoline,CA,BGMXV03.6053,midsize car,5.0,18,27.0,21,4,No
+CADILLAC STS,3.6,6,SemiAuto-6,2,Gasoline,CA,BGMXV03.6053,midsize car,5.0,18,27.0,21,4,No
+CHEVROLET Aveo,1.6,4,Auto-4,2,Gasoline,FC,BGDXV01.6004,small car,6.0,25,34.0,28,7,Yes
+CHEVROLET Aveo,1.6,4,Man-5,2,Gasoline,FC,BGDXV01.6004,small car,6.0,27,35.0,30,7,Yes
+CHEVROLET Aveo 5,1.6,4,Auto-4,2,Gasoline,FC,BGDXV01.6004,small car,6.0,25,34.0,28,7,Yes
+CHEVROLET Aveo 5,1.6,4,Man-5,2,Gasoline,FC,BGDXV01.6004,small car,6.0,27,35.0,30,7,Yes
+CHEVROLET Camaro,3.6,6,Man-6,2,Gasoline,CA,BGMXJ03.6151,small car,6.0,17,28.0,20,4,No
+CHEVROLET Camaro,3.6,6,SemiAuto-6,2,Gasoline,CA,BGMXJ03.6151,small car,6.0,18,29.0,22,5,No
+CHEVROLET Camaro,6.2,8,Man-6,2,Gasoline,FC,BGMXV06.2089,small car,6.0,16,24.0,19,3,No
+CHEVROLET Camaro,6.2,8,SemiAuto-6,2,Gasoline,FC,BGMXV06.2089,small car,6.0,16,25.0,19,3,No
+CHEVROLET Camaro,3.6,6,Man-6,2,Gasoline,FA,BGMXJ03.6151,small car,5.0,17,28.0,20,4,No
+CHEVROLET Camaro,3.6,6,SemiAuto-6,2,Gasoline,FA,BGMXJ03.6151,small car,5.0,18,29.0,22,5,No
+CHEVROLET Colorado,2.9,4,Auto-4,2,Gasoline,FC,BGMXT02.9190,pickup,6.0,18,25.0,21,4,No
+CHEVROLET Colorado,2.9,4,Man-5,2,Gasoline,FC,BGMXT02.9190,pickup,6.0,18,25.0,21,4,No
+CHEVROLET Colorado,2.9,4,Auto-4,4,Gasoline,FC,BGMXT02.9190,pickup,6.0,17,23.0,20,4,No
+CHEVROLET Colorado,2.9,4,Man-5,4,Gasoline,FC,BGMXT02.9190,pickup,6.0,18,24.0,20,4,No
+CHEVROLET Colorado,3.7,5,Auto-4,2,Gasoline,FC,BGMXT03.7188,pickup,6.0,15,20.0,17,2,No
+CHEVROLET Colorado,3.7,5,Auto-4,2,Gasoline,FC,BGMXT03.7188,pickup,6.0,17,23.0,19,3,No
+CHEVROLET Colorado,3.7,5,Auto-4,4,Gasoline,FC,BGMXT03.7188,pickup,6.0,16,21.0,18,3,No
+CHEVROLET Colorado,3.7,5,Auto-4,4,Gasoline,FC,BGMXT03.7188,pickup,6.0,17,23.0,19,3,No
+CHEVROLET Colorado,5.3,8,Auto-4,2,Gasoline,FC,BGMXT05.3377,pickup,6.0,14,20.0,16,1,No
+CHEVROLET Colorado,5.3,8,Auto-4,4,Gasoline,FC,BGMXT05.3377,pickup,6.0,14,19.0,16,1,No
+CHEVROLET Corvette,6.2,8,SemiAuto-6,2,Gasoline,FC,BGMXV06.2086,small car,6.0,15,25.0,18,3,No
+CHEVROLET Corvette,6.2,8,Man-6,2,Gasoline,FC,BGMXV06.2086,small car,6.0,16,26.0,19,3,No
+CHEVROLET Corvette,6.2,8,Man-6,2,Gasoline,FA,BGMXV07.0085,small car,5.0,14,20.0,16,1,No
+CHEVROLET Corvette,6.2,8,Man-6,2,Gasoline,CA,BGMXV07.0085,small car,5.0,14,20.0,16,1,No
+CHEVROLET Corvette,7.0,8,Man-6,2,Gasoline,FA,BGMXV07.0085,small car,5.0,15,24.0,18,3,No
+CHEVROLET Corvette,7.0,8,Man-6,2,Gasoline,CA,BGMXV07.0085,small car,5.0,15,24.0,18,3,No
+CHEVROLET Cruze,1.4,4,SemiAuto-6,2,Gasoline,FC,BGMXV01.8011,midsize car,6.0,24,36.0,28,7,Yes
+CHEVROLET Cruze,1.8,4,SemiAuto-6,2,Gasoline,FC,BGMXV01.8011,midsize car,6.0,22,35.0,27,6,Yes
+CHEVROLET Cruze,1.8,4,Man-6,2,Gasoline,FC,BGMXV01.8011,midsize car,6.0,26,36.0,30,7,Yes
+CHEVROLET Cruze Eco,1.4,4,SemiAuto-6,2,Gasoline,FC,BGMXV01.8011,midsize car,6.0,26,37.0,30,7,Yes
+CHEVROLET Cruze Eco,1.4,4,Man-6,2,Gasoline,FC,BGMXV01.8011,midsize car,6.0,28,42.0,33,8,Yes
+CHEVROLET Equinox,2.4,4,Auto-6,2,Gasoline,FC,BGMXJ02.4151,SUV,6.0,22,32.0,26,6,Yes
+CHEVROLET Equinox,2.4,4,Auto-6,4,Gasoline,FC,BGMXJ02.4151,SUV,6.0,20,29.0,23,5,No
+CHEVROLET Equinox,3.0,6,Auto-6,2,Gasoline,FC,BGMXJ03.0157,SUV,6.0,17,24.0,19,3,No
+CHEVROLET Equinox,3.0,6,Auto-6,4,Gasoline,FC,BGMXJ03.0157,SUV,6.0,16,22.0,19,3,No
+CHEVROLET Express 1500,4.3,6,Auto-4,2,Gasoline,FA,BGMXT04.3186,van,5.0,15,20.0,17,2,No
+CHEVROLET Express 1500,4.3,6,Auto-4,2,Gasoline,CA,BGMXT04.3186,van,5.0,15,20.0,17,2,No
+CHEVROLET Malibu,2.4,4,SemiAuto-6,2,Gasoline,CA,BGMXV02.4026,midsize car,9.0,22,33.0,26,6,Yes
+CHEVROLET Malibu,2.4,4,SemiAuto-6,2,Gasoline,FA,BGMXV02.4026,midsize car,6.0,22,33.0,26,6,Yes
+CHEVROLET Malibu,2.4,4,SemiAuto-6,2,Gasoline,FA,BGMXV02.4027,midsize car,5.0,22,33.0,26,6,No
+CHEVROLET Malibu,2.4,4,SemiAuto-6,2,Gasoline,CA,BGMXV02.4027,midsize car,5.0,22,33.0,26,6,No
+CHEVROLET Malibu,3.6,6,SemiAuto-6,2,Gasoline,FA,BGMXV03.6142,midsize car,5.0,17,26.0,20,4,No
+CHEVROLET Malibu,3.6,6,SemiAuto-6,2,Gasoline,CA,BGMXV03.6142,midsize car,5.0,17,26.0,20,4,No
+CHEVROLET Silverado 15,4.3,6,Auto-4,2,Gasoline,FA,BGMXT04.3186,pickup,5.0,15,20.0,17,2,No
+CHEVROLET Silverado 15,4.3,6,Auto-4,4,Gasoline,FA,BGMXT04.3186,pickup,5.0,14,18.0,15,1,No
+CHEVROLET Silverado 15,4.3,6,Auto-4,2,Gasoline,CA,BGMXT04.3186,pickup,5.0,15,20.0,17,2,No
+CHEVROLET Silverado 15,4.3,6,Auto-4,4,Gasoline,CA,BGMXT04.3186,pickup,5.0,14,18.0,15,1,No
+CHEVROLET Silverado 15 Hybrid,6.0,8,CVT,2,Gasoline,FA,BGMXT06.0371,pickup,5.0,20,23.0,21,4,No
+CHEVROLET Silverado 15 Hybrid,6.0,8,CVT,4,Gasoline,FA,BGMXT06.0371,pickup,5.0,20,23.0,21,4,No
+CHEVROLET Suburban 2500,6.0,8,Auto-6,2,Gasoline,FC,BGMXT06.0395,SUV,5.0,10,16.0,12,1,No
+CHEVROLET Suburban 2500,6.0,8,Auto-6,4,Gasoline,FC,BGMXT06.0395,SUV,5.0,10,15.0,12,1,No
+CHEVROLET Tahoe 1500 Hybrid,6.0,8,CVT,2,Gasoline,FA,BGMXT06.0371,SUV,5.0,20,23.0,21,4,No
+CHEVROLET Tahoe 1500 Hybrid,6.0,8,CVT,4,Gasoline,FA,BGMXT06.0371,SUV,5.0,20,23.0,21,4,No
+CHEVROLET Traverse,3.6,6,Auto-6,2,Gasoline,CA,BGMXJ03.6151,SUV,6.0,17,24.0,19,3,No
+CHEVROLET Traverse,3.6,6,Auto-6,4,Gasoline,CA,BGMXJ03.6151,SUV,6.0,16,23.0,19,3,No
+CHEVROLET Traverse,3.6,6,Auto-6,2,Gasoline,FA,BGMXJ03.6151,SUV,5.0,17,24.0,19,3,No
+CHEVROLET Traverse,3.6,6,Auto-6,4,Gasoline,FA,BGMXJ03.6151,SUV,5.0,16,23.0,19,3,No
+CHRYSLER 200,2.4,4,Auto-6,2,Gasoline,CA,BCRXV02.4FR0,midsize car,9.0,20,31.0,24,5,No
+CHRYSLER 200,2.4,4,Auto-4,2,Gasoline,CA,BCRXV02.4FR0,midsize car,9.0,21,30.0,24,5,No
+CHRYSLER 200,2.4,4,Auto-6,2,Gasoline,FC,BCRXJ02.4VP1,midsize car,6.0,20,31.0,24,5,No
+CHRYSLER 200,2.4,4,Auto-4,2,Gasoline,FC,BCRXJ02.4VP1,midsize car,6.0,21,30.0,24,5,No
+CHRYSLER 200 Convertible,2.4,4,Auto-6,2,Gasoline,FC,BCRXJ02.4VP1,small car,6.0,18,29.0,22,5,No
+CHRYSLER 200 Convertible,2.4,4,Auto-4,2,Gasoline,FC,BCRXJ02.4VP1,small car,6.0,20,29.0,23,5,No
+CHRYSLER 300,3.6,6,Auto-5,2,Gasoline,FC,BCRXV03.6VP0,large car,6.0,18,27.0,21,4,No
+CHRYSLER 300,5.7,8,Auto-5,4,Gasoline,FC,BCRXV05.7UP0,large car,6.0,15,23.0,18,3,No
+CHRYSLER 300,5.7,8,Auto-5,2,Gasoline,FC,BCRXV05.7UP0,large car,6.0,16,25.0,19,3,No
+CHRYSLER Town & Country,3.6,6,Auto-6,2,Gasoline,FC,BCRXJ03.6UP0,minivan,6.0,17,25.0,20,4,No
+DODGE Avenger,2.4,4,Auto-6,2,Gasoline,CA,BCRXV02.4FR0,midsize car,9.0,20,31.0,24,5,No
+DODGE Avenger,2.4,4,Auto-4,2,Gasoline,CA,BCRXV02.4FR0,midsize car,9.0,21,30.0,24,5,No
+DODGE Avenger,2.4,4,Auto-6,2,Gasoline,FC,BCRXJ02.4VP1,midsize car,6.0,20,31.0,24,5,No
+DODGE Avenger,2.4,4,Auto-4,2,Gasoline,FC,BCRXJ02.4VP1,midsize car,6.0,21,30.0,24,5,No
+DODGE Caliber,2.0,4,CVT,2,Gasoline,FC,BCRXJ02.4VP1,station wagon,6.0,23,27.0,24,5,No
+DODGE Caliber,2.4,4,CVT,2,Gasoline,FC,BCRXJ02.4VP1,station wagon,6.0,22,27.0,24,5,No
+DODGE Caliber,2.0,4,Man-5,2,Gasoline,FA,BCRXJ02.44P1,station wagon,5.0,24,32.0,27,6,No
+DODGE Caliber,2.0,4,Man-5,2,Gasoline,CA,BCRXJ02.44P1,station wagon,5.0,24,32.0,27,6,No
+DODGE Caliber,2.4,4,Man-5,2,Gasoline,FA,BCRXJ02.44P1,station wagon,5.0,23,29.0,25,6,No
+DODGE Caliber,2.4,4,Man-5,2,Gasoline,CA,BCRXJ02.44P1,station wagon,5.0,23,29.0,25,6,No
+DODGE Challenger,5.7,8,Auto-5,2,Gasoline,FC,BCRXV05.7UP0,small car,6.0,16,25.0,19,3,No
+DODGE Challenger,5.7,8,Man-6,2,Gasoline,FA,BCRXV06.41P0,small car,5.0,15,24.0,18,3,No
+DODGE Challenger,5.7,8,Man-6,2,Gasoline,CA,BCRXV06.41P0,small car,5.0,15,24.0,18,3,No
+DODGE Challenger SRT8,6.4,8,Auto-5,2,Gasoline,FA,BCRXV06.41P0,small car,5.0,14,22.0,16,1,No
+DODGE Challenger SRT8,6.4,8,Man-6,2,Gasoline,FA,BCRXV06.41P0,small car,5.0,14,23.0,17,2,No
+DODGE Challenger SRT8,6.4,8,Auto-5,2,Gasoline,CA,BCRXV06.41P0,small car,5.0,14,22.0,16,1,No
+DODGE Challenger SRT8,6.4,8,Man-6,2,Gasoline,CA,BCRXV06.41P0,small car,5.0,14,23.0,17,2,No
+DODGE Charger,3.6,6,Auto-5,2,Gasoline,FC,BCRXV03.6VP0,large car,6.0,18,27.0,21,4,No
+DODGE Charger,5.7,8,Auto-5,4,Gasoline,FC,BCRXV05.7UP0,large car,6.0,15,23.0,18,3,No
+DODGE Charger,5.7,8,Auto-5,2,Gasoline,FC,BCRXV05.7UP0,large car,6.0,16,25.0,19,3,No
+DODGE Dakota,3.7,6,Auto-4,2,Gasoline,FC,BCRXT03.7VP0,pickup,6.0,15,20.0,17,2,No
+DODGE Dakota,3.7,6,Auto-4,4,Gasoline,FC,BCRXT03.7VP0,pickup,6.0,14,18.0,15,1,No
+DODGE Durango,3.6,6,Auto-5,2,Gasoline,FC,BCRXT03.6UP0,SUV,6.0,16,23.0,19,3,No
+DODGE Durango,3.6,6,Auto-5,4,Gasoline,FC,BCRXT03.6UP0,SUV,6.0,16,22.0,18,3,No
+DODGE Durango,5.7,8,Auto-5,2,Gasoline,FA,BCRXT05.7VP0,SUV,6.0,14,20.0,16,1,No
+DODGE Durango,5.7,8,Auto-5,4,Gasoline,FA,BCRXT05.7VP0,SUV,6.0,13,20.0,15,1,No
+DODGE Durango,5.7,8,Auto-5,2,Gasoline,CA,BCRXT05.7VP0,SUV,6.0,14,20.0,16,1,No
+DODGE Durango,5.7,8,Auto-5,4,Gasoline,CA,BCRXT05.7VP0,SUV,6.0,13,20.0,15,1,No
+DODGE Durango,5.7,8,Auto-5,2,Gasoline,FA,BCRXT05.7RN0,SUV,5.0,14,20.0,16,1,No
+DODGE Durango,5.7,8,Auto-5,4,Gasoline,FA,BCRXT05.7RN0,SUV,5.0,13,20.0,15,1,No
+DODGE Grand Caravan,3.6,6,Auto-6,2,Gasoline,FC,BCRXJ03.6UP0,minivan,6.0,17,25.0,20,4,No
+DODGE Journey,2.4,4,Auto-4,2,Gasoline,FC,BCRXJ02.4VP1,SUV,6.0,19,26.0,22,5,No
+DODGE Journey,3.6,6,Auto-6,2,Gasoline,FC,BCRXJ03.6UP0,SUV,6.0,17,25.0,20,4,No
+DODGE Journey,3.6,6,Auto-6,4,Gasoline,FC,BCRXJ03.6UP0,SUV,6.0,16,24.0,19,3,No
+DODGE Nitro,3.7,6,Auto-4,2,Gasoline,FC,BCRXT03.7VP0,SUV,6.0,16,22.0,18,3,No
+DODGE Nitro,3.7,6,Auto-4,4,Gasoline,FC,BCRXT03.7VP0,SUV,6.0,15,21.0,17,2,No
+DODGE Nitro,4.0,6,Auto-5,2,Gasoline,FA,BCRXT04.04P0,SUV,5.0,16,21.0,18,3,No
+DODGE Nitro,4.0,6,Auto-5,4,Gasoline,FA,BCRXT04.04P0,SUV,5.0,16,21.0,17,2,No
+DODGE Nitro,4.0,6,Auto-5,2,Gasoline,CA,BCRXT04.04P0,SUV,5.0,16,21.0,18,3,No
+DODGE Nitro,4.0,6,Auto-5,4,Gasoline,CA,BCRXT04.04P0,SUV,5.0,16,21.0,17,2,No
+DODGE RAM 1500,3.7,6,Auto-4,2,Gasoline,FC,BCRXT03.7VP0,pickup,6.0,14,20.0,16,1,No
+DODGE RAM 1500,5.7,8,Auto-5,2,Gasoline,FA,BCRXT05.7VP0,pickup,6.0,14,20.0,16,1,No
+DODGE RAM 1500,5.7,8,Auto-5,4,Gasoline,FA,BCRXT05.7VP0,pickup,6.0,13,19.0,15,1,No
+DODGE RAM 1500,5.7,8,Auto-5,2,Gasoline,CA,BCRXT05.7VP0,pickup,6.0,14,20.0,16,1,No
+DODGE RAM 1500,5.7,8,Auto-5,4,Gasoline,CA,BCRXT05.7VP0,pickup,6.0,13,19.0,15,1,No
+DODGE RAM 1500,5.7,8,Auto-5,2,Gasoline,FA,BCRXT05.7RN0,pickup,5.0,14,20.0,16,1,No
+DODGE RAM 1500,5.7,8,Auto-5,4,Gasoline,FA,BCRXT05.7RN0,pickup,5.0,13,19.0,15,1,No
+FERRARI 458 Italia,4.5,8,AutoMan-7,2,Gasoline,FA,BFEXV04.3GDI,small car,5.0,12,18.0,14,1,No
+FERRARI 458 Italia,4.5,8,AutoMan-7,2,Gasoline,CA,BFEXV04.3GDI,small car,5.0,12,18.0,14,1,No
+FERRARI 599 GTB Fiorano,5.7,12,AutoMan-6,2,Gasoline,FA,BFEXV05.7LEV,small car,5.0,11,15.0,12,1,No
+FERRARI 599 GTB Fiorano,5.7,12,AutoMan-6,2,Gasoline,CA,BFEXV05.7LEV,small car,5.0,11,15.0,12,1,No
+FORD E350,6.8,10,Auto-5,2,Gasoline,FC,BFMXT06.85HT,van,2.0,10,14.0,12,1,No
+FORD E350,6.8,10,Auto-5,2,Gasoline,FC,BFMXT06.85HT,van,2.0,10,13.0,11,1,No
+FORD Edge,3.5,6,Auto-6,2,Gasoline,CA,BFMXT03.72EE,SUV,6.0,19,26.0,21,4,No
+FORD Edge,3.5,6,SemiAuto-6,2,Gasoline,CA,BFMXT03.72EE,SUV,6.0,19,27.0,22,5,No
+FORD Edge,3.5,6,SemiAuto-6,4,Gasoline,CA,BFMXT03.72EE,SUV,6.0,18,25.0,20,4,No
+FORD Edge,3.5,6,Auto-6,4,Gasoline,CA,BFMXT03.72EE,SUV,6.0,18,26.0,21,4,No
+FORD Edge,3.7,6,SemiAuto-6,2,Gasoline,CA,BFMXT03.72EE,SUV,6.0,18,25.0,20,4,No
+FORD Edge,3.7,6,SemiAuto-6,4,Gasoline,CA,BFMXT03.72EE,SUV,6.0,17,23.0,19,3,No
+FORD Edge,3.5,6,Auto-6,2,Gasoline,FA,BFMXT03.72EE,SUV,5.0,19,26.0,21,4,No
+FORD Edge,3.5,6,SemiAuto-6,2,Gasoline,FA,BFMXT03.72EE,SUV,5.0,19,27.0,22,5,No
+FORD Edge,3.5,6,SemiAuto-6,4,Gasoline,FA,BFMXT03.72EE,SUV,5.0,18,25.0,20,4,No
+FORD Edge,3.5,6,Auto-6,4,Gasoline,FA,BFMXT03.72EE,SUV,5.0,18,26.0,21,4,No
+FORD Edge,3.7,6,SemiAuto-6,2,Gasoline,FA,BFMXT03.72EE,SUV,5.0,18,25.0,20,4,No
+FORD Edge,3.7,6,SemiAuto-6,4,Gasoline,FA,BFMXT03.72EE,SUV,5.0,17,23.0,19,3,No
+FORD Escape,2.5,4,Auto-6,2,Gasoline,CA,BFMXT02.51EN,SUV,6.0,21,28.0,23,5,No
+FORD Escape,2.5,4,Man-5,2,Gasoline,CA,BFMXT02.51EN,SUV,6.0,23,28.0,25,6,Yes
+FORD Escape,2.5,4,Auto-6,4,Gasoline,CA,BFMXT02.51EN,SUV,6.0,20,26.0,22,5,No
+FORD Escape,2.5,4,Auto-6,2,Gasoline,FA,BFMXT02.51EN,SUV,5.0,21,28.0,23,5,No
+FORD Escape,2.5,4,Man-5,2,Gasoline,FA,BFMXT02.51EN,SUV,5.0,23,28.0,25,6,No
+FORD Escape,2.5,4,Auto-6,4,Gasoline,FA,BFMXT02.51EN,SUV,5.0,20,26.0,22,5,No
+FORD Escape Hybrid,2.5,4,CVT,2,Gasoline,CA,BFMXT02.52ZG,SUV,9.0,34,31.0,32,7,Yes
+FORD Escape Hybrid,2.5,4,CVT,4,Gasoline,CA,BFMXT02.52ZG,SUV,9.0,30,27.0,29,7,Yes
+FORD Escape Hybrid,2.5,4,CVT,2,Gasoline,FA,BFMXT02.52ZG,SUV,7.0,34,31.0,32,7,Yes
+FORD Escape Hybrid,2.5,4,CVT,4,Gasoline,FA,BFMXT02.52ZG,SUV,7.0,30,27.0,29,7,Yes
+FORD Explorer,3.5,6,Auto-6,2,Gasoline,CA,BFMXT03.53EZ,SUV,6.0,17,25.0,20,4,No
+FORD Explorer,3.5,6,SemiAuto-6,2,Gasoline,CA,BFMXT03.53EZ,SUV,6.0,17,25.0,20,4,No
+FORD Explorer,3.5,6,Auto-6,4,Gasoline,CA,BFMXT03.53EZ,SUV,6.0,17,23.0,19,3,No
+FORD Explorer,3.5,6,SemiAuto-6,4,Gasoline,CA,BFMXT03.53EZ,SUV,6.0,17,23.0,19,3,No
+FORD Explorer,3.5,6,Auto-6,2,Gasoline,FA,BFMXT03.53EZ,SUV,5.0,17,25.0,20,4,No
+FORD Explorer,3.5,6,SemiAuto-6,2,Gasoline,FA,BFMXT03.53EZ,SUV,5.0,17,25.0,20,4,No
+FORD Explorer,3.5,6,Auto-6,4,Gasoline,FA,BFMXT03.53EZ,SUV,5.0,17,23.0,19,3,No
+FORD Explorer,3.5,6,SemiAuto-6,4,Gasoline,FA,BFMXT03.53EZ,SUV,5.0,17,23.0,19,3,No
+FORD F150,3.5,6,SemiAuto-6,2,Gasoline,FC,BFMXT03.54EP,pickup,6.0,16,22.0,18,3,No
+FORD F150,3.5,6,Auto-6,2,Gasoline,FC,BFMXT03.54EP,pickup,6.0,16,22.0,18,3,No
+FORD F150,3.5,6,SemiAuto-6,4,Gasoline,FC,BFMXT03.54EP,pickup,6.0,15,21.0,17,2,No
+FORD F150,3.5,6,Auto-6,4,Gasoline,FC,BFMXT03.54EP,pickup,6.0,15,21.0,17,2,No
+FORD F150,6.2,8,SemiAuto-6,2,Gasoline,FC,BFMXT06.24D2,pickup,6.0,13,18.0,14,1,No
+FORD F150,6.2,8,SemiAuto-6,4,Gasoline,FC,BFMXT06.24D2,pickup,6.0,12,16.0,13,1,No
+FORD F150 Raptor,6.2,8,SemiAuto-6,4,Gasoline,FC,BFMXT06.24D2,pickup,6.0,11,14.0,12,1,No
+FORD Fiesta,1.6,4,Man-5,2,Gasoline,FC,BFMXV01.6VDB,small car,6.0,28,37.0,32,7,Yes
+FORD Fiesta,1.6,4,AutoMan-6,2,Gasoline,FC,BFMXV01.6VDB,small car,6.0,29,38.0,33,8,Yes
+FORD Fiesta SFE,1.6,4,AutoMan-6,2,Gasoline,FC,BFMXV01.6VDB,small car,6.0,29,40.0,33,8,Yes
+FORD Flex,3.5,6,Auto-6,2,Gasoline,CA,BFMXV03.7VEL,SUV,6.0,17,24.0,19,3,No
+FORD Flex,3.5,6,SemiAuto-6,4,Gasoline,CA,BFMXV03.5VEE,SUV,6.0,16,21.0,18,3,No
+FORD Flex,3.5,6,Auto-6,4,Gasoline,CA,BFMXV03.7VEL,SUV,6.0,16,22.0,18,3,No
+FORD Flex,3.5,6,Auto-6,2,Gasoline,FA,BFMXV03.7VEL,SUV,5.0,17,24.0,19,3,No
+FORD Flex,3.5,6,SemiAuto-6,4,Gasoline,FA,BFMXV03.5VEE,SUV,5.0,16,21.0,18,3,No
+FORD Flex,3.5,6,Auto-6,4,Gasoline,FA,BFMXV03.7VEL,SUV,5.0,16,22.0,18,3,No
+FORD Focus,2.0,4,Auto-4,2,Gasoline,CA,BFMXV02.0VZC,small car,9.0,25,34.0,28,7,Yes
+FORD Focus,2.0,4,Man-5,2,Gasoline,CA,BFMXV02.0VZC,small car,9.0,25,35.0,29,7,Yes
+FORD Focus,2.0,4,Auto-4,2,Gasoline,FA,BFMXV02.0VZC,small car,7.0,25,34.0,28,7,Yes
+FORD Focus,2.0,4,Man-5,2,Gasoline,FA,BFMXV02.0VZC,small car,7.0,25,35.0,29,7,Yes
+FORD Focus,2.0,4,Auto-4,2,Gasoline,FA,BFMXV02.0VEC,small car,5.0,25,34.0,28,7,Yes
+FORD Focus,2.0,4,Man-5,2,Gasoline,FA,BFMXV02.0VEC,small car,5.0,25,35.0,29,7,Yes
+FORD Focus,2.0,4,Auto-4,2,Gasoline,CA,BFMXV02.0VEC,small car,5.0,25,34.0,28,7,Yes
+FORD Focus,2.0,4,Man-5,2,Gasoline,CA,BFMXV02.0VEC,small car,5.0,25,35.0,29,7,Yes
+FORD Fusion,2.5,4,Man-6,2,Gasoline,CA,BFMXV02.5VEN,midsize car,6.0,22,29.0,24,5,No
+FORD Fusion,2.5,4,SemiAuto-6,2,Gasoline,CA,BFMXV02.5VEN,midsize car,6.0,22,30.0,25,6,Yes
+FORD Fusion,2.5,4,Auto-6,2,Gasoline,CA,BFMXV02.5VEN,midsize car,6.0,23,33.0,26,6,Yes
+FORD Fusion,3.5,6,SemiAuto-6,4,Gasoline,CA,BFMXV03.7VEL,midsize car,6.0,17,24.0,19,3,No
+FORD Fusion,3.5,6,SemiAuto-6,2,Gasoline,CA,BFMXV03.7VEL,midsize car,6.0,18,27.0,21,4,No
+FORD Fusion,2.5,4,Man-6,2,Gasoline,FA,BFMXV02.5VEN,midsize car,5.0,22,29.0,24,5,No
+FORD Fusion,2.5,4,SemiAuto-6,2,Gasoline,FA,BFMXV02.5VEN,midsize car,5.0,22,30.0,25,6,No
+FORD Fusion,2.5,4,Auto-6,2,Gasoline,FA,BFMXV02.5VEN,midsize car,5.0,23,33.0,26,6,No
+FORD Fusion,3.5,6,SemiAuto-6,4,Gasoline,FA,BFMXV03.7VEL,midsize car,5.0,17,24.0,19,3,No
+FORD Fusion,3.5,6,SemiAuto-6,2,Gasoline,FA,BFMXV03.7VEL,midsize car,5.0,18,27.0,21,4,No
+FORD Fusion Hybrid,2.5,4,CVT,2,Gasoline,CA,BFMXV02.5VZH,midsize car,9.0,41,36.0,39,9,Yes
+FORD Fusion Hybrid,2.5,4,CVT,2,Gasoline,FA,BFMXV02.5VZH,midsize car,7.0,41,36.0,39,9,Yes
+FORD Fusion S,2.5,4,Man-6,2,Gasoline,CA,BFMXV02.5VEN,midsize car,6.0,22,32.0,25,6,Yes
+FORD Fusion S,2.5,4,Man-6,2,Gasoline,FA,BFMXV02.5VEN,midsize car,5.0,22,32.0,25,6,No
+FORD Mustang,3.7,6,Man-6,2,Gasoline,FC,BFMXV03.7VDT,small car,6.0,19,29.0,22,5,No
+FORD Mustang,3.7,6,Auto-6,2,Gasoline,FC,BFMXV03.7VDT,small car,6.0,19,31.0,23,5,No
+FORD Mustang,5.0,8,Man-6,2,Gasoline,FA,BFMXV05.4VEK,small car,5.0,17,26.0,20,4,No
+FORD Mustang,5.0,8,Auto-6,2,Gasoline,FA,BFMXV05.4VEK,small car,5.0,18,25.0,21,4,No
+FORD Mustang,5.0,8,Man-6,2,Gasoline,CA,BFMXV05.4VEK,small car,5.0,17,26.0,20,4,No
+FORD Mustang,5.0,8,Auto-6,2,Gasoline,CA,BFMXV05.4VEK,small car,5.0,18,25.0,21,4,No
+FORD Mustang,5.4,8,Man-6,2,Gasoline,FA,BFMXV05.4VEK,small car,5.0,15,23.0,17,2,No
+FORD Mustang,5.4,8,Man-6,2,Gasoline,CA,BFMXV05.4VEK,small car,5.0,15,23.0,17,2,No
+FORD Mustang Convertible,3.7,6,Auto-6,2,Gasoline,FC,BFMXV03.7VDT,small car,6.0,19,30.0,23,5,No
+FORD Ranger,2.3,4,Auto-5,2,Gasoline,CA,BFMXT02.31BA,pickup,6.0,19,24.0,21,4,No
+FORD Ranger,2.3,4,Man-5,2,Gasoline,CA,BFMXT02.31BA,pickup,6.0,22,27.0,24,5,No
+FORD Ranger,2.3,4,Auto-5,2,Gasoline,FA,BFMXT02.31EL,pickup,5.0,19,24.0,21,4,No
+FORD Ranger,2.3,4,Man-5,2,Gasoline,FA,BFMXT02.31EL,pickup,5.0,22,27.0,24,5,No
+FORD Ranger,4.0,6,Auto-5,2,Gasoline,FA,BFMXT04.02EG,pickup,5.0,15,20.0,17,2,No
+FORD Ranger,4.0,6,Man-5,2,Gasoline,FA,BFMXT04.02EG,pickup,5.0,16,21.0,18,3,No
+FORD Ranger,4.0,6,Auto-5,4,Gasoline,FA,BFMXT04.02EG,pickup,5.0,14,18.0,16,1,No
+FORD Ranger,4.0,6,Man-5,4,Gasoline,FA,BFMXT04.02EG,pickup,5.0,15,19.0,17,2,No
+FORD Ranger,4.0,6,Auto-5,2,Gasoline,CA,BFMXT04.02EG,pickup,5.0,15,20.0,17,2,No
+FORD Ranger,4.0,6,Man-5,2,Gasoline,CA,BFMXT04.02EG,pickup,5.0,16,21.0,18,3,No
+FORD Ranger,4.0,6,Auto-5,4,Gasoline,CA,BFMXT04.02EG,pickup,5.0,14,18.0,16,1,No
+FORD Ranger,4.0,6,Man-5,4,Gasoline,CA,BFMXT04.02EG,pickup,5.0,15,19.0,17,2,No
+FORD Taurus,3.5,6,SemiAuto-6,4,Gasoline,CA,BFMXV03.5VEE,large car,6.0,17,25.0,20,4,No
+FORD Taurus,3.5,6,Auto-6,4,Gasoline,CA,BFMXV03.7VEL,large car,6.0,17,25.0,20,4,No
+FORD Taurus,3.5,6,SemiAuto-6,2,Gasoline,CA,BFMXV03.7VEL,large car,6.0,18,27.0,21,4,No
+FORD Taurus,3.5,6,SemiAuto-6,4,Gasoline,FA,BFMXV03.5VEE,large car,5.0,17,25.0,20,4,No
+FORD Taurus,3.5,6,Auto-6,4,Gasoline,FA,BFMXV03.7VEL,large car,5.0,17,25.0,20,4,No
+FORD Taurus,3.5,6,SemiAuto-6,2,Gasoline,FA,BFMXV03.7VEL,large car,5.0,18,27.0,21,4,No
+FORD Transit Connect,2.0,4,Auto-4,2,Gasoline,FC,BFMXT02.01DV,special purpose,6.0,21,26.0,23,5,No
+GMC Acadia,3.6,6,Auto-6,2,Gasoline,CA,BGMXJ03.6151,SUV,6.0,17,24.0,19,3,No
+GMC Acadia,3.6,6,Auto-6,4,Gasoline,CA,BGMXJ03.6151,SUV,6.0,16,23.0,19,3,No
+GMC Acadia,3.6,6,Auto-6,2,Gasoline,FA,BGMXJ03.6151,SUV,5.0,17,24.0,19,3,No
+GMC Acadia,3.6,6,Auto-6,4,Gasoline,FA,BGMXJ03.6151,SUV,5.0,16,23.0,19,3,No
+GMC Canyon,2.9,4,Auto-4,2,Gasoline,FC,BGMXT02.9190,pickup,6.0,18,25.0,21,4,No
+GMC Canyon,2.9,4,Man-5,2,Gasoline,FC,BGMXT02.9190,pickup,6.0,18,25.0,21,4,No
+GMC Canyon,2.9,4,Auto-4,4,Gasoline,FC,BGMXT02.9190,pickup,6.0,17,23.0,20,4,No
+GMC Canyon,2.9,4,Man-5,4,Gasoline,FC,BGMXT02.9190,pickup,6.0,18,24.0,20,4,No
+GMC Canyon,3.7,5,Auto-4,2,Gasoline,FC,BGMXT03.7188,pickup,6.0,15,20.0,17,2,No
+GMC Canyon,3.7,5,Auto-4,2,Gasoline,FC,BGMXT03.7188,pickup,6.0,17,23.0,19,3,No
+GMC Canyon,3.7,5,Auto-4,4,Gasoline,FC,BGMXT03.7188,pickup,6.0,16,21.0,18,3,No
+GMC Canyon,3.7,5,Auto-4,4,Gasoline,FC,BGMXT03.7188,pickup,6.0,17,23.0,19,3,No
+GMC Canyon,5.3,8,Auto-4,2,Gasoline,FC,BGMXT05.3377,pickup,6.0,14,20.0,16,1,No
+GMC Canyon,5.3,8,Auto-4,4,Gasoline,FC,BGMXT05.3377,pickup,6.0,14,19.0,16,1,No
+GMC Savana 1500,4.3,6,Auto-4,2,Gasoline,FA,BGMXT04.3186,van,5.0,15,20.0,17,2,No
+GMC Savana 1500,4.3,6,Auto-4,2,Gasoline,CA,BGMXT04.3186,van,5.0,15,20.0,17,2,No
+GMC Sierra 15,4.3,6,Auto-4,2,Gasoline,FA,BGMXT04.3186,pickup,5.0,15,20.0,17,2,No
+GMC Sierra 15,4.3,6,Auto-4,4,Gasoline,FA,BGMXT04.3186,pickup,5.0,14,18.0,15,1,No
+GMC Sierra 15,4.3,6,Auto-4,2,Gasoline,CA,BGMXT04.3186,pickup,5.0,15,20.0,17,2,No
+GMC Sierra 15,4.3,6,Auto-4,4,Gasoline,CA,BGMXT04.3186,pickup,5.0,14,18.0,15,1,No
+GMC Sierra 15 Hybrid,6.0,8,CVT,2,Gasoline,FA,BGMXT06.0371,pickup,5.0,20,23.0,21,4,No
+GMC Sierra 15 Hybrid,6.0,8,CVT,4,Gasoline,FA,BGMXT06.0371,pickup,5.0,20,23.0,21,4,No
+GMC Terrain,2.4,4,Auto-6,2,Gasoline,FC,BGMXJ02.4151,SUV,6.0,22,32.0,26,6,Yes
+GMC Terrain,2.4,4,Auto-6,4,Gasoline,FC,BGMXJ02.4151,SUV,6.0,20,29.0,23,5,No
+GMC Terrain,3.0,6,Auto-6,2,Gasoline,FC,BGMXJ03.0157,SUV,6.0,17,24.0,19,3,No
+GMC Terrain,3.0,6,Auto-6,4,Gasoline,FC,BGMXJ03.0157,SUV,6.0,16,22.0,19,3,No
+GMC Yukon 1500 Hybrid,6.0,8,CVT,4,Gasoline,FA,BGMXT06.0371,SUV,5.0,20,23.0,21,4,No
+GMC Yukon 2500 XL,6.0,8,Auto-6,2,Gasoline,FC,BGMXT06.0395,SUV,5.0,10,16.0,12,1,No
+GMC Yukon Denali 1500 Hybrid,6.0,8,CVT,4,Gasoline,FA,BGMXT06.0371,SUV,5.0,20,23.0,21,4,No
+GMC Yukon XL 2500,6.0,8,Auto-6,4,Gasoline,FC,BGMXT06.0395,SUV,5.0,10,15.0,12,1,No
+GMC Yukun 1500,6.0,8,CVT,2,Gasoline,FA,BGMXT06.0371,SUV,5.0,20,23.0,21,4,No
+HONDA Accord Coupe,2.4,4,Auto-5,2,Gasoline,CA,BHNXV02.4RC3,small car,9.0,22,33.0,26,6,Yes
+HONDA Accord Coupe,2.4,4,Auto-5,2,Gasoline,FA,BHNXV02.4RC3,small car,8.0,22,33.0,26,6,Yes
+HONDA Accord Coupe,2.4,4,Auto-5,2,Gasoline,CA,BHNXV02.4CB3,small car,6.0,22,33.0,26,6,Yes
+HONDA Accord Coupe,2.4,4,Man-5,2,Gasoline,CA,BHNXV02.4CB3,small car,6.0,23,32.0,26,6,Yes
+HONDA Accord Coupe,3.5,6,Man-6,2,Gasoline,CA,BHNXV03.5EB9,small car,6.0,17,26.0,21,4,No
+HONDA Accord Coupe,3.5,6,SemiAuto-5,2,Gasoline,CA,BHNXV03.5EB9,small car,6.0,19,29.0,23,5,No
+HONDA Accord Coupe,2.4,4,Auto-5,2,Gasoline,FA,BHNXV02.4CB3,small car,5.0,22,33.0,26,6,No
+HONDA Accord Coupe,2.4,4,Man-5,2,Gasoline,FA,BHNXV02.4CB3,small car,5.0,23,32.0,26,6,No
+HONDA Accord Coupe,3.5,6,Man-6,2,Gasoline,FA,BHNXV03.5EB9,small car,5.0,17,26.0,21,4,No
+HONDA Accord Coupe,3.5,6,SemiAuto-5,2,Gasoline,FA,BHNXV03.5EB9,small car,5.0,19,29.0,23,5,No
+HONDA Accord Crosstour,3.5,6,Auto-5,2,Gasoline,CA,BHNXV03.5JB3,SUV,6.0,18,27.0,21,4,No
+HONDA Accord Crosstour,3.5,6,Auto-5,4,Gasoline,CA,BHNXV03.5JB3,SUV,6.0,18,26.0,21,4,No
+HONDA Accord Crosstour,3.5,6,Auto-5,2,Gasoline,FA,BHNXV03.5JB3,SUV,5.0,18,27.0,21,4,No
+HONDA Accord Crosstour,3.5,6,Auto-5,4,Gasoline,FA,BHNXV03.5JB3,SUV,5.0,18,26.0,21,4,No
+HONDA Accord Sedan,2.4,4,Auto-5,2,Gasoline,CA,BHNXV02.4RC3,large car,9.0,23,34.0,27,6,Yes
+HONDA Accord Sedan,2.4,4,Auto-5,2,Gasoline,FA,BHNXV02.4RC3,large car,8.0,23,34.0,27,6,Yes
+HONDA Accord Sedan,2.4,4,Man-5,2,Gasoline,CA,BHNXV02.4CB3,large car,6.0,23,33.0,27,6,Yes
+HONDA Accord Sedan,2.4,4,Auto-5,2,Gasoline,CA,BHNXV02.4CB3,large car,6.0,23,34.0,27,6,Yes
+HONDA Accord Sedan,3.5,6,Auto-5,2,Gasoline,CA,BHNXV03.5EB9,large car,6.0,20,30.0,24,5,No
+HONDA Accord Sedan,2.4,4,Man-5,2,Gasoline,FA,BHNXV02.4CB3,large car,5.0,23,33.0,27,6,No
+HONDA Accord Sedan,2.4,4,Auto-5,2,Gasoline,FA,BHNXV02.4CB3,large car,5.0,23,34.0,27,6,No
+HONDA Accord Sedan,3.5,6,Auto-5,2,Gasoline,FA,BHNXV03.5EB9,large car,5.0,20,30.0,24,5,No
+HONDA Civic,1.8,4,Auto-5,2,CNG,CA,BHNXV01.8BDT,small car,9.0,24,36.0,28,8,Yes
+HONDA Civic,1.8,4,Auto-5,2,CNG,FA,BHNXV01.8BDT,small car,8.0,24,36.0,28,8,Yes
+HONDA Civic,1.8,4,Auto-5,2,Gasoline,CA,BHNXV01.8HB9,small car,6.0,25,36.0,29,7,Yes
+HONDA Civic,1.8,4,Man-5,2,Gasoline,CA,BHNXV01.8HB9,small car,6.0,26,34.0,29,7,Yes
+HONDA Civic,1.8,4,Auto-5,2,Gasoline,FA,BHNXV01.8HB9,small car,5.0,25,36.0,29,7,Yes
+HONDA Civic,1.8,4,Man-5,2,Gasoline,FA,BHNXV01.8HB9,small car,5.0,26,34.0,29,7,Yes
+HONDA Civic,2.0,4,Man-6,2,Gasoline,FA,BHNXV02.0TA9,small car,5.0,21,29.0,24,5,No
+HONDA Civic,2.0,4,Man-6,2,Gasoline,CA,BHNXV02.0TA9,small car,5.0,21,29.0,24,5,No
+HONDA Civic Hybrid,1.3,4,CVT,2,Gasoline,CA,BHNXV01.33DH,small car,9.0,40,43.0,41,9,Yes
+HONDA Civic Hybrid,1.3,4,CVT,2,Gasoline,FA,BHNXV01.33DH,small car,8.0,40,43.0,41,9,Yes
+HONDA CR-V,2.4,4,Auto-5,2,Gasoline,CA,BHNXT02.4VJ3,SUV,6.0,21,28.0,24,5,No
+HONDA CR-V,2.4,4,Auto-5,4,Gasoline,CA,BHNXT02.4VJ3,SUV,6.0,21,27.0,23,5,No
+HONDA CR-V,2.4,4,Auto-5,2,Gasoline,FA,BHNXT02.4VJ3,SUV,5.0,21,28.0,24,5,No
+HONDA CR-V,2.4,4,Auto-5,4,Gasoline,FA,BHNXT02.4VJ3,SUV,5.0,21,27.0,23,5,No
+HONDA CR-Z,1.5,4,Man-6,2,Gasoline,CA,BHNXV01.51D3,small car,9.0,31,37.0,34,8,Yes
+HONDA CR-Z,1.5,4,Other-1,2,Gasoline,CA,BHNXV01.51D3,small car,9.0,35,39.0,37,8,Yes
+HONDA CR-Z,1.5,4,Man-6,2,Gasoline,FA,BHNXV01.51D3,small car,8.0,31,37.0,34,8,Yes
+HONDA CR-Z,1.5,4,Other-1,2,Gasoline,FA,BHNXV01.51D3,small car,8.0,35,39.0,37,8,Yes
+HONDA Element,2.4,4,Auto-5,2,Gasoline,FA,BHNXV02.4WA9,SUV,5.0,20,25.0,22,5,No
+HONDA Element,2.4,4,Man-5,4,Gasoline,FA,BHNXV02.4WA9,SUV,5.0,18,23.0,20,4,No
+HONDA Element,2.4,4,Auto-5,4,Gasoline,FA,BHNXV02.4WA9,SUV,5.0,19,24.0,21,4,No
+HONDA Element,2.4,4,Auto-5,2,Gasoline,CA,BHNXV02.4WA9,SUV,5.0,20,25.0,22,5,No
+HONDA Element,2.4,4,Man-5,4,Gasoline,CA,BHNXV02.4WA9,SUV,5.0,18,23.0,20,4,No
+HONDA Element,2.4,4,Auto-5,4,Gasoline,CA,BHNXV02.4WA9,SUV,5.0,19,24.0,21,4,No
+HONDA Fit,1.5,4,Man-5,2,Gasoline,CA,BHNXV01.5KB2,station wagon,6.0,27,33.0,29,7,Yes
+HONDA Fit,1.5,4,SemiAuto-5,2,Gasoline,CA,BHNXV01.5KB2,station wagon,6.0,27,33.0,30,7,Yes
+HONDA Fit,1.5,4,Auto-5,2,Gasoline,CA,BHNXV01.5KB2,station wagon,6.0,28,35.0,31,7,Yes
+HONDA Fit,1.5,4,Man-5,2,Gasoline,FA,BHNXV01.5KB2,station wagon,5.0,27,33.0,29,7,Yes
+HONDA Fit,1.5,4,SemiAuto-5,2,Gasoline,FA,BHNXV01.5KB2,station wagon,5.0,27,33.0,30,7,Yes
+HONDA Fit,1.5,4,Auto-5,2,Gasoline,FA,BHNXV01.5KB2,station wagon,5.0,28,35.0,31,7,Yes
+HONDA Insight,1.3,4,Other-1,2,Gasoline,CA,BHNXV01.51D3,small car,9.0,40,43.0,41,9,Yes
+HONDA Insight,1.3,4,CVT,2,Gasoline,CA,BHNXV01.51D3,small car,9.0,40,43.0,41,9,Yes
+HONDA Insight,1.3,4,Other-1,2,Gasoline,FA,BHNXV01.51D3,small car,8.0,40,43.0,41,9,Yes
+HONDA Insight,1.3,4,CVT,2,Gasoline,FA,BHNXV01.51D3,small car,8.0,40,43.0,41,9,Yes
+HONDA Insight,1.3,4,Other-1,2,Gasoline,FC,BHNXV01.3YF2,small car,7.0,40,43.0,41,9,Yes
+HONDA Insight,1.3,4,CVT,2,Gasoline,FC,BHNXV01.3YF2,small car,7.0,40,43.0,41,9,Yes
+HONDA Odyssey,3.5,6,Auto-5,2,Gasoline,CA,BHNXT03.5F13,minivan,6.0,18,27.0,21,4,No
+HONDA Odyssey,3.5,6,Auto-6,2,Gasoline,CA,BHNXT03.5F13,minivan,6.0,19,28.0,22,5,No
+HONDA Odyssey,3.5,6,Auto-5,2,Gasoline,FA,BHNXT03.5F13,minivan,5.0,18,27.0,21,4,No
+HONDA Odyssey,3.5,6,Auto-6,2,Gasoline,FA,BHNXT03.5F13,minivan,5.0,19,28.0,22,5,No
+HONDA Pilot,3.5,6,Auto-5,2,Gasoline,CA,BHNXT03.7M19,SUV,6.0,17,23.0,19,3,No
+HONDA Pilot,3.5,6,Auto-5,4,Gasoline,CA,BHNXT03.7M19,SUV,6.0,16,22.0,18,3,No
+HONDA Pilot,3.5,6,Auto-5,2,Gasoline,FA,BHNXT03.7M19,SUV,5.0,17,23.0,19,3,No
+HONDA Pilot,3.5,6,Auto-5,4,Gasoline,FA,BHNXT03.7M19,SUV,5.0,16,22.0,18,3,No
+HONDA Ridgeline,3.5,6,Auto-5,4,Gasoline,CA,BHNXT03.5N69,pickup,6.0,15,20.0,17,2,No
+HONDA Ridgeline,3.5,6,Auto-5,4,Gasoline,FA,BHNXT03.5N69,pickup,5.0,15,20.0,17,2,No
+HYUNDAI Accent,1.6,4,Auto-4,2,Gasoline,CA,BHYXV01.6MW5,small car,6.0,27,36.0,30,7,Yes
+HYUNDAI Accent,1.6,4,Man-5,2,Gasoline,CA,BHYXV01.6MW5,small car,6.0,28,34.0,30,7,Yes
+HYUNDAI Accent,1.6,4,Auto-4,2,Gasoline,FA,BHYXV01.6MW5,small car,5.0,27,36.0,30,7,Yes
+HYUNDAI Accent,1.6,4,Man-5,2,Gasoline,FA,BHYXV01.6MW5,small car,5.0,28,34.0,30,7,Yes
+HYUNDAI Accent Blue,1.6,4,Man-5,2,Gasoline,CA,BHYXV01.6MW5,small car,6.0,26,36.0,30,7,Yes
+HYUNDAI Accent Blue,1.6,4,Man-5,2,Gasoline,FA,BHYXV01.6MW5,small car,5.0,26,36.0,30,7,Yes
+HYUNDAI Azera,3.3,6,Auto-6,2,Gasoline,CA,BHYXV03.3TW5,large car,6.0,20,28.0,23,5,No
+HYUNDAI Azera,3.8,6,Auto-6,2,Gasoline,CA,BHYXV03.8AW5,large car,6.0,19,27.0,22,5,No
+HYUNDAI Azera,3.3,6,Auto-6,2,Gasoline,FA,BHYXV03.3TW5,large car,5.0,20,28.0,23,5,No
+HYUNDAI Azera,3.8,6,Auto-6,2,Gasoline,FA,BHYXV03.8AW5,large car,5.0,19,27.0,22,5,No
+HYUNDAI Elantra,1.8,4,Auto-6,2,Gasoline,CA,BHYXV01.8SPC,midsize car,9.0,28,38.0,32,7,Yes
+HYUNDAI Elantra,1.8,4,Auto-6,2,Gasoline,CA,BHYXV01.8SW5,midsize car,6.0,28,38.0,32,7,Yes
+HYUNDAI Elantra,1.8,4,Man-6,2,Gasoline,CA,BHYXV01.8SW5,midsize car,6.0,28,38.0,32,7,Yes
+HYUNDAI Elantra,1.8,4,Auto-6,2,Gasoline,FA,BHYXV01.8SW5,midsize car,5.0,28,38.0,32,7,Yes
+HYUNDAI Elantra,1.8,4,Man-6,2,Gasoline,FA,BHYXV01.8SW5,midsize car,5.0,28,38.0,32,7,Yes
+HYUNDAI Elantra Touring,2.0,4,Auto-4,2,Gasoline,CA,BHYXV02.0FW5,station wagon,6.0,23,30.0,26,6,Yes
+HYUNDAI Elantra Touring,2.0,4,Man-5,2,Gasoline,CA,BHYXV02.0FW5,station wagon,6.0,23,31.0,26,6,Yes
+HYUNDAI Elantra Touring,2.0,4,Auto-4,2,Gasoline,FA,BHYXV02.0FW5,station wagon,5.0,23,30.0,26,6,No
+HYUNDAI Elantra Touring,2.0,4,Man-5,2,Gasoline,FA,BHYXV02.0FW5,station wagon,5.0,23,31.0,26,6,No
+HYUNDAI Entourage,3.5,6,Auto-6,2,Gasoline,CA,BKMXT03.5VW5,minivan,6.0,18,25.0,21,4,No
+HYUNDAI Entourage,3.5,6,Auto-6,2,Gasoline,FA,BKMXT03.5VW5,minivan,5.0,18,25.0,21,4,No
+HYUNDAI Equus,4.6,8,Auto-6,2,Gasoline,CA,BHYXV04.6VW5,large car,6.0,16,24.0,18,3,No
+HYUNDAI Equus,4.6,8,Auto-6,2,Gasoline,FA,BHYXV04.6VW5,large car,5.0,16,24.0,18,3,No
+HYUNDAI Genesis,3.8,6,Auto-6,2,Gasoline,CA,BHYXV03.8DW5,large car,6.0,18,27.0,21,4,No
+HYUNDAI Genesis,3.8,6,Man-6,2,Gasoline,CA,BHYXV03.8KW5,small car,6.0,17,26.0,20,4,No
+HYUNDAI Genesis,3.8,6,Auto-6,2,Gasoline,CA,BHYXV03.8KW5,small car,6.0,17,27.0,20,4,No
+HYUNDAI Genesis,4.6,8,Auto-6,2,Gasoline,CA,BHYXV04.6GW5,large car,6.0,17,25.0,20,4,No
+HYUNDAI Genesis,2.0,4,Auto-5,2,Gasoline,FA,BHYXV02.0JM5,small car,5.0,20,30.0,23,5,No
+HYUNDAI Genesis,2.0,4,Man-6,2,Gasoline,FA,BHYXV02.0JM5,small car,5.0,21,30.0,24,5,No
+HYUNDAI Genesis,2.0,4,Auto-5,2,Gasoline,CA,BHYXV02.0JM5,small car,5.0,20,30.0,23,5,No
+HYUNDAI Genesis,2.0,4,Man-6,2,Gasoline,CA,BHYXV02.0JM5,small car,5.0,21,30.0,24,5,No
+HYUNDAI Genesis,3.8,6,Auto-6,2,Gasoline,FA,BHYXV03.8DW5,large car,5.0,18,27.0,21,4,No
+HYUNDAI Genesis,3.8,6,Man-6,2,Gasoline,FA,BHYXV03.8KW5,small car,5.0,17,26.0,20,4,No
+HYUNDAI Genesis,3.8,6,Auto-6,2,Gasoline,FA,BHYXV03.8KW5,small car,5.0,17,27.0,20,4,No
+HYUNDAI Genesis,4.6,8,Auto-6,2,Gasoline,FA,BHYXV04.6GW5,large car,5.0,17,25.0,20,4,No
+HYUNDAI Santa Fe,2.4,4,Man-6,2,Gasoline,CA,BHYXT02.4CW5,SUV,6.0,19,26.0,21,4,No
+HYUNDAI Santa Fe,2.4,4,Auto-6,2,Gasoline,CA,BHYXT02.4CW5,SUV,6.0,20,28.0,23,5,No
+HYUNDAI Santa Fe,2.4,4,Auto-6,4,Gasoline,CA,BHYXT02.4CW5,SUV,6.0,20,25.0,22,5,No
+HYUNDAI Santa Fe,3.5,6,Auto-6,2,Gasoline,CA,BHYXT03.5PW5,SUV,6.0,20,26.0,23,5,No
+HYUNDAI Santa Fe,3.5,6,Auto-6,4,Gasoline,CA,BHYXT03.5PW5,SUV,6.0,20,26.0,22,5,No
+HYUNDAI Santa Fe,2.4,4,Man-6,2,Gasoline,FA,BHYXT02.4CW5,SUV,5.0,19,26.0,21,4,No
+HYUNDAI Santa Fe,2.4,4,Auto-6,2,Gasoline,FA,BHYXT02.4CW5,SUV,5.0,20,28.0,23,5,No
+HYUNDAI Santa Fe,2.4,4,Auto-6,4,Gasoline,FA,BHYXT02.4CW5,SUV,5.0,20,25.0,22,5,No
+HYUNDAI Santa Fe,3.5,6,Auto-6,2,Gasoline,FA,BHYXT03.5PW5,SUV,5.0,20,26.0,23,5,No
+HYUNDAI Santa Fe,3.5,6,Auto-6,4,Gasoline,FA,BHYXT03.5PW5,SUV,5.0,20,26.0,22,5,No
+HYUNDAI Sonata,2.4,4,Auto-6,2,Gasoline,CA,BHYXV02.4YPC,large car,9.0,22,35.0,26,6,Yes
+HYUNDAI Sonata,2.0,4,Auto-6,2,Gasoline,CA,BHYXV02.0XW5,large car,6.0,22,33.0,26,6,Yes
+HYUNDAI Sonata,2.4,4,Auto-6,2,Gasoline,CA,BHYXV02.4YW5,large car,6.0,22,35.0,26,6,Yes
+HYUNDAI Sonata,2.4,4,Man-6,2,Gasoline,CA,BHYXV02.4YW5,large car,6.0,24,35.0,28,7,Yes
+HYUNDAI Sonata,2.0,4,Auto-6,2,Gasoline,FA,BHYXV02.0XW5,large car,5.0,22,33.0,26,6,No
+HYUNDAI Sonata,2.4,4,Auto-6,2,Gasoline,FA,BHYXV02.4YW5,large car,5.0,22,35.0,26,6,No
+HYUNDAI Sonata,2.4,4,Man-6,2,Gasoline,FA,BHYXV02.4YW5,large car,5.0,24,35.0,28,7,Yes
+HYUNDAI Sonata Hybrid,2.4,4,Auto-6,2,Gasoline,FA,BHYXV02.4ZS2,midsize car,8.0,34,39.0,36,7,Yes
+HYUNDAI Sonata Hybrid,2.4,4,Auto-6,2,Gasoline,CA,BHYXV02.4ZS2,midsize car,8.0,34,39.0,36,7,Yes
+HYUNDAI Tucson,2.4,4,Auto-6,2,Gasoline,CA,BHYXT02.4LPC,SUV,9.0,22,31.0,25,6,Yes
+HYUNDAI Tucson,2.4,4,Auto-6,4,Gasoline,CA,BHYXT02.4LPC,SUV,9.0,21,28.0,24,5,No
+HYUNDAI Tucson,2.0,4,Man-5,2,Gasoline,CA,BHYXT02.0NW5,SUV,6.0,20,27.0,23,5,No
+HYUNDAI Tucson,2.0,4,Auto-6,2,Gasoline,CA,BHYXT02.0NW5,SUV,6.0,23,31.0,26,6,Yes
+HYUNDAI Tucson,2.4,4,Man-6,2,Gasoline,CA,BHYXT02.4LW5,SUV,6.0,21,29.0,24,5,No
+HYUNDAI Tucson,2.4,4,Auto-6,2,Gasoline,CA,BHYXT02.4LW5,SUV,6.0,22,31.0,25,6,Yes
+HYUNDAI Tucson,2.4,4,Man-6,4,Gasoline,CA,BHYXT02.4LW5,SUV,6.0,20,27.0,22,5,No
+HYUNDAI Tucson,2.4,4,Auto-6,4,Gasoline,CA,BHYXT02.4LW5,SUV,6.0,21,28.0,24,5,No
+HYUNDAI Tucson,2.0,4,Man-5,2,Gasoline,FA,BHYXT02.0NW5,SUV,5.0,20,27.0,23,5,No
+HYUNDAI Tucson,2.0,4,Auto-6,2,Gasoline,FA,BHYXT02.0NW5,SUV,5.0,23,31.0,26,6,No
+HYUNDAI Tucson,2.4,4,Man-6,2,Gasoline,FA,BHYXT02.4LW5,SUV,5.0,21,29.0,24,5,No
+HYUNDAI Tucson,2.4,4,Auto-6,2,Gasoline,FA,BHYXT02.4LW5,SUV,5.0,22,31.0,25,6,No
+HYUNDAI Tucson,2.4,4,Man-6,4,Gasoline,FA,BHYXT02.4LW5,SUV,5.0,20,27.0,22,5,No
+HYUNDAI Tucson,2.4,4,Auto-6,4,Gasoline,FA,BHYXT02.4LW5,SUV,5.0,21,28.0,24,5,No
+HYUNDAI Veracruz,3.8,6,Auto-6,2,Gasoline,FA,BHYXT03.8EM5,SUV,5.0,17,22.0,19,3,No
+HYUNDAI Veracruz,3.8,6,Auto-6,4,Gasoline,FA,BHYXT03.8EM5,SUV,5.0,16,21.0,18,3,No
+HYUNDAI Veracruz,3.8,6,Auto-6,2,Gasoline,CA,BHYXT03.8EM5,SUV,5.0,17,22.0,19,3,No
+HYUNDAI Veracruz,3.8,6,Auto-6,4,Gasoline,CA,BHYXT03.8EM5,SUV,5.0,16,21.0,18,3,No
+INFINITI EX35,3.5,6,SemiAuto-7,4,Gasoline,CA,BNSXV03.5GAA,station wagon,6.0,17,24.0,19,3,No
+INFINITI EX35,3.5,6,SemiAuto-7,2,Gasoline,CA,BNSXV03.5GAA,station wagon,6.0,17,24.0,20,4,No
+INFINITI EX35,3.5,6,SemiAuto-7,4,Gasoline,FA,BNSXV03.5GAA,station wagon,5.0,17,24.0,19,3,No
+INFINITI EX35,3.5,6,SemiAuto-7,2,Gasoline,FA,BNSXV03.5GAA,station wagon,5.0,17,24.0,20,4,No
+INFINITI FX35,3.5,6,SemiAuto-7,2,Gasoline,FA,BNSXT03.5GAA,SUV,5.0,16,23.0,19,3,No
+INFINITI FX35,3.5,6,SemiAuto-7,4,Gasoline,FA,BNSXT03.5GAA,SUV,5.0,16,21.0,18,3,No
+INFINITI FX35,3.5,6,SemiAuto-7,2,Gasoline,CA,BNSXT03.5GAA,SUV,5.0,16,23.0,19,3,No
+INFINITI FX35,3.5,6,SemiAuto-7,4,Gasoline,CA,BNSXT03.5GAA,SUV,5.0,16,21.0,18,3,No
+INFINITI FX50,5.0,8,SemiAuto-7,4,Gasoline,FA,BNSXT05.0G8A,SUV,5.0,14,20.0,16,1,No
+INFINITI FX50,5.0,8,SemiAuto-7,4,Gasoline,CA,BNSXT05.0G8A,SUV,5.0,14,20.0,16,1,No
+INFINITI G25,2.5,6,SemiAuto-7,2,Gasoline,CA,BNSXV02.5GEA,midsize car,6.0,20,29.0,23,5,No
+INFINITI G25,2.5,6,SemiAuto-7,2,Gasoline,FA,BNSXV02.5GEA,midsize car,5.0,20,29.0,23,5,No
+INFINITI G25x,2.5,6,SemiAuto-7,4,Gasoline,CA,BNSXV02.5GEA,midsize car,6.0,19,27.0,22,5,No
+INFINITI G25x,2.5,6,SemiAuto-7,4,Gasoline,FA,BNSXV02.5GEA,midsize car,5.0,19,27.0,22,5,No
+INFINITI G37 Convertible,3.7,6,Man-6,2,Gasoline,CA,BNSXV03.7GAB,small car,6.0,16,24.0,19,3,No
+INFINITI G37 Convertible,3.7,6,SemiAuto-7,2,Gasoline,CA,BNSXV03.7GAB,small car,6.0,17,25.0,20,4,No
+INFINITI G37 Convertible,3.7,6,Man-6,2,Gasoline,FA,BNSXV03.7GAB,small car,5.0,16,24.0,19,3,No
+INFINITI G37 Convertible,3.7,6,SemiAuto-7,2,Gasoline,FA,BNSXV03.7GAB,small car,5.0,17,25.0,20,4,No
+INFINITI G37 Coupe,3.7,6,Man-6,2,Gasoline,CA,BNSXV03.7GAA,small car,6.0,17,25.0,19,3,No
+INFINITI G37 Coupe,3.7,6,SemiAuto-7,2,Gasoline,CA,BNSXV03.7GAA,small car,6.0,19,27.0,22,5,No
+INFINITI G37 Coupe,3.7,6,Man-6,2,Gasoline,FA,BNSXV03.7GAA,small car,5.0,17,25.0,19,3,No
+INFINITI G37 Coupe,3.7,6,SemiAuto-7,2,Gasoline,FA,BNSXV03.7GAA,small car,5.0,19,27.0,22,5,No
+INFINITI G37x,3.7,6,SemiAuto-7,4,Gasoline,CA,BNSXV03.7GAA,small car,6.0,18,25.0,20,4,No
+INFINITI G37x,3.7,6,SemiAuto-7,4,Gasoline,FA,BNSXV03.7GAA,small car,5.0,18,25.0,20,4,No
+INFINITI M37,3.7,6,SemiAuto-7,2,Gasoline,CA,BNSXV03.7GAA,midsize car,6.0,18,26.0,21,4,No
+INFINITI M37,3.7,6,SemiAuto-7,2,Gasoline,FA,BNSXV03.7GAA,midsize car,5.0,18,26.0,21,4,No
+INFINITI M37x,3.7,6,SemiAuto-7,4,Gasoline,CA,BNSXV03.7GAB,midsize car,6.0,17,24.0,20,4,No
+INFINITI M37x,3.7,6,SemiAuto-7,4,Gasoline,FA,BNSXV03.7GAB,midsize car,5.0,17,24.0,20,4,No
+INFINITI M56,5.6,8,SemiAuto-7,2,Gasoline,CA,BNSXV05.6G9A,midsize car,6.0,16,25.0,19,3,No
+INFINITI M56,5.6,8,SemiAuto-7,2,Gasoline,FA,BNSXV05.6G9A,midsize car,5.0,16,25.0,19,3,No
+INFINITI M56x,5.6,8,SemiAuto-7,4,Gasoline,CA,BNSXV05.6G9A,midsize car,6.0,16,23.0,18,3,No
+INFINITI M56x,5.6,8,SemiAuto-7,4,Gasoline,FA,BNSXV05.6G9A,midsize car,5.0,16,23.0,18,3,No
+INFINITI QX56,5.6,8,SemiAuto-7,2,Gasoline,FA,BNSXT05.6G9C,SUV,5.0,14,20.0,16,1,No
+INFINITI QX56,5.6,8,SemiAuto-7,4,Gasoline,FA,BNSXT05.6G9C,SUV,5.0,14,20.0,16,1,No
+INFINITI QX56,5.6,8,SemiAuto-7,2,Gasoline,CA,BNSXT05.6G9C,SUV,5.0,14,20.0,16,1,No
+INFINITI QX56,5.6,8,SemiAuto-7,4,Gasoline,CA,BNSXT05.6G9C,SUV,5.0,14,20.0,16,1,No
+JAGUAR Jaguar XJ LWB,5.0,8,SemiAuto-6,2,Gasoline,CA,BJCXV05.0EAL,large car,6.0,15,21.0,17,2,No
+JAGUAR Jaguar XJ LWB,5.0,8,SemiAuto-6,2,Gasoline,CA,BJCXV05.0EAL,large car,6.0,15,22.0,18,3,No
+JAGUAR Jaguar XJ LWB,5.0,8,SemiAuto-6,2,Gasoline,FA,BJCXV05.0EAL,large car,5.0,15,21.0,17,2,No
+JAGUAR Jaguar XJ LWB,5.0,8,SemiAuto-6,2,Gasoline,FA,BJCXV05.0EAL,large car,5.0,15,22.0,18,3,No
+JAGUAR XF,5.0,8,SemiAuto-6,2,Gasoline,CA,BJCXV05.0EAL,midsize car,6.0,15,21.0,17,2,No
+JAGUAR XF,5.0,8,SemiAuto-6,2,Gasoline,CA,BJCXV05.0EAL,midsize car,6.0,16,23.0,19,3,No
+JAGUAR XF,5.0,8,SemiAuto-6,2,Gasoline,FA,BJCXV05.0EAL,midsize car,5.0,15,21.0,17,2,No
+JAGUAR XF,5.0,8,SemiAuto-6,2,Gasoline,FA,BJCXV05.0EAL,midsize car,5.0,16,23.0,19,3,No
+JAGUAR XJ,5.0,8,SemiAuto-6,2,Gasoline,CA,BJCXV05.0EAL,large car,6.0,16,23.0,19,3,No
+JAGUAR XJ,5.0,8,SemiAuto-6,2,Gasoline,FA,BJCXV05.0EAL,large car,5.0,16,23.0,19,3,No
+JAGUAR XK,5.0,8,SemiAuto-6,2,Gasoline,CA,BJCXV05.0EAL,small car,6.0,15,22.0,17,2,No
+JAGUAR XK,5.0,8,SemiAuto-6,2,Gasoline,CA,BJCXV05.0EAL,small car,6.0,16,24.0,19,3,No
+JAGUAR XK,5.0,8,SemiAuto-6,2,Gasoline,FA,BJCXV05.0EAL,small car,5.0,15,22.0,17,2,No
+JAGUAR XK,5.0,8,SemiAuto-6,2,Gasoline,FA,BJCXV05.0EAL,small car,5.0,16,24.0,19,3,No
+JAGUAR XK Convertible,5.0,8,SemiAuto-6,2,Gasoline,CA,BJCXV05.0EAL,small car,6.0,16,22.0,18,3,No
+JAGUAR XK Convertible,5.0,8,SemiAuto-6,2,Gasoline,FA,BJCXV05.0EAL,small car,5.0,16,22.0,18,3,No
+JEEP Compass,2.0,4,CVT,2,Gasoline,FC,BCRXJ02.4VP1,SUV,6.0,23,27.0,24,5,No
+JEEP Compass,2.4,4,CVT,2,Gasoline,FC,BCRXJ02.4VP1,SUV,6.0,21,27.0,24,5,No
+JEEP Compass,2.4,4,CVT,4,Gasoline,FC,BCRXT02.4VP0,SUV,6.0,20,23.0,21,4,No
+JEEP Compass,2.4,4,CVT,4,Gasoline,FC,BCRXT02.4VP0,SUV,6.0,21,26.0,23,5,No
+JEEP Compass,2.0,4,Man-5,2,Gasoline,FA,BCRXJ02.44P1,SUV,5.0,23,29.0,25,6,No
+JEEP Compass,2.0,4,Man-5,2,Gasoline,CA,BCRXJ02.44P1,SUV,5.0,23,29.0,25,6,No
+JEEP Compass,2.4,4,Man-5,2,Gasoline,FA,BCRXJ02.44P1,SUV,5.0,23,28.0,25,6,No
+JEEP Compass,2.4,4,Man-5,4,Gasoline,FA,BCRXT02.44P0,SUV,5.0,22,28.0,24,5,No
+JEEP Compass,2.4,4,Man-5,2,Gasoline,CA,BCRXJ02.44P1,SUV,5.0,23,28.0,25,6,No
+JEEP Compass,2.4,4,Man-5,4,Gasoline,CA,BCRXT02.44P0,SUV,5.0,22,28.0,24,5,No
+JEEP Grand Cherokee,5.7,8,Auto-5,2,Gasoline,FA,BCRXT05.7VP0,SUV,6.0,14,20.0,16,1,No
+JEEP Grand Cherokee,5.7,8,Auto-5,4,Gasoline,FA,BCRXT05.7VP0,SUV,6.0,13,19.0,15,1,No
+JEEP Grand Cherokee,5.7,8,Auto-5,2,Gasoline,CA,BCRXT05.7VP0,SUV,6.0,14,20.0,16,1,No
+JEEP Grand Cherokee,5.7,8,Auto-5,4,Gasoline,CA,BCRXT05.7VP0,SUV,6.0,13,19.0,15,1,No
+JEEP Grand Cherokee,5.7,8,Auto-5,2,Gasoline,FA,BCRXT05.7RN0,SUV,5.0,14,20.0,16,1,No
+JEEP Grand Cherokee,5.7,8,Auto-5,4,Gasoline,FA,BCRXT05.7RN0,SUV,5.0,13,19.0,15,1,No
+JEEP Liberty,3.7,6,Auto-4,2,Gasoline,FC,BCRXT03.7VP0,SUV,6.0,16,22.0,18,3,No
+JEEP Liberty,3.7,6,Auto-4,4,Gasoline,FC,BCRXT03.7VP0,SUV,6.0,15,21.0,17,2,No
+JEEP Patriot,2.0,4,CVT,2,Gasoline,FC,BCRXJ02.4VP1,SUV,6.0,23,27.0,24,5,No
+JEEP Patriot,2.4,4,CVT,2,Gasoline,FC,BCRXJ02.4VP1,SUV,6.0,21,27.0,24,5,No
+JEEP Patriot,2.4,4,CVT,4,Gasoline,FC,BCRXT02.4VP0,SUV,6.0,20,23.0,21,4,No
+JEEP Patriot,2.4,4,CVT,4,Gasoline,FC,BCRXT02.4VP0,SUV,6.0,21,26.0,23,5,No
+JEEP Patriot,2.0,4,Man-5,2,Gasoline,FA,BCRXJ02.44P1,SUV,5.0,23,29.0,25,6,No
+JEEP Patriot,2.0,4,Man-5,2,Gasoline,CA,BCRXJ02.44P1,SUV,5.0,23,29.0,25,6,No
+JEEP Patriot,2.4,4,Man-5,2,Gasoline,FA,BCRXJ02.44P1,SUV,5.0,23,28.0,25,6,No
+JEEP Patriot,2.4,4,Man-5,4,Gasoline,FA,BCRXT02.44P0,SUV,5.0,22,28.0,24,5,No
+JEEP Patriot,2.4,4,Man-5,2,Gasoline,CA,BCRXJ02.44P1,SUV,5.0,23,28.0,25,6,No
+JEEP Patriot,2.4,4,Man-5,4,Gasoline,CA,BCRXT02.44P0,SUV,5.0,22,28.0,24,5,No
+JEEP Wrangler,3.8,6,Man-6,4,Gasoline,CA,BCRXT03.8XP0,SUV,6.0,15,19.0,16,1,No
+JEEP Wrangler,3.8,6,Auto-4,4,Gasoline,CA,BCRXT03.8XP0,SUV,6.0,15,19.0,17,2,No
+JEEP Wrangler,3.8,6,Man-6,4,Gasoline,FA,BCRXT03.8XP0,SUV,5.0,15,19.0,16,1,No
+JEEP Wrangler,3.8,6,Auto-4,4,Gasoline,FA,BCRXT03.8XP0,SUV,5.0,15,19.0,17,2,No
+KIA Borrego,3.8,6,Auto-5,2,Gasoline,FA,BKMXT03.8HM5,SUV,5.0,17,21.0,18,3,No
+KIA Borrego,3.8,6,Auto-5,4,Gasoline,FA,BKMXT03.8HM5,SUV,5.0,16,21.0,18,3,No
+KIA Borrego,3.8,6,Auto-5,2,Gasoline,CA,BKMXT03.8HM5,SUV,5.0,17,21.0,18,3,No
+KIA Borrego,3.8,6,Auto-5,4,Gasoline,CA,BKMXT03.8HM5,SUV,5.0,16,21.0,18,3,No
+KIA Borrego,4.6,8,Auto-6,2,Gasoline,FA,BKMXT04.6MM5,SUV,5.0,15,22.0,18,3,No
+KIA Borrego,4.6,8,Auto-6,4,Gasoline,FA,BKMXT04.6MM5,SUV,5.0,15,20.0,17,2,No
+KIA Borrego,4.6,8,Auto-6,2,Gasoline,CA,BKMXT04.6MM5,SUV,5.0,15,22.0,18,3,No
+KIA Borrego,4.6,8,Auto-6,4,Gasoline,CA,BKMXT04.6MM5,SUV,5.0,15,20.0,17,2,No
+KIA Forte,2.0,4,Auto-6,2,Gasoline,CA,BKMXV02.0TPC,midsize car,9.0,26,36.0,29,7,Yes
+KIA Forte,2.4,4,Auto-6,2,Gasoline,CA,BKMXV02.4DPC,midsize car,9.0,23,32.0,26,6,Yes
+KIA Forte,2.0,4,Man-6,2,Gasoline,CA,BKMXV02.0TW5,midsize car,6.0,25,34.0,29,7,Yes
+KIA Forte,2.0,4,Auto-6,2,Gasoline,CA,BKMXV02.0TW5,midsize car,6.0,26,36.0,29,7,Yes
+KIA Forte,2.4,4,Man-6,2,Gasoline,CA,BKMXV02.4DW5,midsize car,6.0,22,32.0,26,6,Yes
+KIA Forte,2.4,4,Auto-6,2,Gasoline,CA,BKMXV02.4DW5,midsize car,6.0,23,32.0,26,6,Yes
+KIA Forte,2.0,4,Man-6,2,Gasoline,FA,BKMXV02.0TW5,midsize car,5.0,25,34.0,29,7,Yes
+KIA Forte,2.0,4,Auto-6,2,Gasoline,FA,BKMXV02.0TW5,midsize car,5.0,26,36.0,29,7,Yes
+KIA Forte,2.4,4,Man-6,2,Gasoline,FA,BKMXV02.4DW5,midsize car,5.0,22,32.0,26,6,No
+KIA Forte,2.4,4,Auto-6,2,Gasoline,FA,BKMXV02.4DW5,midsize car,5.0,23,32.0,26,6,No
+KIA Forte Eco,2.0,4,Auto-6,2,Gasoline,CA,BKMXV02.0TPC,midsize car,9.0,27,37.0,30,7,Yes
+KIA Forte Eco,2.0,4,Auto-6,2,Gasoline,CA,BKMXV02.0TW5,midsize car,6.0,27,37.0,30,7,Yes
+KIA Forte Eco,2.0,4,Auto-6,2,Gasoline,FA,BKMXV02.0TW5,midsize car,5.0,27,37.0,30,7,Yes
+KIA Forte Koup,2.0,4,Auto-6,2,Gasoline,CA,BKMXV02.0TPC,small car,9.0,25,34.0,29,7,Yes
+KIA Forte Koup,2.4,4,Auto-6,2,Gasoline,CA,BKMXV02.4DPC,small car,9.0,23,31.0,26,6,Yes
+KIA Forte Koup,2.0,4,Man-6,2,Gasoline,CA,BKMXV02.0TW5,small car,6.0,24,33.0,28,7,Yes
+KIA Forte Koup,2.0,4,Auto-6,2,Gasoline,CA,BKMXV02.0TW5,small car,6.0,25,34.0,29,7,Yes
+KIA Forte Koup,2.4,4,Man-6,2,Gasoline,CA,BKMXV02.4DW5,small car,6.0,22,32.0,26,6,Yes
+KIA Forte Koup,2.4,4,Auto-6,2,Gasoline,CA,BKMXV02.4DW5,small car,6.0,23,31.0,26,6,Yes
+KIA Forte Koup,2.0,4,Man-6,2,Gasoline,FA,BKMXV02.0TW5,small car,5.0,24,33.0,28,7,Yes
+KIA Forte Koup,2.0,4,Auto-6,2,Gasoline,FA,BKMXV02.0TW5,small car,5.0,25,34.0,29,7,Yes
+KIA Forte Koup,2.4,4,Man-6,2,Gasoline,FA,BKMXV02.4DW5,small car,5.0,22,32.0,26,6,No
+KIA Forte Koup,2.4,4,Auto-6,2,Gasoline,FA,BKMXV02.4DW5,small car,5.0,23,31.0,26,6,No
+KIA Optima,2.4,4,Auto-6,2,Gasoline,CA,BKMXV02.4FPC,midsize car,9.0,24,34.0,27,6,Yes
+KIA Optima,2.0,4,Auto-6,2,Gasoline,CA,BKMXV02.0EW5,midsize car,6.0,22,34.0,26,6,Yes
+KIA Optima,2.4,4,Auto-6,2,Gasoline,CA,BKMXV02.4FW5,midsize car,6.0,24,34.0,27,6,Yes
+KIA Optima,2.4,4,Man-6,2,Gasoline,CA,BKMXV02.4FW5,midsize car,6.0,24,35.0,28,7,Yes
+KIA Optima,2.0,4,Auto-6,2,Gasoline,FA,BKMXV02.0EW5,midsize car,5.0,22,34.0,26,6,No
+KIA Optima,2.4,4,Auto-6,2,Gasoline,FA,BKMXV02.4FW5,midsize car,5.0,24,34.0,27,6,No
+KIA Optima,2.4,4,Man-6,2,Gasoline,FA,BKMXV02.4FW5,midsize car,5.0,24,35.0,28,7,Yes
+KIA Optima Hybrid,2.4,4,Auto-6,2,Gasoline,FA,BKMXV02.4GS2,midsize car,8.0,34,39.0,36,7,Yes
+KIA Optima Hybrid,2.4,4,Auto-6,2,Gasoline,CA,BKMXV02.4GS2,midsize car,8.0,34,39.0,36,7,Yes
+KIA Rio,1.6,4,Auto-4,2,Gasoline,CA,BKMXV01.6BW5,small car,6.0,27,36.0,30,7,Yes
+KIA Rio,1.6,4,Man-5,2,Gasoline,CA,BKMXV01.6BW5,small car,6.0,28,34.0,31,7,Yes
+KIA Rio,1.6,4,Auto-4,2,Gasoline,FA,BKMXV01.6BW5,small car,5.0,27,36.0,30,7,Yes
+KIA Rio,1.6,4,Man-5,2,Gasoline,FA,BKMXV01.6BW5,small car,5.0,28,34.0,31,7,Yes
+KIA Rondo,2.4,4,Auto-4,2,Gasoline,CA,BKMXV02.4UW5,station wagon,6.0,20,27.0,22,5,No
+KIA Rondo,2.7,6,Auto-5,2,Gasoline,CA,BKMXV02.7NW5,station wagon,6.0,18,26.0,21,4,No
+KIA Rondo,2.4,4,Auto-4,2,Gasoline,FA,BKMXV02.4UW5,station wagon,5.0,20,27.0,22,5,No
+KIA Rondo,2.7,6,Auto-5,2,Gasoline,FA,BKMXV02.7NW5,station wagon,5.0,18,26.0,21,4,No
+KIA Sedona,3.5,6,Auto-6,2,Gasoline,CA,BKMXT03.5VW5,minivan,6.0,18,25.0,21,4,No
+KIA Sedona,3.5,6,Auto-6,2,Gasoline,FA,BKMXT03.5VW5,minivan,5.0,18,25.0,21,4,No
+KIA Sorento,2.4,4,Man-6,2,Gasoline,CA,BKMXT02.4CW5,SUV,6.0,20,27.0,22,5,No
+KIA Sorento,2.4,4,Auto-6,2,Gasoline,CA,BKMXT02.4CW5,SUV,6.0,21,29.0,24,5,No
+KIA Sorento,2.4,4,Auto-6,4,Gasoline,CA,BKMXT02.4CW5,SUV,6.0,21,27.0,23,5,No
+KIA Sorento,3.5,6,Auto-6,2,Gasoline,CA,BKMXT03.5XW5,SUV,6.0,20,26.0,22,5,No
+KIA Sorento,3.5,6,Auto-6,4,Gasoline,CA,BKMXT03.5XW5,SUV,6.0,18,24.0,20,4,No
+KIA Sorento,2.4,4,Man-6,2,Gasoline,FA,BKMXT02.4CW5,SUV,5.0,20,27.0,22,5,No
+KIA Sorento,2.4,4,Auto-6,2,Gasoline,FA,BKMXT02.4CW5,SUV,5.0,21,29.0,24,5,No
+KIA Sorento,2.4,4,Auto-6,4,Gasoline,FA,BKMXT02.4CW5,SUV,5.0,21,27.0,23,5,No
+KIA Sorento,3.5,6,Auto-6,2,Gasoline,FA,BKMXT03.5XW5,SUV,5.0,20,26.0,22,5,No
+KIA Sorento,3.5,6,Auto-6,4,Gasoline,FA,BKMXT03.5XW5,SUV,5.0,18,24.0,20,4,No
+KIA Soul,1.6,4,Auto-4,2,Gasoline,CA,BKMXV01.6AW5,station wagon,6.0,26,31.0,28,7,Yes
+KIA Soul,1.6,4,Man-5,2,Gasoline,CA,BKMXV01.6AW5,station wagon,6.0,26,31.0,28,7,Yes
+KIA Soul,2.0,4,Auto-4,2,Gasoline,CA,BKMXV02.0LW5,station wagon,6.0,24,30.0,26,6,Yes
+KIA Soul,2.0,4,Man-5,2,Gasoline,CA,BKMXV02.0LW5,station wagon,6.0,24,30.0,26,6,Yes
+KIA Soul,1.6,4,Auto-4,2,Gasoline,FA,BKMXV01.6AW5,station wagon,5.0,26,31.0,28,7,Yes
+KIA Soul,1.6,4,Man-5,2,Gasoline,FA,BKMXV01.6AW5,station wagon,5.0,26,31.0,28,7,Yes
+KIA Soul,2.0,4,Auto-4,2,Gasoline,FA,BKMXV02.0LW5,station wagon,5.0,24,30.0,26,6,No
+KIA Soul,2.0,4,Man-5,2,Gasoline,FA,BKMXV02.0LW5,station wagon,5.0,24,30.0,26,6,No
+KIA Sportage,2.4,4,Auto-6,2,Gasoline,CA,BKMXT02.4SPC,SUV,9.0,22,31.0,25,6,Yes
+KIA Sportage,2.4,4,Auto-6,4,Gasoline,CA,BKMXT02.4SPC,SUV,9.0,21,28.0,23,5,No
+KIA Sportage,2.0,4,Auto-6,2,Gasoline,CA,BKMXT02.0KW5,SUV,6.0,22,27.0,24,5,No
+KIA Sportage,2.0,4,Auto-6,4,Gasoline,CA,BKMXT02.0KW5,SUV,6.0,21,25.0,23,5,No
+KIA Sportage,2.4,4,Man-6,2,Gasoline,CA,BKMXT02.4SW5,SUV,6.0,21,29.0,24,5,No
+KIA Sportage,2.4,4,Auto-6,2,Gasoline,CA,BKMXT02.4SW5,SUV,6.0,22,31.0,25,6,Yes
+KIA Sportage,2.4,4,Man-6,4,Gasoline,CA,BKMXT02.4SW5,SUV,6.0,20,27.0,22,5,No
+KIA Sportage,2.4,4,Auto-6,4,Gasoline,CA,BKMXT02.4SW5,SUV,6.0,21,28.0,23,5,No
+KIA Sportage,2.0,4,Auto-6,2,Gasoline,FA,BKMXT02.0KW5,SUV,5.0,22,27.0,24,5,No
+KIA Sportage,2.0,4,Auto-6,4,Gasoline,FA,BKMXT02.0KW5,SUV,5.0,21,25.0,23,5,No
+KIA Sportage,2.4,4,Man-6,2,Gasoline,FA,BKMXT02.4SW5,SUV,5.0,21,29.0,24,5,No
+KIA Sportage,2.4,4,Auto-6,2,Gasoline,FA,BKMXT02.4SW5,SUV,5.0,22,31.0,25,6,No
+KIA Sportage,2.4,4,Man-6,4,Gasoline,FA,BKMXT02.4SW5,SUV,5.0,20,27.0,22,5,No
+KIA Sportage,2.4,4,Auto-6,4,Gasoline,FA,BKMXT02.4SW5,SUV,5.0,21,28.0,23,5,No
+LAMBORGHINI Gallardo Coupe,5.2,10,Man-6,4,Gasoline,FA,BADXV05.2LR8,small car,5.0,12,20.0,15,1,No
+LAMBORGHINI Gallardo Coupe,5.2,10,AutoMan-6,4,Gasoline,FA,BADXV05.2LR8,small car,5.0,13,20.0,16,1,No
+LAMBORGHINI Gallardo Coupe,5.2,10,Man-6,4,Gasoline,CA,BADXV05.2LR8,small car,5.0,12,20.0,15,1,No
+LAMBORGHINI Gallardo Coupe,5.2,10,AutoMan-6,4,Gasoline,CA,BADXV05.2LR8,small car,5.0,13,20.0,16,1,No
+LAMBORGHINI Gallardo Spyder,5.2,10,Man-6,4,Gasoline,FA,BADXV05.2LR8,small car,5.0,12,20.0,14,1,No
+LAMBORGHINI Gallardo Spyder,5.2,10,AutoMan-6,4,Gasoline,FA,BADXV05.2LR8,small car,5.0,13,20.0,16,1,No
+LAMBORGHINI Gallardo Spyder,5.2,10,Man-6,4,Gasoline,CA,BADXV05.2LR8,small car,5.0,12,20.0,14,1,No
+LAMBORGHINI Gallardo Spyder,5.2,10,AutoMan-6,4,Gasoline,CA,BADXV05.2LR8,small car,5.0,13,20.0,16,1,No
+LAND ROVER LR2,3.2,6,SemiAuto-6,4,Gasoline,CA,BLRXT03.2001,SUV,6.0,15,22.0,17,2,No
+LAND ROVER LR2,3.2,6,SemiAuto-6,4,Gasoline,FA,BLRXT03.2001,SUV,5.0,15,22.0,17,2,No
+LAND ROVER LR4,5.0,8,SemiAuto-6,4,Gasoline,CA,BLRXT05.0001,SUV,6.0,12,17.0,14,1,No
+LAND ROVER LR4,5.0,8,SemiAuto-6,4,Gasoline,FA,BLRXT05.0001,SUV,5.0,12,17.0,14,1,No
+LAND ROVER Range Rover,5.0,8,SemiAuto-6,4,Gasoline,CA,BLRXT05.0001,SUV,6.0,12,18.0,14,1,No
+LAND ROVER Range Rover,5.0,8,SemiAuto-6,4,Gasoline,FA,BLRXT05.0001,SUV,5.0,12,18.0,14,1,No
+LAND ROVER Range Rover Sport,5.0,8,SemiAuto-6,4,Gasoline,CA,BLRXT05.0001,SUV,6.0,12,17.0,14,1,No
+LAND ROVER Range Rover Sport,5.0,8,SemiAuto-6,4,Gasoline,CA,BLRXT05.0001,SUV,6.0,13,18.0,15,1,No
+LAND ROVER Range Rover Sport,5.0,8,SemiAuto-6,4,Gasoline,FA,BLRXT05.0001,SUV,5.0,12,17.0,14,1,No
+LAND ROVER Range Rover Sport,5.0,8,SemiAuto-6,4,Gasoline,FA,BLRXT05.0001,SUV,5.0,13,18.0,15,1,No
+LEXUS CT 200h,1.8,4,CVT,2,Gasoline,CA,BTYXV01.8CC4,small car,8.0,43,40.0,42,9,Yes
+LEXUS CT 200h,1.8,4,CVT,2,Gasoline,FA,BTYXV01.8CC4,small car,7.0,43,40.0,42,9,Yes
+LEXUS ES 350,3.5,6,SemiAuto-6,2,Gasoline,CA,BTYXV03.5BEA,midsize car,6.0,19,27.0,22,5,No
+LEXUS ES 350,3.5,6,SemiAuto-6,2,Gasoline,FA,BTYXV03.5BEA,midsize car,5.0,19,27.0,22,5,No
+LEXUS GS 350,3.5,6,SemiAuto-6,4,Gasoline,CA,BTYXV03.5BEB,midsize car,6.0,18,25.0,20,4,No
+LEXUS GS 350,3.5,6,SemiAuto-6,2,Gasoline,CA,BTYXV03.5BEB,midsize car,6.0,19,26.0,22,5,No
+LEXUS GS 350,3.5,6,SemiAuto-6,4,Gasoline,FA,BTYXV03.5BEB,midsize car,5.0,18,25.0,20,4,No
+LEXUS GS 350,3.5,6,SemiAuto-6,2,Gasoline,FA,BTYXV03.5BEB,midsize car,5.0,19,26.0,22,5,No
+LEXUS GS 450h,3.5,6,Other-1,2,Gasoline,CA,BTYXV03.5CC4,small car,8.0,22,25.0,23,5,No
+LEXUS GS 450h,3.5,6,Other-1,2,Gasoline,FA,BTYXV03.5CC4,small car,7.0,22,25.0,23,5,No
+LEXUS GS 460,4.6,8,SemiAuto-8,2,Gasoline,CA,BTYXV04.6BEA,midsize car,6.0,17,24.0,20,4,No
+LEXUS GS 460,4.6,8,SemiAuto-8,2,Gasoline,FA,BTYXV04.6BEA,midsize car,5.0,17,24.0,20,4,No
+LEXUS GX 460,4.6,8,SemiAuto-6,4,Gasoline,CA,BTYXT04.6BEX,SUV,6.0,15,20.0,17,2,No
+LEXUS GX 460,4.6,8,SemiAuto-6,4,Gasoline,FA,BTYXT04.6BEX,SUV,5.0,15,20.0,17,2,No
+LEXUS HS 250h,2.4,4,CVT,2,Gasoline,CA,BTYXV02.4CC4,small car,8.0,35,34.0,35,8,Yes
+LEXUS HS 250h,2.4,4,CVT,2,Gasoline,FA,BTYXV02.4CC4,small car,7.0,35,34.0,35,8,Yes
+LEXUS IS 250,2.5,6,SemiAuto-6,4,Gasoline,CA,BTYXV02.5BEC,small car,6.0,20,27.0,22,5,No
+LEXUS IS 250,2.5,6,SemiAuto-6,4,Gasoline,FA,BTYXV02.5BEC,small car,5.0,20,27.0,22,5,No
+LEXUS IS 250/IS 250C,2.5,6,Man-6,2,Gasoline,CA,BTYXV02.5BEC,small car,6.0,19,27.0,22,5,No
+LEXUS IS 250/IS 250C,2.5,6,SemiAuto-6,2,Gasoline,CA,BTYXV02.5BEC,small car,6.0,21,30.0,24,5,No
+LEXUS IS 250/IS 250C,2.5,6,Man-6,2,Gasoline,FA,BTYXV02.5BEC,small car,5.0,19,27.0,22,5,No
+LEXUS IS 250/IS 250C,2.5,6,SemiAuto-6,2,Gasoline,FA,BTYXV02.5BEC,small car,5.0,21,30.0,24,5,No
+LEXUS IS 350,3.5,6,SemiAuto-6,4,Gasoline,CA,BTYXV03.5BEB,small car,6.0,18,25.0,20,4,No
+LEXUS IS 350,3.5,6,SemiAuto-6,4,Gasoline,FA,BTYXV03.5BEB,small car,5.0,18,25.0,20,4,No
+LEXUS IS 350/IS 350C,3.5,6,SemiAuto-6,2,Gasoline,CA,BTYXV03.5BEB,small car,6.0,20,27.0,22,5,No
+LEXUS IS 350/IS 350C,3.5,6,SemiAuto-6,2,Gasoline,FA,BTYXV03.5BEB,small car,5.0,20,27.0,22,5,No
+LEXUS IS F,5.0,8,SemiAuto-8,2,Gasoline,CA,BTYXV05.0BEA,small car,6.0,16,23.0,18,3,No
+LEXUS IS F,5.0,8,SemiAuto-8,2,Gasoline,FA,BTYXV05.0BEA,small car,5.0,16,23.0,18,3,No
+LEXUS LS 460,4.6,8,SemiAuto-8,4,Gasoline,CA,BTYXV04.6BEA,midsize car,6.0,16,23.0,18,3,No
+LEXUS LS 460,4.6,8,SemiAuto-8,2,Gasoline,CA,BTYXV04.6BEA,midsize car,6.0,16,24.0,19,3,No
+LEXUS LS 460,4.6,8,SemiAuto-8,4,Gasoline,FA,BTYXV04.6BEA,midsize car,5.0,16,23.0,18,3,No
+LEXUS LS 460,4.6,8,SemiAuto-8,2,Gasoline,FA,BTYXV04.6BEA,midsize car,5.0,16,24.0,19,3,No
+LEXUS LS 460 L,4.6,8,SemiAuto-8,4,Gasoline,CA,BTYXV04.6BEA,midsize car,6.0,16,23.0,18,3,No
+LEXUS LS 460 L,4.6,8,SemiAuto-8,2,Gasoline,CA,BTYXV04.6BEA,midsize car,6.0,16,24.0,19,3,No
+LEXUS LS 460 L,4.6,8,SemiAuto-8,4,Gasoline,FA,BTYXV04.6BEA,midsize car,5.0,16,23.0,18,3,No
+LEXUS LS 460 L,4.6,8,SemiAuto-8,2,Gasoline,FA,BTYXV04.6BEA,midsize car,5.0,16,24.0,19,3,No
+LEXUS LS 600h L,5.0,8,Other-1,4,Gasoline,CA,BTYXV05.0CC4,midsize car,8.0,19,23.0,20,4,No
+LEXUS LS 600h L,5.0,8,Other-1,4,Gasoline,FA,BTYXV05.0CC4,midsize car,7.0,19,23.0,20,4,No
+LEXUS LX 570,5.7,8,SemiAuto-6,4,Gasoline,CA,BTYXT05.7BEX,SUV,6.0,12,18.0,14,1,No
+LEXUS LX 570,5.7,8,SemiAuto-6,4,Gasoline,FA,BTYXT05.7BEX,SUV,5.0,12,18.0,14,1,No
+LEXUS RX 350,3.5,6,SemiAuto-6,2,Gasoline,CA,BTYXT03.5BEN,SUV,6.0,18,25.0,21,4,No
+LEXUS RX 350,3.5,6,SemiAuto-6,4,Gasoline,CA,BTYXT03.5BEN,SUV,6.0,18,24.0,20,4,No
+LEXUS RX 350,3.5,6,SemiAuto-6,2,Gasoline,FA,BTYXT03.5BEN,SUV,5.0,18,25.0,21,4,No
+LEXUS RX 350,3.5,6,SemiAuto-6,4,Gasoline,FA,BTYXT03.5BEN,SUV,5.0,18,24.0,20,4,No
+LEXUS RX 450h,3.5,6,Other-1,2,Gasoline,CA,BTYXT03.5CC4,SUV,8.0,32,28.0,30,7,Yes
+LEXUS RX 450h,3.5,6,Other-1,4,Gasoline,CA,BTYXT03.5CC4,SUV,8.0,30,28.0,29,7,Yes
+LEXUS RX 450h,3.5,6,Other-1,2,Gasoline,FA,BTYXT03.5CC4,SUV,7.0,32,28.0,30,7,Yes
+LEXUS RX 450h,3.5,6,Other-1,4,Gasoline,FA,BTYXT03.5CC4,SUV,7.0,30,28.0,29,7,Yes
+LINCOLN MKT,3.5,6,SemiAuto-6,4,Gasoline,CA,BFMXV03.5VEE,SUV,6.0,16,21.0,18,3,No
+LINCOLN MKT,3.7,6,SemiAuto-6,2,Gasoline,CA,BFMXV03.7VEL,SUV,6.0,17,23.0,19,3,No
+LINCOLN MKT,3.7,6,SemiAuto-6,4,Gasoline,CA,BFMXV03.7VEL,SUV,6.0,16,22.0,18,3,No
+LINCOLN MKT,3.5,6,SemiAuto-6,4,Gasoline,FA,BFMXV03.5VEE,SUV,5.0,16,21.0,18,3,No
+LINCOLN MKT,3.7,6,SemiAuto-6,2,Gasoline,FA,BFMXV03.7VEL,SUV,5.0,17,23.0,19,3,No
+LINCOLN MKT,3.7,6,SemiAuto-6,4,Gasoline,FA,BFMXV03.7VEL,SUV,5.0,16,22.0,18,3,No
+LINCOLN MKX,3.7,6,SemiAuto-6,2,Gasoline,CA,BFMXT03.72EE,SUV,6.0,19,26.0,21,4,No
+LINCOLN MKX,3.7,6,SemiAuto-6,2,Gasoline,FA,BFMXT03.72EE,SUV,5.0,19,26.0,21,4,No
+LINCOLN MKZ,3.5,6,SemiAuto-6,2,Gasoline,CA,BFMXV03.7VEL,midsize car,6.0,18,27.0,21,4,No
+LINCOLN MKZ,3.5,6,SemiAuto-6,4,Gasoline,FA,BFMXV03.7VEL,midsize car,5.0,17,24.0,19,3,No
+LINCOLN MKZ,3.5,6,SemiAuto-6,2,Gasoline,FA,BFMXV03.7VEL,midsize car,5.0,18,27.0,21,4,No
+LINCOLN MKZ Hybrid,2.5,4,CVT,2,Gasoline,CA,BFMXV02.5VZH,midsize car,9.0,41,36.0,39,9,Yes
+LINCOLN MKZ Hybrid,2.5,4,CVT,2,Gasoline,FA,BFMXV02.5VZH,midsize car,7.0,41,36.0,39,9,Yes
+LOTUS Elise/Exige,1.8,4,Man-6,2,Gasoline,FA,BLTXV01.8JHB,small car,5.0,20,26.0,22,5,No
+LOTUS Elise/Exige,1.8,4,Man-6,2,Gasoline,FA,BLTXV01.8JHB,small car,5.0,21,27.0,23,5,No
+LOTUS Elise/Exige,1.8,4,Man-6,2,Gasoline,CA,BLTXV01.8JHB,small car,5.0,20,26.0,22,5,No
+LOTUS Elise/Exige,1.8,4,Man-6,2,Gasoline,CA,BLTXV01.8JHB,small car,5.0,21,27.0,23,5,No
+LOTUS Evora,3.5,6,Man-6,2,Gasoline,FA,BLTXV03.5JHB,small car,5.0,17,26.0,20,4,No
+LOTUS Evora,3.5,6,Man-6,2,Gasoline,FA,BLTXV03.5JHB,small car,5.0,18,26.0,21,4,No
+LOTUS Evora,3.5,6,SemiAuto-6,2,Gasoline,FA,BLTXV03.5JHB,small car,5.0,20,28.0,23,5,No
+LOTUS Evora,3.5,6,Man-6,2,Gasoline,CA,BLTXV03.5JHB,small car,5.0,17,26.0,20,4,No
+LOTUS Evora,3.5,6,Man-6,2,Gasoline,CA,BLTXV03.5JHB,small car,5.0,18,26.0,21,4,No
+LOTUS Evora,3.5,6,SemiAuto-6,2,Gasoline,CA,BLTXV03.5JHB,small car,5.0,20,28.0,23,5,No
+MAHINDRA TR40,2.2,4,Auto-6,4,Diesel,FA,BMMLT02.2TB5,pickup,5.0,19,21.0,20,3,No
+MASERATI Granturismo,4.2,8,Auto-6,2,Gasoline,FA,BMAXV04.7LEV,small car,5.0,13,20.0,15,1,No
+MASERATI Granturismo,4.2,8,Auto-6,2,Gasoline,CA,BMAXV04.7LEV,small car,5.0,13,20.0,15,1,No
+MASERATI Granturismo,4.7,8,Auto-6,2,Gasoline,FA,BMAXV04.7LEV,small car,5.0,13,20.0,15,1,No
+MASERATI Granturismo,4.7,8,Auto-6,2,Gasoline,CA,BMAXV04.7LEV,small car,5.0,13,20.0,15,1,No
+MASERATI Granturismo Convertible,4.7,8,Auto-6,2,Gasoline,FA,BMAXV04.7LEV,small car,5.0,12,20.0,15,1,No
+MASERATI Granturismo Convertible,4.7,8,Auto-6,2,Gasoline,CA,BMAXV04.7LEV,small car,5.0,12,20.0,15,1,No
+MASERATI Quattroporte,4.2,8,Auto-6,2,Gasoline,FA,BMAXV04.7LEV,large car,5.0,12,20.0,15,1,No
+MASERATI Quattroporte,4.2,8,Auto-6,2,Gasoline,CA,BMAXV04.7LEV,large car,5.0,12,20.0,15,1,No
+MASERATI Quattroporte,4.7,8,Auto-6,2,Gasoline,FA,BMAXV04.7LEV,large car,5.0,12,19.0,14,1,No
+MASERATI Quattroporte,4.7,8,Auto-6,2,Gasoline,CA,BMAXV04.7LEV,large car,5.0,12,19.0,14,1,No
+MAZDA 2,1.5,4,Auto-4,2,Gasoline,CA,BTKXV01.55BA,small car,6.0,27,33.0,29,7,Yes
+MAZDA 2,1.5,4,Man-5,2,Gasoline,CA,BTKXV01.55BA,small car,6.0,29,35.0,32,7,Yes
+MAZDA 2,1.5,4,Auto-4,2,Gasoline,FA,BTKXV01.55BA,small car,5.0,27,33.0,29,7,Yes
+MAZDA 2,1.5,4,Man-5,2,Gasoline,FA,BTKXV01.55BA,small car,5.0,29,35.0,32,7,Yes
+MAZDA 3,2.0,4,SemiAuto-5,2,Gasoline,CA,BTKXV02.0NC1,small car,9.0,24,33.0,27,6,Yes
+MAZDA 3,2.0,4,Man-5,2,Gasoline,CA,BTKXV02.0NC1,small car,9.0,25,33.0,28,7,Yes
+MAZDA 3,2.5,4,Man-6,2,Gasoline,CA,BTKXV02.5NC2,small car,9.0,20,28.0,23,5,No
+MAZDA 3,2.5,4,SemiAuto-5,2,Gasoline,CA,BTKXV02.5NC2,small car,9.0,22,29.0,25,6,Yes
+MAZDA 3,2.0,4,SemiAuto-5,2,Gasoline,FA,BTKXV02.05NM,small car,5.0,24,33.0,27,6,No
+MAZDA 3,2.0,4,Man-5,2,Gasoline,FA,BTKXV02.05NM,small car,5.0,25,33.0,28,7,Yes
+MAZDA 3,2.5,4,Man-6,2,Gasoline,FA,BTKXV02.55NM,small car,5.0,20,28.0,23,5,No
+MAZDA 3,2.5,4,SemiAuto-5,2,Gasoline,FA,BTKXV02.55NM,small car,5.0,22,29.0,25,6,No
+MAZDA 6,2.5,4,SemiAuto-5,2,Gasoline,CA,BTKXV02.5NC1,midsize car,9.0,22,31.0,25,6,Yes
+MAZDA 6,3.7,6,SemiAuto-6,2,Gasoline,CA,BTKXV03.75BA,midsize car,6.0,18,27.0,21,4,No
+MAZDA 6,2.5,4,Man-6,2,Gasoline,CA,BTKXV02.55AA,midsize car,5.0,21,30.0,24,5,No
+MAZDA 6,3.7,6,SemiAuto-6,2,Gasoline,FA,BTKXV03.75BA,midsize car,5.0,18,27.0,21,4,No
+MAZDA CX-7,2.5,4,SemiAuto-5,2,Gasoline,CA,BTKXT02.55BA,SUV,6.0,20,28.0,23,5,No
+MAZDA CX-7,2.3,4,SemiAuto-6,2,Gasoline,FA,BTKXT02.35AA,SUV,5.0,18,24.0,20,4,No
+MAZDA CX-7,2.3,4,SemiAuto-6,4,Gasoline,FA,BTKXT02.35AA,SUV,5.0,17,21.0,19,3,No
+MAZDA CX-7,2.3,4,SemiAuto-6,2,Gasoline,CA,BTKXT02.35AA,SUV,5.0,18,24.0,20,4,No
+MAZDA CX-7,2.3,4,SemiAuto-6,4,Gasoline,CA,BTKXT02.35AA,SUV,5.0,17,21.0,19,3,No
+MAZDA CX-7,2.5,4,SemiAuto-5,2,Gasoline,FA,BTKXT02.55BA,SUV,5.0,20,28.0,23,5,No
+MAZDA CX-9,3.7,6,SemiAuto-6,2,Gasoline,CA,BTKXT03.75BA,SUV,6.0,17,24.0,19,3,No
+MAZDA CX-9,3.7,6,SemiAuto-6,4,Gasoline,CA,BTKXT03.75BA,SUV,6.0,16,22.0,19,3,No
+MAZDA CX-9,3.7,6,SemiAuto-6,2,Gasoline,FA,BTKXT03.75BA,SUV,5.0,17,24.0,19,3,No
+MAZDA CX-9,3.7,6,SemiAuto-6,4,Gasoline,FA,BTKXT03.75BA,SUV,5.0,16,22.0,19,3,No
+MAZDA Mazdaspeed3,2.3,4,Man-6,2,Gasoline,CA,BTKXV02.35BA,midsize car,6.0,18,25.0,21,4,No
+MAZDA Mazdaspeed3,2.3,4,Man-6,2,Gasoline,FA,BTKXV02.35BA,midsize car,5.0,18,25.0,21,4,No
+MAZDA MX-5,2.0,4,SemiAuto-6,2,Gasoline,CA,BTKXV02.05BA,small car,6.0,21,28.0,23,5,No
+MAZDA MX-5,2.0,4,Man-6,2,Gasoline,CA,BTKXV02.05BA,small car,6.0,21,28.0,24,5,No
+MAZDA MX-5,2.0,4,Man-5,2,Gasoline,CA,BTKXV02.05BA,small car,6.0,22,28.0,25,6,Yes
+MAZDA MX-5,2.0,4,SemiAuto-6,2,Gasoline,FA,BTKXV02.05BA,small car,5.0,21,28.0,23,5,No
+MAZDA MX-5,2.0,4,Man-6,2,Gasoline,FA,BTKXV02.05BA,small car,5.0,21,28.0,24,5,No
+MAZDA MX-5,2.0,4,Man-5,2,Gasoline,FA,BTKXV02.05BA,small car,5.0,22,28.0,25,6,No
+MAZDA RX-8,1.3,2,Man-6,2,Gasoline,FA,BTKXV01.35AA,small car,5.0,16,22.0,18,3,No
+MAZDA RX-8,1.3,2,SemiAuto-6,2,Gasoline,FA,BTKXV01.35AA,small car,5.0,16,23.0,19,3,No
+MAZDA RX-8,1.3,2,Man-6,2,Gasoline,CA,BTKXV01.35AA,small car,5.0,16,22.0,18,3,No
+MAZDA RX-8,1.3,2,SemiAuto-6,2,Gasoline,CA,BTKXV01.35AA,small car,5.0,16,23.0,19,3,No
+MAZDA Tribute,2.5,4,Auto-6,2,Gasoline,CA,BFMXT02.51EN,SUV,6.0,21,28.0,23,5,No
+MAZDA Tribute,2.5,4,Man-5,2,Gasoline,CA,BFMXT02.51EN,SUV,6.0,23,28.0,25,6,Yes
+MAZDA Tribute,2.5,4,Auto-6,4,Gasoline,CA,BFMXT02.51EN,SUV,6.0,20,26.0,23,5,No
+MAZDA Tribute,2.5,4,Auto-6,2,Gasoline,FA,BFMXT02.51EN,SUV,5.0,21,28.0,23,5,No
+MAZDA Tribute,2.5,4,Man-5,2,Gasoline,FA,BFMXT02.51EN,SUV,5.0,23,28.0,25,6,No
+MAZDA Tribute,2.5,4,Auto-6,4,Gasoline,FA,BFMXT02.51EN,SUV,5.0,20,26.0,23,5,No
+MAZDA Tribute Hybrid,2.5,4,CVT,2,Gasoline,CA,BFMXT02.52ZG,SUV,9.0,34,31.0,32,7,Yes
+MAZDA Tribute Hybrid,2.5,4,CVT,4,Gasoline,CA,BFMXT02.52ZG,SUV,9.0,30,27.0,29,7,Yes
+MAZDA Tribute Hybrid,2.5,4,CVT,2,Gasoline,FA,BFMXT02.52ZG,SUV,7.0,34,31.0,32,7,Yes
+MAZDA Tribute Hybrid,2.5,4,CVT,4,Gasoline,FA,BFMXT02.52ZG,SUV,7.0,30,27.0,29,7,Yes
+MERCEDES-BENZ C300,3.0,6,Auto-7,2,Gasoline,CA,BMBXJ03.5S2A,small car,9.0,18,26.0,21,4,No
+MERCEDES-BENZ C300,3.0,6,Auto-7,2,Gasoline,FA,BMBXJ03.5S2A,small car,6.0,18,26.0,21,4,No
+MERCEDES-BENZ C300 4Matic,3.5,6,Auto-7,4,Gasoline,CA,BMBXJ03.5S2A,small car,9.0,17,24.0,20,4,No
+MERCEDES-BENZ C300 4Matic,3.5,6,Auto-7,4,Gasoline,FA,BMBXJ03.5S2A,small car,6.0,17,24.0,20,4,No
+MERCEDES-BENZ C350,3.5,6,Auto-7,2,Gasoline,FC,BMBXV03.5BN4,small car,6.0,17,25.0,20,4,No
+MERCEDES-BENZ C63 AMG,6.2,8,Auto-7,2,Gasoline,CA,BMBXV06.3U2A,small car,6.0,13,19.0,15,1,No
+MERCEDES-BENZ C63 AMG,6.2,8,Auto-7,2,Gasoline,FA,BMBXV06.3U2A,small car,5.0,13,19.0,15,1,No
+MERCEDES-BENZ CL550 4Matic,4.7,8,Auto-7,4,Gasoline,CA,BMBXV05.5U2A,small car,6.0,15,23.0,18,3,No
+MERCEDES-BENZ CL550 4Matic,4.7,8,Auto-7,4,Gasoline,FA,BMBXV05.5U2A,small car,5.0,15,23.0,18,3,No
+MERCEDES-BENZ CL600,5.5,12,Auto-5,2,Gasoline,CA,BMBXV06.0U2A,small car,6.0,12,18.0,14,1,No
+MERCEDES-BENZ CL600,5.5,12,Auto-5,2,Gasoline,FA,BMBXV06.0U2A,small car,5.0,12,18.0,14,1,No
+MERCEDES-BENZ CL63 AMG,5.5,8,Auto-7,2,Gasoline,CA,BMBXV05.5U2A,small car,6.0,15,21.0,17,2,No
+MERCEDES-BENZ CL63 AMG,5.5,8,Auto-7,2,Gasoline,FA,BMBXV05.5U2A,small car,5.0,15,21.0,17,2,No
+MERCEDES-BENZ CL65 AMG,6.0,12,Auto-5,2,Gasoline,CA,BMBXV06.0U2A,small car,6.0,12,18.0,14,1,No
+MERCEDES-BENZ CL65 AMG,6.0,12,Auto-5,2,Gasoline,FA,BMBXV06.0U2A,small car,5.0,12,18.0,14,1,No
+MERCEDES-BENZ CLS550,4.7,8,Auto-7,2,Gasoline,CA,BMBXJ05.5U2A,small car,6.0,14,21.0,16,1,No
+MERCEDES-BENZ CLS550,4.7,8,Auto-7,2,Gasoline,FA,BMBXJ05.5U2A,small car,5.0,14,21.0,16,1,No
+MERCEDES-BENZ CLS63 AMG,6.3,8,Auto-7,2,Gasoline,FA,BMBXJ06.3L2A,small car,5.0,12,18.0,14,1,No
+MERCEDES-BENZ CLS63 AMG,6.3,8,Auto-7,2,Gasoline,CA,BMBXJ06.3L2A,small car,5.0,12,18.0,14,1,No
+MERCEDES-BENZ E350,3.5,6,Auto-7,2,Gasoline,CA,BMBXJ03.5S2A,midsize car,9.0,17,25.0,20,4,No
+MERCEDES-BENZ E350,3.5,6,Auto-7,2,Gasoline,CA,BMBXJ03.5S2A,small car,9.0,17,26.0,20,4,No
+MERCEDES-BENZ E350,3.5,6,Auto-7,2,Gasoline,FA,BMBXJ03.5S2A,midsize car,6.0,17,25.0,20,4,No
+MERCEDES-BENZ E350,3.5,6,Auto-7,2,Gasoline,FC,BMBXV03.5BN4,midsize car,6.0,17,25.0,20,4,No
+MERCEDES-BENZ E350,3.5,6,Auto-7,2,Gasoline,FA,BMBXJ03.5S2A,small car,6.0,17,26.0,20,4,No
+MERCEDES-BENZ E350,3.5,6,Auto-7,2,Gasoline,FC,BMBXV03.5BN4,small car,6.0,17,26.0,20,4,No
+MERCEDES-BENZ E350 4Matic,3.5,6,Auto-7,4,Gasoline,CA,BMBXV03.5U2A,midsize car,6.0,17,24.0,19,3,No
+MERCEDES-BENZ E350 4Matic,3.5,6,Auto-7,4,Gasoline,FA,BMBXV03.5U2A,midsize car,5.0,17,24.0,19,3,No
+MERCEDES-BENZ E350 4Matic Wagon,3.5,6,Auto-7,4,Gasoline,CA,BMBXV03.5U2A,station wagon,6.0,16,23.0,19,3,No
+MERCEDES-BENZ E350 4Matic Wagon,3.5,6,Auto-7,4,Gasoline,FA,BMBXV03.5U2A,station wagon,5.0,16,23.0,19,3,No
+MERCEDES-BENZ E350 Convertible,3.5,6,Auto-7,2,Gasoline,FC,BMBXV03.5BN4,small car,6.0,17,25.0,20,4,No
+MERCEDES-BENZ E550,5.5,8,Auto-7,2,Gasoline,CA,BMBXJ05.5U2A,midsize car,6.0,15,23.0,18,3,No
+MERCEDES-BENZ E550,5.5,8,Auto-7,2,Gasoline,CA,BMBXJ05.5U2A,small car,6.0,15,23.0,18,3,No
+MERCEDES-BENZ E550,5.5,8,Auto-7,2,Gasoline,FA,BMBXJ05.5U2A,midsize car,5.0,15,23.0,18,3,No
+MERCEDES-BENZ E550,5.5,8,Auto-7,2,Gasoline,FA,BMBXJ05.5U2A,small car,5.0,15,23.0,18,3,No
+MERCEDES-BENZ E550 4Matic,5.5,8,Auto-7,4,Gasoline,CA,BMBXJ05.5U2A,midsize car,6.0,15,23.0,18,3,No
+MERCEDES-BENZ E550 4Matic,5.5,8,Auto-7,4,Gasoline,FA,BMBXJ05.5U2A,midsize car,5.0,15,23.0,18,3,No
+MERCEDES-BENZ E550 Convertible,5.5,8,Auto-7,2,Gasoline,CA,BMBXJ05.5U2A,small car,6.0,15,22.0,17,2,No
+MERCEDES-BENZ E550 Convertible,5.5,8,Auto-7,2,Gasoline,FA,BMBXJ05.5U2A,small car,5.0,15,22.0,17,2,No
+MERCEDES-BENZ E63 AMG,6.2,8,Auto-7,2,Gasoline,CA,BMBXV06.3U2A,midsize car,6.0,13,20.0,15,1,No
+MERCEDES-BENZ E63 AMG,6.2,8,Auto-7,2,Gasoline,FA,BMBXV06.3U2A,midsize car,5.0,13,20.0,15,1,No
+MERCEDES-BENZ G55 AMG,5.4,8,Auto-5,4,Gasoline,FA,BMBXT05.5L2A,SUV,5.0,11,13.0,12,1,No
+MERCEDES-BENZ G55 AMG,5.4,8,Auto-5,4,Gasoline,CA,BMBXT05.5L2A,SUV,5.0,11,13.0,12,1,No
+MERCEDES-BENZ G550,5.5,8,Auto-7,4,Gasoline,CA,BMBXJ05.5U2A,SUV,6.0,11,15.0,13,1,No
+MERCEDES-BENZ G550,5.5,8,Auto-7,4,Gasoline,FA,BMBXJ05.5U2A,SUV,5.0,11,15.0,13,1,No
+MERCEDES-BENZ GL450 4Matic,4.7,8,Auto-7,4,Gasoline,CA,BMBXJ05.5U2A,SUV,6.0,13,18.0,15,1,No
+MERCEDES-BENZ GL450 4Matic,4.7,8,Auto-7,4,Gasoline,FA,BMBXJ05.5U2A,SUV,5.0,13,18.0,15,1,No
+MERCEDES-BENZ GL550 4Matic,5.5,8,Auto-7,4,Gasoline,CA,BMBXJ05.5U2A,SUV,6.0,12,17.0,14,1,No
+MERCEDES-BENZ GL550 4Matic,5.5,8,Auto-7,4,Gasoline,FA,BMBXJ05.5U2A,SUV,5.0,12,17.0,14,1,No
+MERCEDES-BENZ GLK350,3.5,6,Auto-7,2,Gasoline,CA,BMBXJ03.5S2A,SUV,9.0,16,23.0,18,3,No
+MERCEDES-BENZ GLK350,3.5,6,Auto-7,2,Gasoline,FA,BMBXJ03.5S2A,SUV,6.0,16,23.0,18,3,No
+MERCEDES-BENZ GLK350,3.5,6,Auto-7,2,Gasoline,FC,BMBXV03.5BN4,SUV,6.0,16,23.0,18,3,No
+MERCEDES-BENZ GLK350 4Matic,3.5,6,Auto-7,4,Gasoline,CA,BMBXJ03.5S2A,SUV,9.0,16,21.0,18,3,No
+MERCEDES-BENZ GLK350 4Matic,3.5,6,Auto-7,4,Gasoline,FA,BMBXJ03.5S2A,SUV,6.0,16,21.0,18,3,No
+MERCEDES-BENZ GLK350 4Matic,3.5,6,Auto-7,4,Gasoline,CA,BMBXT03.5U2A,SUV,6.0,16,21.0,18,3,No
+MERCEDES-BENZ GLK350 4Matic,3.5,6,Auto-7,4,Gasoline,FA,BMBXT03.5U2A,SUV,5.0,16,21.0,18,3,No
+MERCEDES-BENZ ML350,3.5,6,Auto-7,2,Gasoline,CA,BMBXT03.5U2A,SUV,6.0,16,20.0,17,2,No
+MERCEDES-BENZ ML350,3.5,6,Auto-7,2,Gasoline,FA,BMBXT03.5U2A,SUV,5.0,16,20.0,17,2,No
+MERCEDES-BENZ ML450 Hybrid 4Matic,3.5,6,CVT,4,Gasoline,CA,BMBXT03.5HY2,SUV,8.0,20,24.0,22,5,No
+MERCEDES-BENZ ML450 Hybrid 4Matic,3.5,6,CVT,4,Gasoline,FA,BMBXT03.5HY2,SUV,6.0,20,24.0,22,5,No
+MERCEDES-BENZ ML550 4Matic,5.5,8,Auto-7,4,Gasoline,CA,BMBXJ05.5U2A,SUV,6.0,13,18.0,15,1,No
+MERCEDES-BENZ ML550 4Matic,5.5,8,Auto-7,4,Gasoline,FA,BMBXJ05.5U2A,SUV,5.0,13,18.0,15,1,No
+MERCEDES-BENZ ML63 AMG,6.3,8,Auto-7,4,Gasoline,FA,BMBXJ06.3L2A,SUV,5.0,11,15.0,12,1,No
+MERCEDES-BENZ ML63 AMG,6.3,8,Auto-7,4,Gasoline,CA,BMBXJ06.3L2A,SUV,5.0,11,15.0,12,1,No
+MERCEDES-BENZ R350 4Matic,3.5,6,Auto-7,4,Gasoline,CA,BMBXT03.5U2A,SUV,6.0,15,19.0,16,1,No
+MERCEDES-BENZ R350 4Matic,3.5,6,Auto-7,4,Gasoline,FA,BMBXT03.5U2A,SUV,5.0,15,19.0,16,1,No
+MERCEDES-BENZ S400 Hybrid,3.5,6,Auto-7,2,Gasoline,CA,BMBXV03.5HY1,large car,9.0,19,25.0,21,4,No
+MERCEDES-BENZ S400 Hybrid,3.5,6,Auto-7,2,Gasoline,FA,BMBXV03.5HY1,large car,6.0,19,25.0,21,4,No
+MERCEDES-BENZ S550,5.5,8,Auto-7,2,Gasoline,CA,BMBXJ05.5U2A,large car,6.0,15,23.0,18,3,No
+MERCEDES-BENZ S550,5.5,8,Auto-7,2,Gasoline,FA,BMBXJ05.5U2A,large car,5.0,15,23.0,18,3,No
+MERCEDES-BENZ S550 4Matic,5.5,8,Auto-7,4,Gasoline,CA,BMBXJ05.5U2A,large car,6.0,14,21.0,17,2,No
+MERCEDES-BENZ S550 4Matic,5.5,8,Auto-7,4,Gasoline,FA,BMBXJ05.5U2A,large car,5.0,14,21.0,17,2,No
+MERCEDES-BENZ S600,5.5,12,Auto-5,2,Gasoline,CA,BMBXV06.0U2A,large car,6.0,12,19.0,14,1,No
+MERCEDES-BENZ S600,5.5,12,Auto-5,2,Gasoline,FA,BMBXV06.0U2A,large car,5.0,12,19.0,14,1,No
+MERCEDES-BENZ S63 AMG,5.5,8,Auto-7,2,Gasoline,CA,BMBXV05.5U2A,large car,6.0,15,22.0,17,2,No
+MERCEDES-BENZ S63 AMG,5.5,8,Auto-7,2,Gasoline,FA,BMBXV05.5U2A,large car,5.0,15,22.0,17,2,No
+MERCEDES-BENZ S65 AMG,6.0,12,Auto-5,2,Gasoline,CA,BMBXV06.0U2A,large car,6.0,12,19.0,14,1,No
+MERCEDES-BENZ S65 AMG,6.0,12,Auto-5,2,Gasoline,FA,BMBXV06.0U2A,large car,5.0,12,19.0,14,1,No
+MERCEDES-BENZ SL550,5.5,8,Auto-7,2,Gasoline,CA,BMBXJ05.5U2A,small car,6.0,14,22.0,17,2,No
+MERCEDES-BENZ SL550,5.5,8,Auto-7,2,Gasoline,FA,BMBXJ05.5U2A,small car,5.0,14,22.0,17,2,No
+MERCEDES-BENZ SL63 AMG,6.3,8,Auto-7,2,Gasoline,FA,BMBXJ06.3L2A,small car,5.0,12,19.0,14,1,No
+MERCEDES-BENZ SL63 AMG,6.3,8,Auto-7,2,Gasoline,CA,BMBXJ06.3L2A,small car,5.0,12,19.0,14,1,No
+MERCEDES-BENZ SL65 AMG,6.0,12,Auto-5,2,Gasoline,FA,BMBXV06.0L2A,small car,5.0,12,18.0,14,1,No
+MERCEDES-BENZ SL65 AMG,6.0,12,Auto-5,2,Gasoline,CA,BMBXV06.0L2A,small car,5.0,12,18.0,14,1,No
+MERCEDES-BENZ SLK300,3.0,6,Auto-7,2,Gasoline,FC,BMBXV03.5BN4,small car,6.0,19,26.0,21,4,No
+MERCEDES-BENZ SLK300,3.0,6,Man-6,2,Gasoline,CA,BMBXV03.5U2A,small car,6.0,17,26.0,20,4,No
+MERCEDES-BENZ SLK300,3.0,6,Man-6,2,Gasoline,FA,BMBXV03.5U2A,small car,5.0,17,26.0,20,4,No
+MERCEDES-BENZ SLK350,3.5,6,Auto-7,2,Gasoline,FC,BMBXV03.5BN4,small car,6.0,19,25.0,21,4,No
+MERCEDES-BENZ SLK350,3.5,6,Man-6,2,Gasoline,CA,BMBXV03.5U2A,small car,6.0,18,26.0,20,4,No
+MERCEDES-BENZ SLK350,3.5,6,Man-6,2,Gasoline,FA,BMBXV03.5U2A,small car,5.0,18,26.0,20,4,No
+MERCURY Mariner,2.5,4,Auto-6,2,Gasoline,CA,BFMXT02.51EN,SUV,6.0,21,28.0,23,5,No
+MERCURY Mariner,2.5,4,Auto-6,4,Gasoline,CA,BFMXT02.51EN,SUV,6.0,20,26.0,22,5,No
+MERCURY Mariner,2.5,4,Auto-6,2,Gasoline,FA,BFMXT02.51EN,SUV,5.0,21,28.0,23,5,No
+MERCURY Mariner,2.5,4,Auto-6,4,Gasoline,FA,BFMXT02.51EN,SUV,5.0,20,26.0,22,5,No
+MERCURY Mariner Hybrid,2.5,4,CVT,2,Gasoline,CA,BFMXT02.52ZG,SUV,9.0,34,31.0,32,7,Yes
+MERCURY Mariner Hybrid,2.5,4,CVT,4,Gasoline,CA,BFMXT02.52ZG,SUV,9.0,30,27.0,29,7,Yes
+MERCURY Mariner Hybrid,2.5,4,CVT,2,Gasoline,FA,BFMXT02.52ZG,SUV,7.0,34,31.0,32,7,Yes
+MERCURY Mariner Hybrid,2.5,4,CVT,4,Gasoline,FA,BFMXT02.52ZG,SUV,7.0,30,27.0,29,7,Yes
+MERCURY Milan,2.5,4,Man-6,2,Gasoline,CA,BFMXV02.5VEN,midsize car,6.0,22,29.0,24,5,No
+MERCURY Milan,2.5,4,Auto-6,2,Gasoline,CA,BFMXV02.5VEN,midsize car,6.0,23,33.0,26,6,Yes
+MERCURY Milan,2.5,4,Man-6,2,Gasoline,FA,BFMXV02.5VEN,midsize car,5.0,22,29.0,24,5,No
+MERCURY Milan,2.5,4,Auto-6,2,Gasoline,FA,BFMXV02.5VEN,midsize car,5.0,23,33.0,26,6,No
+MERCURY Milan Hybrid,2.5,4,CVT,2,Gasoline,CA,BFMXV02.5VZH,midsize car,9.0,41,36.0,39,9,Yes
+MERCURY Milan Hybrid,2.5,4,CVT,2,Gasoline,FA,BFMXV02.5VZH,midsize car,7.0,41,36.0,39,9,Yes
+MERCURY Milan S,2.5,4,Man-6,2,Gasoline,CA,BFMXV02.5VEN,midsize car,6.0,22,32.0,25,6,Yes
+MERCURY Milan S,2.5,4,Man-6,2,Gasoline,FA,BFMXV02.5VEN,midsize car,5.0,22,32.0,25,6,No
+MERCURY MKS,3.5,6,SemiAuto-6,2,Gasoline,CA,BFMXV03.7VEL,large car,6.0,17,24.0,19,3,No
+MERCURY MKS,3.5,6,SemiAuto-6,4,Gasoline,CA,BFMXV03.5VEE,large car,6.0,17,25.0,20,4,No
+MERCURY MKS,3.7,6,SemiAuto-6,4,Gasoline,CA,BFMXV03.7VEL,large car,6.0,16,23.0,19,3,No
+MERCURY MKS,3.5,6,SemiAuto-6,2,Gasoline,FA,BFMXV03.7VEL,large car,5.0,17,24.0,19,3,No
+MERCURY MKS,3.5,6,SemiAuto-6,4,Gasoline,FA,BFMXV03.5VEE,large car,5.0,17,25.0,20,4,No
+MERCURY MKS,3.7,6,SemiAuto-6,4,Gasoline,FA,BFMXV03.7VEL,large car,5.0,16,23.0,19,3,No
+MINI Clubman,1.6,4,SemiAuto-6,2,Gasoline,CA,BBMXV01.6N16,small car,6.0,27,35.0,30,7,Yes
+MINI Clubman,1.6,4,Man-6,2,Gasoline,CA,BBMXV01.6N16,small car,6.0,28,35.0,31,7,Yes
+MINI Clubman,1.6,4,SemiAuto-6,2,Gasoline,FA,BBMXV01.6N16,small car,5.0,27,35.0,30,7,Yes
+MINI Clubman,1.6,4,Man-6,2,Gasoline,FA,BBMXV01.6N16,small car,5.0,28,35.0,31,7,Yes
+MINI Convertible,1.6,4,SemiAuto-6,2,Gasoline,CA,BBMXV01.6N16,small car,6.0,27,35.0,30,7,Yes
+MINI Convertible,1.6,4,Man-6,2,Gasoline,CA,BBMXV01.6N16,small car,6.0,28,35.0,31,7,Yes
+MINI Convertible,1.6,4,SemiAuto-6,2,Gasoline,FA,BBMXV01.6N16,small car,5.0,27,35.0,30,7,Yes
+MINI Convertible,1.6,4,Man-6,2,Gasoline,FA,BBMXV01.6N16,small car,5.0,28,35.0,31,7,Yes
+MINI Cooper,1.6,4,SemiAuto-6,2,Gasoline,CA,BBMXV01.6N16,small car,6.0,28,36.0,31,7,Yes
+MINI Cooper,1.6,4,Man-6,2,Gasoline,CA,BBMXV01.6N16,small car,6.0,29,37.0,32,7,Yes
+MINI Cooper,1.6,4,SemiAuto-6,2,Gasoline,FA,BBMXV01.6N16,small car,5.0,28,36.0,31,7,Yes
+MINI Cooper,1.6,4,Man-6,2,Gasoline,FA,BBMXV01.6N16,small car,5.0,29,37.0,32,7,Yes
+MINI Cooper Countryman,1.6,4,SemiAuto-6,2,Gasoline,CA,BBMXV01.6N16,small car,6.0,25,30.0,27,6,Yes
+MINI Cooper Countryman,1.6,4,Man-6,2,Gasoline,CA,BBMXV01.6N16,small car,6.0,28,35.0,31,7,Yes
+MINI Cooper Countryman,1.6,4,SemiAuto-6,2,Gasoline,FA,BBMXV01.6N16,small car,5.0,25,30.0,27,6,No
+MINI Cooper Countryman,1.6,4,Man-6,2,Gasoline,FA,BBMXV01.6N16,small car,5.0,28,35.0,31,7,Yes
+MINI Cooper S,1.6,4,SemiAuto-6,2,Gasoline,CA,BBMXV01.6N18,small car,6.0,26,34.0,29,7,Yes
+MINI Cooper S,1.6,4,Man-6,2,Gasoline,CA,BBMXV01.6N18,small car,6.0,27,35.0,30,7,Yes
+MINI Cooper S,1.6,4,SemiAuto-6,2,Gasoline,FA,BBMXV01.6N18,small car,5.0,26,34.0,29,7,Yes
+MINI Cooper S,1.6,4,Man-6,2,Gasoline,FA,BBMXV01.6N18,small car,5.0,27,35.0,30,7,Yes
+MINI Cooper S Clubman,1.6,4,SemiAuto-6,2,Gasoline,CA,BBMXV01.6N18,small car,6.0,26,34.0,29,7,Yes
+MINI Cooper S Clubman,1.6,4,Man-6,2,Gasoline,CA,BBMXV01.6N18,small car,6.0,27,35.0,30,7,Yes
+MINI Cooper S Clubman,1.6,4,SemiAuto-6,2,Gasoline,FA,BBMXV01.6N18,small car,5.0,26,34.0,29,7,Yes
+MINI Cooper S Clubman,1.6,4,Man-6,2,Gasoline,FA,BBMXV01.6N18,small car,5.0,27,35.0,30,7,Yes
+MINI Cooper S Convertible,1.6,4,SemiAuto-6,2,Gasoline,CA,BBMXV01.6N18,small car,6.0,26,34.0,29,7,Yes
+MINI Cooper S Convertible,1.6,4,Man-6,2,Gasoline,CA,BBMXV01.6N18,small car,6.0,27,35.0,30,7,Yes
+MINI Cooper S Convertible,1.6,4,SemiAuto-6,2,Gasoline,FA,BBMXV01.6N18,small car,5.0,26,34.0,29,7,Yes
+MINI Cooper S Convertible,1.6,4,Man-6,2,Gasoline,FA,BBMXV01.6N18,small car,5.0,27,35.0,30,7,Yes
+MINI Cooper S Countryman,1.6,4,SemiAuto-6,2,Gasoline,CA,BBMXV01.6N18,small car,6.0,25,32.0,28,7,Yes
+MINI Cooper S Countryman,1.6,4,Man-6,2,Gasoline,CA,BBMXV01.6N18,small car,6.0,26,32.0,29,7,Yes
+MINI Cooper S Countryman,1.6,4,SemiAuto-6,2,Gasoline,FA,BBMXV01.6N18,small car,5.0,25,32.0,28,7,Yes
+MINI Cooper S Countryman,1.6,4,Man-6,2,Gasoline,FA,BBMXV01.6N18,small car,5.0,26,32.0,29,7,Yes
+MINI Cooper S Countryman All4,1.6,4,SemiAuto-6,4,Gasoline,CA,BBMXV01.6N18,small car,6.0,23,30.0,26,6,Yes
+MINI Cooper S Countryman All4,1.6,4,Man-6,4,Gasoline,CA,BBMXV01.6N18,small car,6.0,25,31.0,28,7,Yes
+MINI Cooper S Countryman All4,1.6,4,SemiAuto-6,4,Gasoline,FA,BBMXV01.6N18,small car,5.0,23,30.0,26,6,No
+MINI Cooper S Countryman All4,1.6,4,Man-6,4,Gasoline,FA,BBMXV01.6N18,small car,5.0,25,31.0,28,7,Yes
+MINI John Cooper Works,1.6,4,Man-6,2,Gasoline,FA,BBMXV01.6SPD,small car,5.0,25,33.0,28,7,Yes
+MINI John Cooper Works,1.6,4,Man-6,2,Gasoline,CA,BBMXV01.6SPD,small car,5.0,25,33.0,28,7,Yes
+MINI John Cooper Works Clubman,1.6,4,Man-6,2,Gasoline,FA,BBMXV01.6SPD,small car,5.0,25,33.0,28,7,Yes
+MINI John Cooper Works Clubman,1.6,4,Man-6,2,Gasoline,CA,BBMXV01.6SPD,small car,5.0,25,33.0,28,7,Yes
+MINI John Cooper Works Conv,1.6,4,Man-6,2,Gasoline,FA,BBMXV01.6SPD,small car,5.0,25,33.0,28,7,Yes
+MINI John Cooper Works Conv,1.6,4,Man-6,2,Gasoline,CA,BBMXV01.6SPD,small car,5.0,25,33.0,28,7,Yes
+MITSUBISHI Eclipse,2.4,4,Man-5,2,Gasoline,CA,BDSXV02.4GR4,small car,6.0,20,28.0,23,5,No
+MITSUBISHI Eclipse,2.4,4,SemiAuto-4,2,Gasoline,CA,BDSXV02.4GR4,small car,6.0,20,28.0,23,5,No
+MITSUBISHI Eclipse,2.4,4,Man-5,2,Gasoline,FA,BDSXV02.4GR4,small car,5.0,20,28.0,23,5,No
+MITSUBISHI Eclipse,2.4,4,Man-5,2,Gasoline,FA,BDSXV02.4GRH,small car,5.0,20,28.0,23,5,No
+MITSUBISHI Eclipse,2.4,4,SemiAuto-4,2,Gasoline,FA,BDSXV02.4GR4,small car,5.0,20,28.0,23,5,No
+MITSUBISHI Eclipse,2.4,4,SemiAuto-4,2,Gasoline,FA,BDSXV02.4GRH,small car,5.0,20,28.0,23,5,No
+MITSUBISHI Eclipse,3.8,6,SemiAuto-5,2,Gasoline,FA,BDSXV03.8GRC,small car,5.0,17,25.0,20,4,No
+MITSUBISHI Eclipse,3.8,6,SemiAuto-5,2,Gasoline,CA,BDSXV03.8GRC,small car,5.0,17,25.0,20,4,No
+MITSUBISHI Eclipse Spyder,2.4,4,SemiAuto-4,2,Gasoline,CA,BDSXV02.4GR4,small car,6.0,20,27.0,23,5,No
+MITSUBISHI Eclipse Spyder,2.4,4,SemiAuto-4,2,Gasoline,FA,BDSXV02.4GR4,small car,5.0,20,27.0,23,5,No
+MITSUBISHI Eclipse Spyder,2.4,4,SemiAuto-4,2,Gasoline,FA,BDSXV02.4GRH,small car,5.0,20,27.0,23,5,No
+MITSUBISHI Eclipse Spyder,3.8,6,SemiAuto-5,2,Gasoline,FA,BDSXV03.8GRC,small car,5.0,16,24.0,19,3,No
+MITSUBISHI Eclipse Spyder,3.8,6,SemiAuto-5,2,Gasoline,CA,BDSXV03.8GRC,small car,5.0,16,24.0,19,3,No
+MITSUBISHI Endeavor,3.8,6,SemiAuto-4,2,Gasoline,FA,BDSXT03.8GRB,SUV,5.0,15,21.0,18,3,No
+MITSUBISHI Endeavor,3.8,6,SemiAuto-4,4,Gasoline,FA,BDSXT03.8GRB,SUV,5.0,15,19.0,17,2,No
+MITSUBISHI Endeavor,3.8,6,SemiAuto-4,2,Gasoline,CA,BDSXT03.8GRB,SUV,5.0,15,21.0,18,3,No
+MITSUBISHI Endeavor,3.8,6,SemiAuto-4,4,Gasoline,CA,BDSXT03.8GRB,SUV,5.0,15,19.0,17,2,No
+MITSUBISHI Galant,2.4,4,SemiAuto-4,2,Gasoline,CA,BDSXV02.4G6G,midsize car,9.0,21,30.0,24,5,No
+MITSUBISHI Galant,2.4,4,SemiAuto-4,2,Gasoline,FA,BDSXV02.4GRB,midsize car,5.0,21,30.0,24,5,No
+MITSUBISHI Galant,2.4,4,SemiAuto-4,2,Gasoline,CA,BDSXV02.4GRB,midsize car,5.0,21,30.0,24,5,No
+MITSUBISHI Lancer,2.0,4,Man-5,2,Gasoline,CA,BMTXV02.4G6G,small car,9.0,24,33.0,28,7,Yes
+MITSUBISHI Lancer,2.0,4,Other-1,2,Gasoline,CA,BMTXV02.4G6G,small car,9.0,25,33.0,28,7,Yes
+MITSUBISHI Lancer,2.4,4,Man-5,2,Gasoline,CA,BMTXV02.4G6G,small car,9.0,22,31.0,26,6,Yes
+MITSUBISHI Lancer,2.4,4,Other-1,2,Gasoline,CA,BMTXV02.4G6G,small car,9.0,23,30.0,26,6,Yes
+MITSUBISHI Lancer,2.0,4,AutoMan-6,4,Gasoline,FA,BMTXV02.0GRB,small car,5.0,17,25.0,20,4,No
+MITSUBISHI Lancer,2.0,4,Man-5,2,Gasoline,FA,BMTXV02.4GRB,small car,5.0,24,33.0,28,7,Yes
+MITSUBISHI Lancer,2.0,4,AutoMan-6,4,Gasoline,CA,BMTXV02.0GRB,small car,5.0,17,25.0,20,4,No
+MITSUBISHI Lancer,2.0,4,Man-5,2,Gasoline,CA,BMTXV02.4GRB,small car,5.0,24,33.0,28,7,Yes
+MITSUBISHI Lancer,2.4,4,Man-5,2,Gasoline,FA,BMTXV02.4GRB,small car,5.0,22,31.0,26,6,No
+MITSUBISHI Lancer,2.4,4,Man-5,2,Gasoline,CA,BMTXV02.4GRB,small car,5.0,22,31.0,26,6,No
+MITSUBISHI Lancer Evolution,2.0,4,AutoMan-6,4,Gasoline,FA,BMTXV02.0GRB,small car,5.0,17,22.0,19,3,No
+MITSUBISHI Lancer Evolution,2.0,4,Man-5,4,Gasoline,FA,BMTXV02.0GRB,small car,5.0,17,23.0,19,3,No
+MITSUBISHI Lancer Evolution,2.0,4,AutoMan-6,4,Gasoline,CA,BMTXV02.0GRB,small car,5.0,17,22.0,19,3,No
+MITSUBISHI Lancer Evolution,2.0,4,Man-5,4,Gasoline,CA,BMTXV02.0GRB,small car,5.0,17,23.0,19,3,No
+MITSUBISHI Lancer Sportback,2.0,4,Man-5,2,Gasoline,CA,BMTXV02.4G6G,station wagon,9.0,24,32.0,27,6,Yes
+MITSUBISHI Lancer Sportback,2.0,4,Other-1,2,Gasoline,CA,BMTXV02.4G6G,station wagon,9.0,25,32.0,27,6,Yes
+MITSUBISHI Lancer Sportback,2.4,4,Man-5,2,Gasoline,CA,BMTXV02.4G6G,station wagon,9.0,22,31.0,25,6,Yes
+MITSUBISHI Lancer Sportback,2.4,4,Other-1,2,Gasoline,CA,BMTXV02.4G6G,station wagon,9.0,23,29.0,25,6,Yes
+MITSUBISHI Lancer Sportback,2.0,4,AutoMan-6,4,Gasoline,FA,BMTXV02.0GRB,station wagon,5.0,17,25.0,20,4,No
+MITSUBISHI Lancer Sportback,2.0,4,Man-5,2,Gasoline,FA,BMTXV02.4GRB,station wagon,5.0,24,32.0,27,6,No
+MITSUBISHI Lancer Sportback,2.0,4,AutoMan-6,4,Gasoline,CA,BMTXV02.0GRB,station wagon,5.0,17,25.0,20,4,No
+MITSUBISHI Lancer Sportback,2.0,4,Man-5,2,Gasoline,CA,BMTXV02.4GRB,station wagon,5.0,24,32.0,27,6,No
+MITSUBISHI Lancer Sportback,2.4,4,Man-5,2,Gasoline,FA,BMTXV02.4GRB,station wagon,5.0,22,31.0,25,6,No
+MITSUBISHI Lancer Sportback,2.4,4,Man-5,2,Gasoline,CA,BMTXV02.4GRB,station wagon,5.0,22,31.0,25,6,No
+MITSUBISHI Outlander,3.0,6,SemiAuto-6,2,Gasoline,FA,BMTXT03.0GRB,SUV,5.0,19,26.0,22,5,No
+MITSUBISHI Outlander,3.0,6,SemiAuto-6,4,Gasoline,FA,BMTXT03.0GRB,SUV,5.0,19,25.0,21,4,No
+MITSUBISHI Outlander,3.0,6,SemiAuto-6,2,Gasoline,CA,BMTXT03.0GRB,SUV,5.0,19,26.0,22,5,No
+MITSUBISHI Outlander,3.0,6,SemiAuto-6,4,Gasoline,CA,BMTXT03.0GRB,SUV,5.0,19,25.0,21,4,No
+MITSUBISHI Outlander Sport,2.4,4,Other-1,2,Gasoline,CA,BMTXT02.0G6G,SUV,9.0,25,31.0,27,6,Yes
+MITSUBISHI Outlander Sport,2.4,4,Man-5,2,Gasoline,FA,BMTXT02.4GRB,SUV,5.0,24,31.0,26,6,No
+MITSUBISHI Outlander Sport,2.4,4,Man-5,2,Gasoline,CA,BMTXT02.4GRB,SUV,5.0,24,31.0,26,6,No
+NISSAN 370Z,3.7,6,Man-6,2,Gasoline,CA,BNSXV03.7GAA,small car,6.0,18,26.0,21,4,No
+NISSAN 370Z,3.7,6,SemiAuto-7,2,Gasoline,CA,BNSXV03.7GAA,small car,6.0,19,26.0,22,5,No
+NISSAN 370Z,3.7,6,Man-6,2,Gasoline,FA,BNSXV03.7GAA,small car,5.0,18,26.0,21,4,No
+NISSAN 370Z,3.7,6,SemiAuto-7,2,Gasoline,FA,BNSXV03.7GAA,small car,5.0,19,26.0,22,5,No
+NISSAN 370Z Roadster,3.7,6,Man-6,2,Gasoline,CA,BNSXV03.7GAA,small car,6.0,18,25.0,20,4,No
+NISSAN 370Z Roadster,3.7,6,SemiAuto-7,2,Gasoline,CA,BNSXV03.7GAA,small car,6.0,18,25.0,21,4,No
+NISSAN 370Z Roadster,3.7,6,Man-6,2,Gasoline,FA,BNSXV03.7GAA,small car,5.0,18,25.0,20,4,No
+NISSAN 370Z Roadster,3.7,6,SemiAuto-7,2,Gasoline,FA,BNSXV03.7GAA,small car,5.0,18,25.0,21,4,No
+NISSAN Altima,3.5,6,Other-1,2,Gasoline,CA,BNSXV03.5G7A,midsize car,6.0,20,27.0,23,5,No
+NISSAN Altima,2.5,4,Other-1,2,Gasoline,FA,BNSXJ02.5G5A,midsize car,5.0,23,32.0,27,6,No
+NISSAN Altima,2.5,4,Other-1,2,Gasoline,CA,BNSXJ02.5G5A,midsize car,5.0,23,32.0,27,6,No
+NISSAN Altima,3.5,6,Other-1,2,Gasoline,FA,BNSXV03.5G7A,midsize car,5.0,20,27.0,23,5,No
+NISSAN Altima,3.5,6,Other-1,2,Gasoline,FA,BNSXV03.5G7C,midsize car,5.0,20,27.0,23,5,No
+NISSAN Altima Coupe,3.5,6,Man-6,2,Gasoline,CA,BNSXV03.5G7A,small car,6.0,18,27.0,21,4,No
+NISSAN Altima Coupe,3.5,6,Other-1,2,Gasoline,CA,BNSXV03.5G7A,small car,6.0,20,27.0,23,5,No
+NISSAN Altima Coupe,2.5,4,Man-6,2,Gasoline,FA,BNSXJ02.5G5A,small car,5.0,23,31.0,26,6,No
+NISSAN Altima Coupe,2.5,4,Other-1,2,Gasoline,FA,BNSXJ02.5G5A,small car,5.0,23,32.0,26,6,No
+NISSAN Altima Coupe,2.5,4,Man-6,2,Gasoline,CA,BNSXJ02.5G5A,small car,5.0,23,31.0,26,6,No
+NISSAN Altima Coupe,2.5,4,Other-1,2,Gasoline,CA,BNSXJ02.5G5A,small car,5.0,23,32.0,26,6,No
+NISSAN Altima Coupe,3.5,6,Man-6,2,Gasoline,FA,BNSXV03.5G7A,small car,5.0,18,27.0,21,4,No
+NISSAN Altima Coupe,3.5,6,Man-6,2,Gasoline,FA,BNSXV03.5G7C,small car,5.0,18,27.0,21,4,No
+NISSAN Altima Coupe,3.5,6,Other-1,2,Gasoline,FA,BNSXV03.5G7A,small car,5.0,20,27.0,23,5,No
+NISSAN Altima Coupe,3.5,6,Other-1,2,Gasoline,FA,BNSXV03.5G7C,small car,5.0,20,27.0,23,5,No
+NISSAN Altima Hybrid,2.5,4,CVT,2,Gasoline,CA,BNSXV02.5G3A,midsize car,9.0,33,33.0,33,8,Yes
+NISSAN Armada,5.6,8,Auto-5,2,Gasoline,FA,BNSXT05.6G9A,SUV,5.0,13,19.0,15,1,No
+NISSAN Armada,5.6,8,Auto-5,4,Gasoline,FA,BNSXT05.6G9A,SUV,5.0,12,18.0,14,1,No
+NISSAN Armada,5.6,8,Auto-5,2,Gasoline,CA,BNSXT05.6G9A,SUV,5.0,13,19.0,15,1,No
+NISSAN Armada,5.6,8,Auto-5,4,Gasoline,CA,BNSXT05.6G9A,SUV,5.0,12,18.0,14,1,No
+NISSAN Cube,1.8,4,Man-6,2,Gasoline,FA,BNSXV01.8G1B,station wagon,5.0,25,30.0,27,6,No
+NISSAN Cube,1.8,4,CVT,2,Gasoline,FA,BNSXV01.8G1B,station wagon,5.0,27,31.0,28,7,Yes
+NISSAN Cube,1.8,4,Man-6,2,Gasoline,CA,BNSXV01.8G1B,station wagon,5.0,25,30.0,27,6,No
+NISSAN Cube,1.8,4,CVT,2,Gasoline,CA,BNSXV01.8G1B,station wagon,5.0,27,31.0,28,7,Yes
+NISSAN Frontier,2.5,4,Auto-5,2,Gasoline,CA,BNSXT02.5G5A,pickup,6.0,17,22.0,19,3,No
+NISSAN Frontier,2.5,4,Man-5,2,Gasoline,CA,BNSXT02.5G5A,pickup,6.0,19,23.0,21,4,No
+NISSAN Frontier,4.0,6,Auto-5,2,Gasoline,CA,BNSXT04.0G6A,pickup,6.0,15,20.0,17,2,No
+NISSAN Frontier,4.0,6,Man-6,2,Gasoline,CA,BNSXT04.0G6A,pickup,6.0,16,20.0,17,2,No
+NISSAN Frontier,4.0,6,Auto-5,4,Gasoline,CA,BNSXT04.0G6A,pickup,6.0,14,19.0,16,1,No
+NISSAN Frontier,4.0,6,Man-6,4,Gasoline,CA,BNSXT04.0G6A,pickup,6.0,15,20.0,17,2,No
+NISSAN Frontier,2.5,4,Auto-5,2,Gasoline,FA,BNSXT02.5G5A,pickup,5.0,17,22.0,19,3,No
+NISSAN Frontier,2.5,4,Man-5,2,Gasoline,FA,BNSXT02.5G5A,pickup,5.0,19,23.0,21,4,No
+NISSAN Frontier,4.0,6,Auto-5,2,Gasoline,FA,BNSXT04.0G6A,pickup,5.0,15,20.0,17,2,No
+NISSAN Frontier,4.0,6,Auto-5,2,Gasoline,FA,BNSXT04.0G6B,pickup,5.0,15,20.0,17,2,No
+NISSAN Frontier,4.0,6,Man-6,2,Gasoline,FA,BNSXT04.0G6A,pickup,5.0,16,20.0,17,2,No
+NISSAN Frontier,4.0,6,Man-6,2,Gasoline,FA,BNSXT04.0G6B,pickup,5.0,16,20.0,17,2,No
+NISSAN Frontier,4.0,6,Auto-5,4,Gasoline,FA,BNSXT04.0G6A,pickup,5.0,14,19.0,16,1,No
+NISSAN Frontier,4.0,6,Auto-5,4,Gasoline,FA,BNSXT04.0G6B,pickup,5.0,14,19.0,16,1,No
+NISSAN Frontier,4.0,6,Man-6,4,Gasoline,FA,BNSXT04.0G6A,pickup,5.0,15,20.0,17,2,No
+NISSAN Frontier,4.0,6,Man-6,4,Gasoline,FA,BNSXT04.0G6B,pickup,5.0,15,20.0,17,2,No
+NISSAN GT-R,3.8,6,AutoMan-6,4,Gasoline,CA,BNSXV03.8GBA,small car,6.0,15,21.0,17,2,No
+NISSAN GT-R,3.8,6,AutoMan-6,4,Gasoline,FA,BNSXV03.8GBA,small car,5.0,15,21.0,17,2,No
+NISSAN Juke,1.6,4,Man-6,2,Gasoline,CA,BNSXV01.6GDA,station wagon,6.0,24,31.0,27,6,Yes
+NISSAN Juke,1.6,4,Other-1,4,Gasoline,CA,BNSXV01.6GDA,station wagon,6.0,25,30.0,27,6,Yes
+NISSAN Juke,1.6,4,Other-1,2,Gasoline,CA,BNSXV01.6GDA,station wagon,6.0,27,32.0,29,7,Yes
+NISSAN Juke,1.6,4,Man-6,2,Gasoline,FA,BNSXV01.6GDA,station wagon,5.0,24,31.0,27,6,No
+NISSAN Juke,1.6,4,Other-1,4,Gasoline,FA,BNSXV01.6GDA,station wagon,5.0,25,30.0,27,6,No
+NISSAN Juke,1.6,4,Other-1,2,Gasoline,FA,BNSXV01.6GDA,station wagon,5.0,27,32.0,29,7,Yes
+NISSAN Maxima,3.5,6,Other-1,2,Gasoline,CA,BNSXV03.5G7B,midsize car,6.0,19,26.0,22,5,No
+NISSAN Maxima,3.5,6,Other-1,2,Gasoline,FA,BNSXV03.5G7B,midsize car,5.0,19,26.0,22,5,No
+NISSAN Maxima,3.5,6,Other-1,2,Gasoline,FA,BNSXV03.5G7D,midsize car,5.0,19,26.0,22,5,No
+NISSAN Murano,3.5,6,CVT,2,Gasoline,CA,BNSXT03.5G7A,SUV,6.0,18,23.0,20,4,No
+NISSAN Murano,3.5,6,CVT,4,Gasoline,CA,BNSXT03.5G7A,SUV,6.0,18,23.0,20,4,No
+NISSAN Murano,3.5,6,CVT,2,Gasoline,FA,BNSXT03.5G7A,SUV,5.0,18,23.0,20,4,No
+NISSAN Murano,3.5,6,CVT,2,Gasoline,FA,BNSXT03.5G7B,SUV,5.0,18,23.0,20,4,No
+NISSAN Murano,3.5,6,CVT,4,Gasoline,FA,BNSXT03.5G7A,SUV,5.0,18,23.0,20,4,No
+NISSAN Murano,3.5,6,CVT,4,Gasoline,FA,BNSXT03.5G7B,SUV,5.0,18,23.0,20,4,No
+NISSAN Murano CrossCabriolet,3.5,6,CVT,4,Gasoline,CA,BNSXT03.5G7A,SUV,6.0,17,22.0,19,3,No
+NISSAN Murano CrossCabriolet,3.5,6,CVT,4,Gasoline,FA,BNSXT03.5G7A,SUV,5.0,17,22.0,19,3,No
+NISSAN Pathfinder,4.0,6,Auto-5,2,Gasoline,CA,BNSXT04.0G6A,SUV,6.0,15,22.0,17,2,No
+NISSAN Pathfinder,4.0,6,Auto-5,4,Gasoline,CA,BNSXT04.0G6A,SUV,6.0,14,20.0,16,1,No
+NISSAN Pathfinder,4.0,6,Auto-5,2,Gasoline,FA,BNSXT04.0G6B,SUV,5.0,15,22.0,17,2,No
+NISSAN Pathfinder,4.0,6,Auto-5,4,Gasoline,FA,BNSXT04.0G6A,SUV,5.0,14,20.0,16,1,No
+NISSAN Pathfinder,4.0,6,Auto-5,4,Gasoline,FA,BNSXT04.0G6B,SUV,5.0,14,20.0,16,1,No
+NISSAN Pathfinder,5.6,8,SemiAuto-5,4,Gasoline,FA,BNSXT05.6G9A,SUV,5.0,13,18.0,14,1,No
+NISSAN Pathfinder,5.6,8,SemiAuto-5,4,Gasoline,CA,BNSXT05.6G9A,SUV,5.0,13,18.0,14,1,No
+NISSAN Quest,3.5,6,CVT,2,Gasoline,CA,BNSXT03.5G7A,minivan,6.0,19,24.0,21,4,No
+NISSAN Quest,3.5,6,CVT,2,Gasoline,FA,BNSXT03.5G7A,minivan,5.0,19,24.0,21,4,No
+NISSAN Quest,3.5,6,CVT,2,Gasoline,FA,BNSXT03.5G7B,minivan,5.0,19,24.0,21,4,No
+NISSAN Rogue,2.5,4,CVT,2,Gasoline,FA,BNSXJ02.5G5A,SUV,5.0,22,28.0,25,6,No
+NISSAN Rogue,2.5,4,CVT,4,Gasoline,FA,BNSXJ02.5G5A,SUV,5.0,22,26.0,24,5,No
+NISSAN Rogue,2.5,4,CVT,2,Gasoline,CA,BNSXJ02.5G5A,SUV,5.0,22,28.0,25,6,No
+NISSAN Rogue,2.5,4,CVT,4,Gasoline,CA,BNSXJ02.5G5A,SUV,5.0,22,26.0,24,5,No
+NISSAN Sentra,2.0,4,Man-6,2,Gasoline,FA,BNSXV02.0G2A,midsize car,5.0,24,31.0,27,6,No
+NISSAN Sentra,2.0,4,CVT,2,Gasoline,FA,BNSXV02.0G2A,midsize car,5.0,27,34.0,30,7,Yes
+NISSAN Sentra,2.0,4,Man-6,2,Gasoline,CA,BNSXV02.0G2A,midsize car,5.0,24,31.0,27,6,No
+NISSAN Sentra,2.0,4,CVT,2,Gasoline,CA,BNSXV02.0G2A,midsize car,5.0,27,34.0,30,7,Yes
+NISSAN Sentra,2.5,4,Man-6,2,Gasoline,FA,BNSXV02.5G5A,midsize car,5.0,21,28.0,24,5,No
+NISSAN Sentra,2.5,4,CVT,2,Gasoline,FA,BNSXV02.5G5A,midsize car,5.0,24,30.0,26,6,No
+NISSAN Sentra,2.5,4,Man-6,2,Gasoline,CA,BNSXV02.5G5A,midsize car,5.0,21,28.0,24,5,No
+NISSAN Sentra,2.5,4,CVT,2,Gasoline,CA,BNSXV02.5G5A,midsize car,5.0,24,30.0,26,6,No
+NISSAN Titan,5.6,8,Auto-5,2,Gasoline,FA,BNSXT05.6G9A,pickup,5.0,13,18.0,15,1,No
+NISSAN Titan,5.6,8,Auto-5,4,Gasoline,FA,BNSXT05.6G9A,pickup,5.0,12,17.0,14,1,No
+NISSAN Titan,5.6,8,Auto-5,2,Gasoline,CA,BNSXT05.6G9A,pickup,5.0,13,18.0,15,1,No
+NISSAN Titan,5.6,8,Auto-5,4,Gasoline,CA,BNSXT05.6G9A,pickup,5.0,12,17.0,14,1,No
+NISSAN Versa,1.6,4,Auto-4,2,Gasoline,CA,BNSXV01.6G4A,midsize car,6.0,25,33.0,28,7,Yes
+NISSAN Versa,1.6,4,Man-5,2,Gasoline,CA,BNSXV01.6G4A,midsize car,6.0,26,34.0,29,7,Yes
+NISSAN Versa,1.8,4,Auto-4,2,Gasoline,CA,BNSXV01.8G1A,midsize car,6.0,24,32.0,27,6,Yes
+NISSAN Versa,1.8,4,Man-6,2,Gasoline,CA,BNSXV01.8G1A,midsize car,6.0,26,31.0,28,7,Yes
+NISSAN Versa,1.8,4,CVT,2,Gasoline,CA,BNSXV01.8G1A,midsize car,6.0,28,34.0,30,7,Yes
+NISSAN Versa,1.6,4,Auto-4,2,Gasoline,FA,BNSXV01.6G4A,midsize car,5.0,25,33.0,28,7,Yes
+NISSAN Versa,1.6,4,Man-5,2,Gasoline,FA,BNSXV01.6G4A,midsize car,5.0,26,34.0,29,7,Yes
+NISSAN Versa,1.8,4,Auto-4,2,Gasoline,FA,BNSXV01.8G1A,midsize car,5.0,24,32.0,27,6,No
+NISSAN Versa,1.8,4,Man-6,2,Gasoline,FA,BNSXV01.8G1A,midsize car,5.0,26,31.0,28,7,Yes
+NISSAN Versa,1.8,4,CVT,2,Gasoline,FA,BNSXV01.8G1A,midsize car,5.0,28,34.0,30,7,Yes
+NISSAN Xterra,4.0,6,Auto-5,2,Gasoline,CA,BNSXT04.0G6A,SUV,6.0,16,22.0,18,3,No
+NISSAN Xterra,4.0,6,Auto-5,4,Gasoline,CA,BNSXT04.0G6A,SUV,6.0,15,20.0,17,2,No
+NISSAN Xterra,4.0,6,Man-6,4,Gasoline,CA,BNSXT04.0G6A,SUV,6.0,16,20.0,17,2,No
+NISSAN Xterra,4.0,6,Auto-5,2,Gasoline,FA,BNSXT04.0G6A,SUV,5.0,16,22.0,18,3,No
+NISSAN Xterra,4.0,6,Auto-5,2,Gasoline,FA,BNSXT04.0G6B,SUV,5.0,16,22.0,18,3,No
+NISSAN Xterra,4.0,6,Auto-5,4,Gasoline,FA,BNSXT04.0G6A,SUV,5.0,15,20.0,17,2,No
+NISSAN Xterra,4.0,6,Auto-5,4,Gasoline,FA,BNSXT04.0G6B,SUV,5.0,15,20.0,17,2,No
+NISSAN Xterra,4.0,6,Man-6,4,Gasoline,FA,BNSXT04.0G6A,SUV,5.0,16,20.0,17,2,No
+NISSAN Xterra,4.0,6,Man-6,4,Gasoline,FA,BNSXT04.0G6B,SUV,5.0,16,20.0,17,2,No
+PORSCHE 911 Carrera,3.6,6,Man-6,2,Gasoline,FA,BPRXV03.8CDI,small car,5.0,18,25.0,21,4,No
+PORSCHE 911 Carrera,3.6,6,Auto-7,2,Gasoline,FA,BPRXV03.8CDI,small car,5.0,19,27.0,22,5,No
+PORSCHE 911 Carrera,3.6,6,Man-6,2,Gasoline,CA,BPRXV03.8CDI,small car,5.0,18,25.0,21,4,No
+PORSCHE 911 Carrera,3.6,6,Auto-7,2,Gasoline,CA,BPRXV03.8CDI,small car,5.0,19,27.0,22,5,No
+PORSCHE 911 Carrera 4,3.6,6,Man-6,4,Gasoline,FA,BPRXV03.8CDI,small car,5.0,18,24.0,21,4,No
+PORSCHE 911 Carrera 4,3.6,6,Auto-7,4,Gasoline,FA,BPRXV03.8CDI,small car,5.0,18,26.0,21,4,No
+PORSCHE 911 Carrera 4,3.6,6,Man-6,4,Gasoline,CA,BPRXV03.8CDI,small car,5.0,18,24.0,21,4,No
+PORSCHE 911 Carrera 4,3.6,6,Auto-7,4,Gasoline,CA,BPRXV03.8CDI,small car,5.0,18,26.0,21,4,No
+PORSCHE 911 Carrera 4 Cabriolet,3.6,6,Man-6,4,Gasoline,FA,BPRXV03.8CDI,small car,5.0,18,25.0,21,4,No
+PORSCHE 911 Carrera 4 Cabriolet,3.6,6,Auto-7,4,Gasoline,FA,BPRXV03.8CDI,small car,5.0,18,26.0,21,4,No
+PORSCHE 911 Carrera 4 Cabriolet,3.6,6,Man-6,4,Gasoline,CA,BPRXV03.8CDI,small car,5.0,18,25.0,21,4,No
+PORSCHE 911 Carrera 4 Cabriolet,3.6,6,Auto-7,4,Gasoline,CA,BPRXV03.8CDI,small car,5.0,18,26.0,21,4,No
+PORSCHE 911 Carrera 4 Targa,3.6,6,Man-6,4,Gasoline,FA,BPRXV03.8CDI,small car,5.0,18,25.0,21,4,No
+PORSCHE 911 Carrera 4 Targa,3.6,6,Auto-7,4,Gasoline,FA,BPRXV03.8CDI,small car,5.0,18,26.0,21,4,No
+PORSCHE 911 Carrera 4 Targa,3.6,6,Man-6,4,Gasoline,CA,BPRXV03.8CDI,small car,5.0,18,25.0,21,4,No
+PORSCHE 911 Carrera 4 Targa,3.6,6,Auto-7,4,Gasoline,CA,BPRXV03.8CDI,small car,5.0,18,26.0,21,4,No
+PORSCHE 911 Carrera 4S,3.8,6,Man-6,4,Gasoline,FA,BPRXV03.8CDI,small car,5.0,18,25.0,21,4,No
+PORSCHE 911 Carrera 4S,3.8,6,Auto-7,4,Gasoline,FA,BPRXV03.8CDI,small car,5.0,18,26.0,21,4,No
+PORSCHE 911 Carrera 4S,3.8,6,Man-6,4,Gasoline,CA,BPRXV03.8CDI,small car,5.0,18,25.0,21,4,No
+PORSCHE 911 Carrera 4S,3.8,6,Auto-7,4,Gasoline,CA,BPRXV03.8CDI,small car,5.0,18,26.0,21,4,No
+PORSCHE 911 Carrera 4S Cabriolet,3.8,6,Man-6,4,Gasoline,FA,BPRXV03.8CDI,small car,5.0,17,25.0,20,4,No
+PORSCHE 911 Carrera 4S Cabriolet,3.8,6,Auto-7,4,Gasoline,FA,BPRXV03.8CDI,small car,5.0,18,27.0,21,4,No
+PORSCHE 911 Carrera 4S Cabriolet,3.8,6,Man-6,4,Gasoline,CA,BPRXV03.8CDI,small car,5.0,17,25.0,20,4,No
+PORSCHE 911 Carrera 4S Cabriolet,3.8,6,Auto-7,4,Gasoline,CA,BPRXV03.8CDI,small car,5.0,18,27.0,21,4,No
+PORSCHE 911 Carrera 4S Targa,3.8,6,Man-6,4,Gasoline,FA,BPRXV03.8CDI,small car,5.0,17,25.0,20,4,No
+PORSCHE 911 Carrera 4S Targa,3.8,6,Auto-7,4,Gasoline,FA,BPRXV03.8CDI,small car,5.0,18,27.0,21,4,No
+PORSCHE 911 Carrera 4S Targa,3.8,6,Man-6,4,Gasoline,CA,BPRXV03.8CDI,small car,5.0,17,25.0,20,4,No
+PORSCHE 911 Carrera 4S Targa,3.8,6,Auto-7,4,Gasoline,CA,BPRXV03.8CDI,small car,5.0,18,27.0,21,4,No
+PORSCHE 911 Carrera Cabriolet,3.6,6,Man-6,2,Gasoline,FA,BPRXV03.8CDI,small car,5.0,18,26.0,21,4,No
+PORSCHE 911 Carrera Cabriolet,3.6,6,Auto-7,2,Gasoline,FA,BPRXV03.8CDI,small car,5.0,19,27.0,21,4,No
+PORSCHE 911 Carrera Cabriolet,3.6,6,Man-6,2,Gasoline,CA,BPRXV03.8CDI,small car,5.0,18,26.0,21,4,No
+PORSCHE 911 Carrera Cabriolet,3.6,6,Auto-7,2,Gasoline,CA,BPRXV03.8CDI,small car,5.0,19,27.0,21,4,No
+PORSCHE 911 Carrera S,3.8,6,Man-6,2,Gasoline,FA,BPRXV03.8CDI,small car,5.0,18,25.0,21,4,No
+PORSCHE 911 Carrera S,3.8,6,Auto-7,2,Gasoline,FA,BPRXV03.8CDI,small car,5.0,19,26.0,22,5,No
+PORSCHE 911 Carrera S,3.8,6,Man-6,2,Gasoline,CA,BPRXV03.8CDI,small car,5.0,18,25.0,21,4,No
+PORSCHE 911 Carrera S,3.8,6,Auto-7,2,Gasoline,CA,BPRXV03.8CDI,small car,5.0,19,26.0,22,5,No
+PORSCHE 911 Carrera S Cabriolet,3.8,6,Man-6,2,Gasoline,FA,BPRXV03.8CDI,small car,5.0,18,26.0,21,4,No
+PORSCHE 911 Carrera S Cabriolet,3.8,6,Auto-7,2,Gasoline,FA,BPRXV03.8CDI,small car,5.0,19,27.0,21,4,No
+PORSCHE 911 Carrera S Cabriolet,3.8,6,Man-6,2,Gasoline,CA,BPRXV03.8CDI,small car,5.0,18,26.0,21,4,No
+PORSCHE 911 Carrera S Cabriolet,3.8,6,Auto-7,2,Gasoline,CA,BPRXV03.8CDI,small car,5.0,19,27.0,21,4,No
+PORSCHE 911 GT2 RS,3.6,6,Man-6,2,Gasoline,FA,BPRXV03.6T97,small car,5.0,16,23.0,19,3,No
+PORSCHE 911 GT2 RS,3.6,6,Man-6,2,Gasoline,CA,BPRXV03.6T97,small car,5.0,16,23.0,19,3,No
+PORSCHE 911 GT3,3.8,6,Man-6,2,Gasoline,FA,BPRXV03.8GT3,small car,5.0,14,21.0,16,1,No
+PORSCHE 911 GT3,3.8,6,Man-6,2,Gasoline,CA,BPRXV03.8GT3,small car,5.0,14,21.0,16,1,No
+PORSCHE 911 GT3 RS,3.8,6,Man-6,2,Gasoline,FA,BPRXV03.8GT3,small car,5.0,14,20.0,16,1,No
+PORSCHE 911 GT3 RS,3.8,6,Man-6,2,Gasoline,CA,BPRXV03.8GT3,small car,5.0,14,20.0,16,1,No
+PORSCHE 911 GT3 RS 4.0,3.8,6,Man-6,2,Gasoline,FA,BPRXV03.8GT3,small car,5.0,13,19.0,15,1,No
+PORSCHE 911 GT3 RS 4.0,3.8,6,Man-6,2,Gasoline,CA,BPRXV03.8GT3,small car,5.0,13,19.0,15,1,No
+PORSCHE 911 GTS,3.8,6,Man-6,2,Gasoline,FA,BPRXV03.8CDI,small car,5.0,18,25.0,21,4,No
+PORSCHE 911 GTS,3.8,6,Auto-7,2,Gasoline,FA,BPRXV03.8CDI,small car,5.0,19,26.0,22,5,No
+PORSCHE 911 GTS,3.8,6,Man-6,2,Gasoline,CA,BPRXV03.8CDI,small car,5.0,18,25.0,21,4,No
+PORSCHE 911 GTS,3.8,6,Auto-7,2,Gasoline,CA,BPRXV03.8CDI,small car,5.0,19,26.0,22,5,No
+PORSCHE 911 GTS Cabriolet,3.8,6,Man-6,2,Gasoline,FA,BPRXV03.8CDI,small car,5.0,18,26.0,21,4,No
+PORSCHE 911 GTS Cabriolet,3.8,6,Auto-7,2,Gasoline,FA,BPRXV03.8CDI,small car,5.0,19,27.0,21,4,No
+PORSCHE 911 GTS Cabriolet,3.8,6,Man-6,2,Gasoline,CA,BPRXV03.8CDI,small car,5.0,18,26.0,21,4,No
+PORSCHE 911 GTS Cabriolet,3.8,6,Auto-7,2,Gasoline,CA,BPRXV03.8CDI,small car,5.0,19,27.0,21,4,No
+PORSCHE 911 Speedster,3.8,6,Auto-7,2,Gasoline,FA,BPRXV03.8CDI,small car,5.0,19,27.0,21,4,No
+PORSCHE 911 Speedster,3.8,6,Auto-7,2,Gasoline,CA,BPRXV03.8CDI,small car,5.0,19,27.0,21,4,No
+PORSCHE 911 Turbo,3.8,6,Man-6,2,Gasoline,FA,BPRXV03.8TDI,small car,5.0,16,24.0,19,3,No
+PORSCHE 911 Turbo,3.8,6,Auto-7,2,Gasoline,FA,BPRXV03.8TDI,small car,5.0,17,25.0,19,3,No
+PORSCHE 911 Turbo,3.8,6,Man-6,2,Gasoline,CA,BPRXV03.8TDI,small car,5.0,16,24.0,19,3,No
+PORSCHE 911 Turbo,3.8,6,Auto-7,2,Gasoline,CA,BPRXV03.8TDI,small car,5.0,17,25.0,19,3,No
+PORSCHE 911 Turbo Cabriolet,3.8,6,Auto-7,2,Gasoline,FA,BPRXV03.8TDI,small car,5.0,16,24.0,19,3,No
+PORSCHE 911 Turbo Cabriolet,3.8,6,Man-6,2,Gasoline,FA,BPRXV03.8TDI,small car,5.0,16,24.0,19,3,No
+PORSCHE 911 Turbo Cabriolet,3.8,6,Auto-7,2,Gasoline,CA,BPRXV03.8TDI,small car,5.0,16,24.0,19,3,No
+PORSCHE 911 Turbo Cabriolet,3.8,6,Man-6,2,Gasoline,CA,BPRXV03.8TDI,small car,5.0,16,24.0,19,3,No
+PORSCHE 911 Turbo S Cabriolet,3.8,6,Auto-7,2,Gasoline,FA,BPRXV03.8TDI,small car,5.0,16,24.0,19,3,No
+PORSCHE 911 Turbo S Cabriolet,3.8,6,Auto-7,2,Gasoline,CA,BPRXV03.8TDI,small car,5.0,16,24.0,19,3,No
+PORSCHE 911 Turbo S Coupe,3.8,6,Auto-7,2,Gasoline,FA,BPRXV03.8TDI,small car,5.0,17,25.0,19,3,No
+PORSCHE 911 Turbo S Coupe,3.8,6,Auto-7,2,Gasoline,CA,BPRXV03.8TDI,small car,5.0,17,25.0,19,3,No
+PORSCHE Boxster,2.9,6,Man-6,2,Gasoline,CA,BPRXV02.9BMI,small car,6.0,19,27.0,22,5,No
+PORSCHE Boxster,2.9,6,Auto-7,2,Gasoline,CA,BPRXV02.9BMI,small car,6.0,20,29.0,24,5,No
+PORSCHE Boxster,2.9,6,Man-6,2,Gasoline,FA,BPRXV02.9BMI,small car,5.0,19,27.0,22,5,No
+PORSCHE Boxster,2.9,6,Auto-7,2,Gasoline,FA,BPRXV02.9BMI,small car,5.0,20,29.0,24,5,No
+PORSCHE Boxster S,3.4,6,Man-6,2,Gasoline,CA,BPRXV03.4BDI,small car,6.0,19,26.0,22,5,No
+PORSCHE Boxster S,3.4,6,Auto-7,2,Gasoline,CA,BPRXV03.4BDI,small car,6.0,20,29.0,23,5,No
+PORSCHE Boxster S,3.4,6,Man-6,2,Gasoline,FA,BPRXV03.4BDI,small car,5.0,19,26.0,22,5,No
+PORSCHE Boxster S,3.4,6,Auto-7,2,Gasoline,FA,BPRXV03.4BDI,small car,5.0,20,29.0,23,5,No
+PORSCHE Boxster Spyder,3.4,6,Man-6,2,Gasoline,CA,BPRXV03.4BDI,small car,6.0,19,27.0,22,5,No
+PORSCHE Boxster Spyder,3.4,6,Auto-7,2,Gasoline,CA,BPRXV03.4BDI,small car,6.0,20,29.0,23,5,No
+PORSCHE Boxster Spyder,3.4,6,Man-6,2,Gasoline,FA,BPRXV03.4BDI,small car,5.0,19,27.0,22,5,No
+PORSCHE Boxster Spyder,3.4,6,Auto-7,2,Gasoline,FA,BPRXV03.4BDI,small car,5.0,20,29.0,23,5,No
+PORSCHE Cayenna S Hybrid,3.0,6,Auto-8,4,Gasoline,CA,BPRXT03.0CHD,SUV,6.0,20,24.0,21,4,No
+PORSCHE Cayenna S Hybrid,3.0,6,Auto-8,4,Gasoline,FA,BPRXT03.0CHD,SUV,5.0,20,24.0,21,4,No
+PORSCHE Cayenne,3.6,6,Man-6,4,Gasoline,CA,BPRXT03.6CBD,SUV,6.0,15,22.0,18,3,No
+PORSCHE Cayenne,3.6,6,Auto-8,4,Gasoline,CA,BPRXT03.6CBD,SUV,6.0,16,23.0,19,3,No
+PORSCHE Cayenne,3.6,6,Man-6,4,Gasoline,FA,BPRXT03.6CBD,SUV,5.0,15,22.0,18,3,No
+PORSCHE Cayenne,3.6,6,Auto-8,4,Gasoline,FA,BPRXT03.6CBD,SUV,5.0,16,23.0,19,3,No
+PORSCHE Cayenne S,4.8,8,Auto-8,4,Gasoline,CA,BPRXT04.8CSD,SUV,6.0,16,22.0,18,3,No
+PORSCHE Cayenne S,4.8,8,Auto-8,4,Gasoline,FA,BPRXT04.8CSD,SUV,5.0,16,22.0,18,3,No
+PORSCHE Cayenne Turbo,4.8,8,Auto-8,4,Gasoline,FA,BPRXT04.8CTD,SUV,5.0,15,22.0,17,2,No
+PORSCHE Cayenne Turbo,4.8,8,Auto-8,4,Gasoline,CA,BPRXT04.8CTD,SUV,5.0,15,22.0,17,2,No
+PORSCHE Cayman,2.9,6,Man-6,2,Gasoline,CA,BPRXV02.9BMI,small car,6.0,19,27.0,22,5,No
+PORSCHE Cayman,2.9,6,Auto-7,2,Gasoline,CA,BPRXV02.9BMI,small car,6.0,20,29.0,24,5,No
+PORSCHE Cayman,2.9,6,Man-6,2,Gasoline,FA,BPRXV02.9BMI,small car,5.0,19,27.0,22,5,No
+PORSCHE Cayman,2.9,6,Auto-7,2,Gasoline,FA,BPRXV02.9BMI,small car,5.0,20,29.0,24,5,No
+PORSCHE Cayman S,3.4,6,Man-6,2,Gasoline,CA,BPRXV03.4BDI,small car,6.0,19,26.0,22,5,No
+PORSCHE Cayman S,3.4,6,Auto-7,2,Gasoline,CA,BPRXV03.4BDI,small car,6.0,20,29.0,23,5,No
+PORSCHE Cayman S,3.4,6,Man-6,2,Gasoline,FA,BPRXV03.4BDI,small car,5.0,19,26.0,22,5,No
+PORSCHE Cayman S,3.4,6,Auto-7,2,Gasoline,FA,BPRXV03.4BDI,small car,5.0,20,29.0,23,5,No
+PORSCHE Panamera,3.6,6,Auto-7,2,Gasoline,FA,BPRXV03.6PBD,large car,5.0,18,27.0,21,4,No
+PORSCHE Panamera,3.6,6,Auto-7,2,Gasoline,CA,BPRXV03.6PBD,large car,5.0,18,27.0,21,4,No
+PORSCHE Panamera 4,3.6,6,Auto-7,4,Gasoline,FA,BPRXV03.6PBD,large car,5.0,18,26.0,21,4,No
+PORSCHE Panamera 4,3.6,6,Auto-7,4,Gasoline,CA,BPRXV03.6PBD,large car,5.0,18,26.0,21,4,No
+PORSCHE Panamera 4S,4.8,8,Auto-7,4,Gasoline,CA,BPRXV04.8PSD,large car,6.0,16,24.0,19,3,No
+PORSCHE Panamera 4S,4.8,8,Auto-7,4,Gasoline,FA,BPRXV04.8PSD,large car,5.0,16,24.0,19,3,No
+PORSCHE Panamera S,4.8,8,Auto-7,2,Gasoline,CA,BPRXV04.8PSD,large car,6.0,16,24.0,19,3,No
+PORSCHE Panamera S,4.8,8,Auto-7,2,Gasoline,FA,BPRXV04.8PSD,large car,5.0,16,24.0,19,3,No
+PORSCHE Panamera Turbo,4.8,8,Auto-7,4,Gasoline,FA,BPRXV04.8PTD,large car,5.0,15,23.0,18,3,No
+PORSCHE Panamera Turbo,4.8,8,Auto-7,4,Gasoline,CA,BPRXV04.8PTD,large car,5.0,15,23.0,18,3,No
+ROLLS-ROYCE Ghost,6.6,12,SemiAuto-8,2,Gasoline,CA,BRRGV06.6N74,large car,6.0,13,20.0,15,1,No
+ROLLS-ROYCE Ghost,6.6,12,SemiAuto-8,2,Gasoline,FA,BRRGV06.6N74,large car,5.0,13,20.0,15,1,No
+ROLLS-ROYCE Phantom,6.7,12,SemiAuto-6,2,Gasoline,FA,BRRGV06.7LE2,large car,5.0,11,18.0,14,1,No
+ROLLS-ROYCE Phantom,6.7,12,SemiAuto-6,2,Gasoline,CA,BRRGV06.7LE2,large car,5.0,11,18.0,14,1,No
+ROLLS-ROYCE Phantom Coupe,6.7,12,SemiAuto-6,2,Gasoline,FA,BRRGV06.7LE2,small car,5.0,11,18.0,14,1,No
+ROLLS-ROYCE Phantom Coupe,6.7,12,SemiAuto-6,2,Gasoline,CA,BRRGV06.7LE2,small car,5.0,11,18.0,14,1,No
+ROLLS-ROYCE Phantom Drophead Coupe,6.7,12,SemiAuto-6,2,Gasoline,FA,BRRGV06.7LE2,small car,5.0,11,18.0,14,1,No
+ROLLS-ROYCE Phantom Drophead Coupe,6.7,12,SemiAuto-6,2,Gasoline,CA,BRRGV06.7LE2,small car,5.0,11,18.0,14,1,No
+ROLLS-ROYCE Phantom EWB,6.7,12,SemiAuto-6,2,Gasoline,FA,BRRGV06.7LE2,large car,5.0,11,18.0,14,1,No
+ROLLS-ROYCE Phantom EWB,6.7,12,SemiAuto-6,2,Gasoline,CA,BRRGV06.7LE2,large car,5.0,11,18.0,14,1,No
+ROUSH Stage 3 Mustang,5.0,8,Man-6,2,Gasoline,FA,BRIIV05.0VD5,small car,6.0,14,21.0,16,1,No
+SAAB 9-3,2.0,4,SemiAuto-6,4,Gasoline,FA,BSAXV02.0004,small car,5.0,17,27.0,20,4,No
+SAAB 9-3,2.0,4,Man-6,4,Gasoline,FA,BSAXV02.0004,small car,5.0,20,29.0,23,5,No
+SAAB 9-3,2.0,4,SemiAuto-6,4,Gasoline,CA,BSAXV02.0004,small car,5.0,17,27.0,20,4,No
+SAAB 9-3,2.0,4,Man-6,4,Gasoline,CA,BSAXV02.0004,small car,5.0,20,29.0,23,5,No
+SAAB 9-3 Convertible,2.0,4,SemiAuto-5,2,Gasoline,FA,BSAXV02.0004,small car,5.0,19,27.0,22,5,No
+SAAB 9-3 Convertible,2.0,4,Man-6,2,Gasoline,FA,BSAXV02.0004,small car,5.0,20,29.0,23,5,No
+SAAB 9-3 Convertible,2.0,4,SemiAuto-5,2,Gasoline,CA,BSAXV02.0004,small car,5.0,19,27.0,22,5,No
+SAAB 9-3 Convertible,2.0,4,Man-6,2,Gasoline,CA,BSAXV02.0004,small car,5.0,20,29.0,23,5,No
+SAAB 9-3 Sport Sedan,2.0,4,SemiAuto-5,2,Gasoline,FA,BSAXV02.0004,small car,5.0,19,28.0,22,5,No
+SAAB 9-3 Sport Sedan,2.0,4,Man-6,2,Gasoline,FA,BSAXV02.0004,small car,5.0,21,31.0,24,5,No
+SAAB 9-3 Sport Sedan,2.0,4,SemiAuto-5,2,Gasoline,CA,BSAXV02.0004,small car,5.0,19,28.0,22,5,No
+SAAB 9-3 Sport Sedan,2.0,4,Man-6,2,Gasoline,CA,BSAXV02.0004,small car,5.0,21,31.0,24,5,No
+SAAB 9-3 Sportcombi,2.0,4,SemiAuto-5,2,Gasoline,FA,BSAXV02.0004,station wagon,5.0,19,27.0,22,5,No
+SAAB 9-3 Sportcombi,2.0,4,Man-6,2,Gasoline,FA,BSAXV02.0004,station wagon,5.0,21,31.0,24,5,No
+SAAB 9-3 Sportcombi,2.0,4,SemiAuto-5,2,Gasoline,CA,BSAXV02.0004,station wagon,5.0,19,27.0,22,5,No
+SAAB 9-3 Sportcombi,2.0,4,Man-6,2,Gasoline,CA,BSAXV02.0004,station wagon,5.0,21,31.0,24,5,No
+SAAB 9-3X Sportcombi,2.0,4,SemiAuto-6,4,Gasoline,FA,BSAXV02.0004,station wagon,5.0,17,27.0,20,4,No
+SAAB 9-3X Sportcombi,2.0,4,Man-6,4,Gasoline,FA,BSAXV02.0004,station wagon,5.0,20,29.0,23,5,No
+SAAB 9-3X Sportcombi,2.0,4,SemiAuto-6,4,Gasoline,CA,BSAXV02.0004,station wagon,5.0,17,27.0,20,4,No
+SAAB 9-3X Sportcombi,2.0,4,Man-6,4,Gasoline,CA,BSAXV02.0004,station wagon,5.0,20,29.0,23,5,No
+SAAB 9-4X,3.0,6,SemiAuto-6,4,Gasoline,FC,BGMXJ03.0157,SUV,6.0,17,23.0,19,3,No
+SAAB 9-4X,3.0,6,SemiAuto-6,2,Gasoline,FC,BGMXJ03.0157,SUV,6.0,18,25.0,20,4,No
+SAAB 9-4X,2.8,6,SemiAuto-6,4,Gasoline,FA,BGMXT02.8161,SUV,5.0,15,22.0,18,3,No
+SAAB 9-4X,2.8,6,SemiAuto-6,4,Gasoline,CA,BGMXT02.8161,SUV,5.0,15,22.0,18,3,No
+SAAB 9-5,2.8,6,SemiAuto-6,4,Gasoline,FA,BSAXV02.8162,midsize car,5.0,17,27.0,20,4,No
+SAAB 9-5,2.8,6,SemiAuto-6,4,Gasoline,CA,BSAXV02.8162,midsize car,5.0,17,27.0,20,4,No
+SCION iQ,1.3,4,CVT,2,Gasoline,CA,BTYXV01.3BEA,small car,6.0,36,37.0,36,8,Yes
+SCION iQ,1.3,4,CVT,2,Gasoline,FA,BTYXV01.3BEA,small car,5.0,36,37.0,36,8,Yes
+SCION tC,2.5,4,SemiAuto-6,2,Gasoline,CA,BTYXV02.5BEB,small car,6.0,23,31.0,26,6,Yes
+SCION tC,2.5,4,Man-6,2,Gasoline,CA,BTYXV02.5BEB,small car,6.0,23,31.0,26,6,Yes
+SCION tC,2.5,4,SemiAuto-6,2,Gasoline,FA,BTYXV02.5BEB,small car,5.0,23,31.0,26,6,No
+SCION tC,2.5,4,Man-6,2,Gasoline,FA,BTYXV02.5BEB,small car,5.0,23,31.0,26,6,No
+SCION xB,2.4,4,SemiAuto-4,2,Gasoline,CA,BTYXV02.4BEC,station wagon,6.0,22,28.0,24,5,No
+SCION xB,2.4,4,Man-5,2,Gasoline,CA,BTYXV02.4BEC,station wagon,6.0,22,28.0,24,5,No
+SCION xB,2.4,4,SemiAuto-4,2,Gasoline,FA,BTYXV02.4BEC,station wagon,5.0,22,28.0,24,5,No
+SCION xB,2.4,4,Man-5,2,Gasoline,FA,BTYXV02.4BEC,station wagon,5.0,22,28.0,24,5,No
+SCION xD,1.8,4,Auto-4,2,Gasoline,CA,BTYXV01.8BEB,small car,6.0,27,33.0,29,7,Yes
+SCION xD,1.8,4,Man-5,2,Gasoline,CA,BTYXV01.8BEB,small car,6.0,27,33.0,29,7,Yes
+SCION xD,1.8,4,Auto-4,2,Gasoline,FA,BTYXV01.8BEB,small car,5.0,27,33.0,29,7,Yes
+SCION xD,1.8,4,Man-5,2,Gasoline,FA,BTYXV01.8BEB,small car,5.0,27,33.0,29,7,Yes
+SMART ForTwo Cabriolet,1.0,3,AutoMan-5,2,Gasoline,CA,BMBXV01.0U2A,small car,6.0,33,41.0,36,8,Yes
+SMART ForTwo Cabriolet,1.0,3,AutoMan-5,2,Gasoline,FA,BMBXV01.0U2A,small car,5.0,33,41.0,36,8,Yes
+SMART ForTwo Coupe,1.0,3,AutoMan-5,2,Gasoline,CA,BMBXV01.0U2A,small car,6.0,33,41.0,36,8,Yes
+SMART ForTwo Coupe,1.0,3,AutoMan-5,2,Gasoline,FA,BMBXV01.0U2A,small car,5.0,33,41.0,36,8,Yes
+Spyker C8 Aileron,4.2,8,Auto-6,2,Gasoline,FA,BSKRV04.2C08,small car,5.0,14,21.0,17,2,No
+Spyker C8 Aileron,4.2,8,Auto-6,2,Gasoline,CA,BSKRV04.2C08,small car,5.0,14,21.0,17,2,No
+SUBARU Forester,2.5,4,Man-5,4,Gasoline,CA,BFJXJ02.5NVD,SUV,9.0,21,27.0,23,5,No
+SUBARU Forester,2.5,4,Man-5,4,Gasoline,FA,BFJXJ02.5NVD,SUV,6.0,21,27.0,23,5,No
+SUBARU Forester,2.5,4,SemiAuto-4,4,Gasoline,FA,BFJXJ02.5PHL,SUV,5.0,19,24.0,21,4,No
+SUBARU Forester,2.5,4,Man-5,4,Gasoline,FA,BFJXJ02.5MXG,SUV,5.0,21,27.0,23,5,No
+SUBARU Forester,2.5,4,SemiAuto-4,4,Gasoline,CA,BFJXJ02.5PHL,SUV,5.0,19,24.0,21,4,No
+SUBARU Forester,2.5,4,Man-5,4,Gasoline,CA,BFJXJ02.5MXG,SUV,5.0,21,27.0,23,5,No
+SUBARU Impreza,2.5,4,Man-5,4,Gasoline,FA,BFJXJ02.5PHL,small car,5.0,19,25.0,21,4,No
+SUBARU Impreza,2.5,4,Man-5,4,Gasoline,FA,BFJXJ02.5MXG,small car,5.0,20,27.0,22,5,No
+SUBARU Impreza,2.5,4,Man-5,4,Gasoline,CA,BFJXJ02.5PHL,small car,5.0,19,25.0,21,4,No
+SUBARU Impreza,2.5,4,Man-5,4,Gasoline,CA,BFJXJ02.5MXG,small car,5.0,20,27.0,22,5,No
+SUBARU Impreza Wagon/Outback Sport,2.5,4,Man-6,4,Gasoline,FA,BFJXJ02.5PHL,station wagon,5.0,17,23.0,19,3,No
+SUBARU Impreza Wagon/Outback Sport,2.5,4,Man-5,4,Gasoline,FA,BFJXJ02.5PHL,station wagon,5.0,19,25.0,21,4,No
+SUBARU Impreza Wagon/Outback Sport,2.5,4,Man-5,4,Gasoline,FA,BFJXJ02.5MXG,station wagon,5.0,20,27.0,22,5,No
+SUBARU Impreza Wagon/Outback Sport,2.5,4,Man-6,4,Gasoline,CA,BFJXJ02.5PHL,station wagon,5.0,17,23.0,19,3,No
+SUBARU Impreza Wagon/Outback Sport,2.5,4,Man-5,4,Gasoline,CA,BFJXJ02.5PHL,station wagon,5.0,19,25.0,21,4,No
+SUBARU Impreza Wagon/Outback Sport,2.5,4,Man-5,4,Gasoline,CA,BFJXJ02.5MXG,station wagon,5.0,20,27.0,22,5,No
+SUBARU Legacy,2.5,4,CVT,4,Gasoline,CA,BFJXJ02.5NVD,midsize car,9.0,23,31.0,26,6,Yes
+SUBARU Legacy,2.5,4,CVT,4,Gasoline,FA,BFJXJ02.5NVD,midsize car,6.0,23,31.0,26,6,Yes
+SUBARU Legacy,2.5,4,Man-6,4,Gasoline,FA,BFJXJ02.5PHL,midsize car,5.0,18,25.0,21,4,No
+SUBARU Legacy,2.5,4,Man-6,4,Gasoline,FA,BFJXJ02.5MXG,midsize car,5.0,19,27.0,22,5,No
+SUBARU Legacy,2.5,4,CVT,4,Gasoline,FA,BFJXJ02.5MXG,midsize car,5.0,23,31.0,26,6,No
+SUBARU Legacy,2.5,4,Man-6,4,Gasoline,CA,BFJXJ02.5PHL,midsize car,5.0,18,25.0,21,4,No
+SUBARU Legacy,2.5,4,Man-6,4,Gasoline,CA,BFJXJ02.5MXG,midsize car,5.0,19,27.0,22,5,No
+SUBARU Legacy,2.5,4,CVT,4,Gasoline,CA,BFJXJ02.5MXG,midsize car,5.0,23,31.0,26,6,No
+SUBARU Outback Wagon,2.5,4,Man-6,4,Gasoline,CA,BFJXJ02.5NVD,SUV,9.0,19,27.0,22,5,No
+SUBARU Outback Wagon,2.5,4,CVT,4,Gasoline,CA,BFJXJ02.5NVD,SUV,9.0,22,29.0,24,5,No
+SUBARU Outback Wagon,2.5,4,Man-6,4,Gasoline,FA,BFJXJ02.5NVD,SUV,6.0,19,27.0,22,5,No
+SUBARU Outback Wagon,2.5,4,CVT,4,Gasoline,FA,BFJXJ02.5NVD,SUV,6.0,22,29.0,24,5,No
+SUBARU Outback Wagon,2.5,4,Man-6,4,Gasoline,FA,BFJXJ02.5MXG,SUV,5.0,19,27.0,22,5,No
+SUBARU Outback Wagon,2.5,4,CVT,4,Gasoline,FA,BFJXJ02.5MXG,SUV,5.0,22,29.0,24,5,No
+SUBARU Outback Wagon,2.5,4,Man-6,4,Gasoline,CA,BFJXJ02.5MXG,SUV,5.0,19,27.0,22,5,No
+SUBARU Outback Wagon,2.5,4,CVT,4,Gasoline,CA,BFJXJ02.5MXG,SUV,5.0,22,29.0,24,5,No
+SUZUKI Equator,2.5,4,Auto-5,2,Gasoline,CA,BNSXT02.5G5A,pickup,6.0,17,22.0,19,3,No
+SUZUKI Equator,2.5,4,Man-5,2,Gasoline,CA,BNSXT02.5G5A,pickup,6.0,19,23.0,21,4,No
+SUZUKI Equator,4.0,6,Auto-5,2,Gasoline,CA,BNSXT04.0G6A,pickup,6.0,15,20.0,17,2,No
+SUZUKI Equator,4.0,6,Auto-5,4,Gasoline,CA,BNSXT04.0G6A,pickup,6.0,14,19.0,16,1,No
+SUZUKI Equator,2.5,4,Auto-5,2,Gasoline,FA,BNSXT02.5G5A,pickup,5.0,17,22.0,19,3,No
+SUZUKI Equator,2.5,4,Man-5,2,Gasoline,FA,BNSXT02.5G5A,pickup,5.0,19,23.0,21,4,No
+SUZUKI Equator,4.0,6,Auto-5,2,Gasoline,FA,BNSXT04.0G6A,pickup,5.0,15,20.0,17,2,No
+SUZUKI Equator,4.0,6,Auto-5,4,Gasoline,FA,BNSXT04.0G6A,pickup,5.0,14,19.0,16,1,No
+SUZUKI Grand Vitara,2.4,4,Auto-4,2,Gasoline,CA,BSKXT2.395F1,SUV,6.0,19,25.0,21,4,No
+SUZUKI Grand Vitara,2.4,4,Man-5,2,Gasoline,CA,BSKXT2.395F1,SUV,6.0,19,26.0,22,5,No
+SUZUKI Grand Vitara,2.4,4,Auto-4,4,Gasoline,CA,BSKXT2.395F1,SUV,6.0,19,23.0,20,4,No
+SUZUKI Grand Vitara,2.4,4,Auto-4,2,Gasoline,FA,BSKXT2.395F1,SUV,5.0,19,25.0,21,4,No
+SUZUKI Grand Vitara,2.4,4,Man-5,2,Gasoline,FA,BSKXT2.395F1,SUV,5.0,19,26.0,22,5,No
+SUZUKI Grand Vitara,2.4,4,Auto-4,4,Gasoline,FA,BSKXT2.395F1,SUV,5.0,19,23.0,20,4,No
+SUZUKI Kiszashi,2.4,4,Man-6,2,Gasoline,FA,BSKXV2.395F1,small car,5.0,20,29.0,24,5,No
+SUZUKI Kiszashi,2.4,4,CVT,4,Gasoline,FA,BSKXV2.395F1,small car,5.0,22,29.0,25,6,No
+SUZUKI Kiszashi,2.4,4,CVT,2,Gasoline,FA,BSKXV2.395F1,small car,5.0,23,30.0,26,6,No
+SUZUKI Kiszashi,2.4,4,Man-6,2,Gasoline,CA,BSKXV2.395F1,small car,5.0,20,29.0,24,5,No
+SUZUKI Kiszashi,2.4,4,CVT,4,Gasoline,CA,BSKXV2.395F1,small car,5.0,22,29.0,25,6,No
+SUZUKI Kiszashi,2.4,4,CVT,2,Gasoline,CA,BSKXV2.395F1,small car,5.0,23,30.0,26,6,No
+SUZUKI Kiszashi S,2.4,4,Man-6,2,Gasoline,FA,BSKXV2.395F1,small car,5.0,21,31.0,25,6,No
+SUZUKI Kiszashi S,2.4,4,CVT,4,Gasoline,FA,BSKXV2.395F1,small car,5.0,23,30.0,25,6,No
+SUZUKI Kiszashi S,2.4,4,CVT,2,Gasoline,FA,BSKXV2.395F1,small car,5.0,23,31.0,26,6,No
+SUZUKI Kiszashi S,2.4,4,Man-6,2,Gasoline,CA,BSKXV2.395F1,small car,5.0,21,31.0,25,6,No
+SUZUKI Kiszashi S,2.4,4,CVT,4,Gasoline,CA,BSKXV2.395F1,small car,5.0,23,30.0,25,6,No
+SUZUKI Kiszashi S,2.4,4,CVT,2,Gasoline,CA,BSKXV2.395F1,small car,5.0,23,31.0,26,6,No
+SUZUKI Swift +,1.6,4,Auto-4,2,Gasoline,FC,BGDXV01.6004,small car,6.0,25,34.0,28,7,Yes
+SUZUKI Swift +,1.6,4,Man-5,2,Gasoline,FC,BGDXV01.6004,small car,6.0,27,35.0,30,7,Yes
+SUZUKI SX4,2.0,4,Man-6,4,Gasoline,FA,BSKXV1.995F1,station wagon,5.0,22,30.0,25,6,No
+SUZUKI SX4,2.0,4,Man-6,2,Gasoline,FA,BSKXV1.995F1,station wagon,5.0,22,30.0,25,6,No
+SUZUKI SX4,2.0,4,CVT,4,Gasoline,FA,BSKXV1.995F1,station wagon,5.0,23,29.0,25,6,No
+SUZUKI SX4,2.0,4,CVT,2,Gasoline,FA,BSKXV1.995F1,station wagon,5.0,23,30.0,26,6,No
+SUZUKI SX4,2.0,4,Man-6,4,Gasoline,CA,BSKXV1.995F1,station wagon,5.0,22,30.0,25,6,No
+SUZUKI SX4,2.0,4,Man-6,2,Gasoline,CA,BSKXV1.995F1,station wagon,5.0,22,30.0,25,6,No
+SUZUKI SX4,2.0,4,CVT,4,Gasoline,CA,BSKXV1.995F1,station wagon,5.0,23,29.0,25,6,No
+SUZUKI SX4,2.0,4,CVT,2,Gasoline,CA,BSKXV1.995F1,station wagon,5.0,23,30.0,26,6,No
+SUZUKI SX4 Sedan,2.0,4,Man-6,2,Gasoline,FA,BSKXV1.995F1,small car,5.0,23,33.0,26,6,No
+SUZUKI SX4 Sedan,2.0,4,CVT,2,Gasoline,FA,BSKXV1.995F1,small car,5.0,25,32.0,28,7,Yes
+SUZUKI SX4 Sedan,2.0,4,Man-6,2,Gasoline,CA,BSKXV1.995F1,small car,5.0,23,33.0,26,6,No
+SUZUKI SX4 Sedan,2.0,4,CVT,2,Gasoline,CA,BSKXV1.995F1,small car,5.0,25,32.0,28,7,Yes
+SUZUKI SX4 Sport,2.0,4,CVT,2,Gasoline,FA,BSKXV1.995F1,small car,5.0,23,30.0,26,6,No
+SUZUKI SX4 Sport,2.0,4,Man-6,2,Gasoline,FA,BSKXV1.995F1,small car,5.0,23,32.0,26,6,No
+SUZUKI SX4 Sport,2.0,4,CVT,2,Gasoline,CA,BSKXV1.995F1,small car,5.0,23,30.0,26,6,No
+SUZUKI SX4 Sport,2.0,4,Man-6,2,Gasoline,CA,BSKXV1.995F1,small car,5.0,23,32.0,26,6,No
+TOYOTA 4Runner,2.7,4,Auto-4,2,Gasoline,FA,BTYXT02.7AEN,SUV,5.0,18,21.0,19,3,No
+TOYOTA 4Runner,2.7,4,Auto-4,2,Gasoline,CA,BTYXT02.7AEN,SUV,5.0,18,21.0,19,3,No
+TOYOTA 4Runner,4.0,6,SemiAuto-5,2,Gasoline,FA,BTYXT04.0AES,SUV,5.0,17,23.0,19,3,No
+TOYOTA 4Runner,4.0,6,SemiAuto-5,4,Gasoline,FA,BTYXT04.0AES,SUV,5.0,17,22.0,19,3,No
+TOYOTA 4Runner,4.0,6,SemiAuto-5,2,Gasoline,CA,BTYXT04.0AES,SUV,5.0,17,23.0,19,3,No
+TOYOTA 4Runner,4.0,6,SemiAuto-5,4,Gasoline,CA,BTYXT04.0AES,SUV,5.0,17,22.0,19,3,No
+TOYOTA Avalon,3.5,6,SemiAuto-6,2,Gasoline,CA,BTYXV03.5BEA,large car,6.0,20,29.0,23,5,No
+TOYOTA Avalon,3.5,6,SemiAuto-6,2,Gasoline,FA,BTYXV03.5BEA,large car,5.0,20,29.0,23,5,No
+TOYOTA Camry,2.5,4,SemiAuto-6,2,Gasoline,CA,BTYXV02.5HE2,midsize car,9.0,22,32.0,26,6,Yes
+TOYOTA Camry,2.5,4,SemiAuto-6,2,Gasoline,CA,BTYXV02.5BEB,midsize car,6.0,22,32.0,26,6,Yes
+TOYOTA Camry,2.5,4,Man-6,2,Gasoline,CA,BTYXV02.5BEB,midsize car,6.0,22,33.0,26,6,Yes
+TOYOTA Camry,3.5,6,SemiAuto-6,2,Gasoline,CA,BTYXV03.5BEA,midsize car,6.0,20,29.0,23,5,No
+TOYOTA Camry,2.5,4,SemiAuto-6,2,Gasoline,FA,BTYXV02.5BEB,midsize car,5.0,22,32.0,26,6,No
+TOYOTA Camry,2.5,4,SemiAuto-6,2,Gasoline,FA,BTYXV02.5HE2,midsize car,5.0,22,32.0,26,6,No
+TOYOTA Camry,2.5,4,Man-6,2,Gasoline,FA,BTYXV02.5BEB,midsize car,5.0,22,33.0,26,6,No
+TOYOTA Camry,3.5,6,SemiAuto-6,2,Gasoline,FA,BTYXV03.5BEA,midsize car,5.0,20,29.0,23,5,No
+TOYOTA Camry Hybrid,2.4,4,CVT,2,Gasoline,CA,BTYXV02.4HC3,midsize car,9.0,31,35.0,33,8,Yes
+TOYOTA Camry Hybrid,2.4,4,CVT,2,Gasoline,FA,BTYXV02.4HC3,midsize car,7.0,31,35.0,33,8,Yes
+TOYOTA Corolla,1.8,4,Auto-4,2,Gasoline,CA,BTYXV01.8BEA,small car,6.0,26,34.0,29,7,Yes
+TOYOTA Corolla,1.8,4,Man-5,2,Gasoline,CA,BTYXV01.8BEA,small car,6.0,28,35.0,31,7,Yes
+TOYOTA Corolla,2.4,4,Man-5,2,Gasoline,CA,BTYXV02.4BEB,small car,6.0,22,30.0,25,6,Yes
+TOYOTA Corolla,2.4,4,SemiAuto-5,2,Gasoline,CA,BTYXV02.4BEB,small car,6.0,22,30.0,25,6,Yes
+TOYOTA Corolla,1.8,4,Auto-4,2,Gasoline,FA,BTYXV01.8BEA,small car,5.0,26,34.0,29,7,Yes
+TOYOTA Corolla,1.8,4,Man-5,2,Gasoline,FA,BTYXV01.8BEA,small car,5.0,28,35.0,31,7,Yes
+TOYOTA Corolla,2.4,4,Man-5,2,Gasoline,FA,BTYXV02.4BEB,small car,5.0,22,30.0,25,6,No
+TOYOTA Corolla,2.4,4,SemiAuto-5,2,Gasoline,FA,BTYXV02.4BEB,small car,5.0,22,30.0,25,6,No
+TOYOTA FJ Cruiser,4.0,6,Auto-5,2,Gasoline,FA,BTYXT04.0AEN,SUV,5.0,17,22.0,19,3,No
+TOYOTA FJ Cruiser,4.0,6,Man-6,4,Gasoline,FA,BTYXT04.0AEN,SUV,5.0,15,20.0,17,2,No
+TOYOTA FJ Cruiser,4.0,6,Auto-5,4,Gasoline,FA,BTYXT04.0AEN,SUV,5.0,17,21.0,19,3,No
+TOYOTA FJ Cruiser,4.0,6,Auto-5,2,Gasoline,CA,BTYXT04.0AEN,SUV,5.0,17,22.0,19,3,No
+TOYOTA FJ Cruiser,4.0,6,Man-6,4,Gasoline,CA,BTYXT04.0AEN,SUV,5.0,15,20.0,17,2,No
+TOYOTA FJ Cruiser,4.0,6,Auto-5,4,Gasoline,CA,BTYXT04.0AEN,SUV,5.0,17,21.0,19,3,No
+TOYOTA Highlander,2.7,4,SemiAuto-6,2,Gasoline,CA,BTYXT02.7BEM,SUV,6.0,20,25.0,22,5,No
+TOYOTA Highlander,3.5,6,SemiAuto-5,2,Gasoline,CA,BTYXT03.5BEP,SUV,6.0,18,24.0,20,4,No
+TOYOTA Highlander,3.5,6,SemiAuto-5,4,Gasoline,CA,BTYXT03.5BEP,SUV,6.0,17,22.0,19,3,No
+TOYOTA Highlander,2.7,4,SemiAuto-6,2,Gasoline,FA,BTYXT02.7BEM,SUV,5.0,20,25.0,22,5,No
+TOYOTA Highlander,3.5,6,SemiAuto-5,2,Gasoline,FA,BTYXT03.5BEP,SUV,5.0,18,24.0,20,4,No
+TOYOTA Highlander,3.5,6,SemiAuto-5,4,Gasoline,FA,BTYXT03.5BEP,SUV,5.0,17,22.0,19,3,No
+TOYOTA Highlander Hybrid,3.5,6,CVT,4,Gasoline,CA,BTYXT03.5CCU,SUV,8.0,28,28.0,28,7,Yes
+TOYOTA Highlander Hybrid,3.5,6,CVT,4,Gasoline,FA,BTYXT03.5CCU,SUV,7.0,28,28.0,28,7,Yes
+TOYOTA Land Cruiser,5.7,8,SemiAuto-6,4,Gasoline,CA,BTYXT05.7BEX,SUV,6.0,13,18.0,15,1,No
+TOYOTA Land Cruiser,5.7,8,SemiAuto-6,4,Gasoline,FA,BTYXT05.7BEX,SUV,5.0,13,18.0,15,1,No
+TOYOTA Matrix,1.8,4,Auto-4,2,Gasoline,CA,BTYXV01.8BEA,station wagon,6.0,25,32.0,28,7,Yes
+TOYOTA Matrix,1.8,4,Man-5,2,Gasoline,CA,BTYXV01.8BEA,station wagon,6.0,26,32.0,29,7,Yes
+TOYOTA Matrix,2.4,4,Auto-4,4,Gasoline,CA,BTYXV02.4BEB,station wagon,6.0,20,26.0,22,5,No
+TOYOTA Matrix,2.4,4,Man-5,2,Gasoline,CA,BTYXV02.4BEB,station wagon,6.0,21,28.0,24,5,No
+TOYOTA Matrix,2.4,4,SemiAuto-5,2,Gasoline,CA,BTYXV02.4BEB,station wagon,6.0,21,29.0,24,5,No
+TOYOTA Matrix,1.8,4,Auto-4,2,Gasoline,FA,BTYXV01.8BEA,station wagon,5.0,25,32.0,28,7,Yes
+TOYOTA Matrix,1.8,4,Man-5,2,Gasoline,FA,BTYXV01.8BEA,station wagon,5.0,26,32.0,29,7,Yes
+TOYOTA Matrix,2.4,4,Auto-4,4,Gasoline,FA,BTYXV02.4BEB,station wagon,5.0,20,26.0,22,5,No
+TOYOTA Matrix,2.4,4,Man-5,2,Gasoline,FA,BTYXV02.4BEB,station wagon,5.0,21,28.0,24,5,No
+TOYOTA Matrix,2.4,4,SemiAuto-5,2,Gasoline,FA,BTYXV02.4BEB,station wagon,5.0,21,29.0,24,5,No
+TOYOTA Prius,1.8,4,CVT,2,Gasoline,CA,BTYXV01.8HC3,midsize car,9.0,51,48.0,50,10,Yes
+TOYOTA Prius,1.8,4,CVT,2,Gasoline,FA,BTYXV01.8HC3,midsize car,7.0,51,48.0,50,10,Yes
+TOYOTA RAV4,2.5,4,Auto-4,2,Gasoline,CA,BTYXT02.5BEH,SUV,6.0,22,28.0,24,5,No
+TOYOTA RAV4,2.5,4,Auto-4,4,Gasoline,CA,BTYXT02.5BEM,SUV,6.0,21,27.0,24,5,No
+TOYOTA RAV4,3.5,6,Auto-5,2,Gasoline,CA,BTYXT03.5BEM,SUV,6.0,19,27.0,22,5,No
+TOYOTA RAV4,3.5,6,Auto-5,4,Gasoline,CA,BTYXT03.5BEM,SUV,6.0,19,26.0,21,4,No
+TOYOTA RAV4,2.5,4,Auto-4,2,Gasoline,FA,BTYXT02.5BEH,SUV,5.0,22,28.0,24,5,No
+TOYOTA RAV4,2.5,4,Auto-4,4,Gasoline,FA,BTYXT02.5BEM,SUV,5.0,21,27.0,24,5,No
+TOYOTA RAV4,3.5,6,Auto-5,2,Gasoline,FA,BTYXT03.5BEM,SUV,5.0,19,27.0,22,5,No
+TOYOTA RAV4,3.5,6,Auto-5,4,Gasoline,FA,BTYXT03.5BEM,SUV,5.0,19,26.0,21,4,No
+TOYOTA Sequoia,4.6,8,SemiAuto-6,2,Gasoline,CA,BTYXT04.6BEW,SUV,6.0,14,20.0,16,1,No
+TOYOTA Sequoia,4.6,8,SemiAuto-6,4,Gasoline,CA,BTYXT04.6BEW,SUV,6.0,14,19.0,15,1,No
+TOYOTA Sequoia,5.7,8,SemiAuto-6,2,Gasoline,CA,BTYXT05.7BEX,SUV,6.0,14,18.0,15,1,No
+TOYOTA Sequoia,5.7,8,SemiAuto-6,4,Gasoline,CA,BTYXT05.7BEX,SUV,6.0,13,18.0,15,1,No
+TOYOTA Sequoia,4.6,8,SemiAuto-6,2,Gasoline,FA,BTYXT04.6BEW,SUV,5.0,14,20.0,16,1,No
+TOYOTA Sequoia,4.6,8,SemiAuto-6,4,Gasoline,FA,BTYXT04.6BEW,SUV,5.0,14,19.0,15,1,No
+TOYOTA Sequoia,5.7,8,SemiAuto-6,2,Gasoline,FA,BTYXT05.7BEX,SUV,5.0,14,18.0,15,1,No
+TOYOTA Sequoia,5.7,8,SemiAuto-6,4,Gasoline,FA,BTYXT05.7BEX,SUV,5.0,13,18.0,15,1,No
+TOYOTA Sienna,2.7,4,SemiAuto-6,2,Gasoline,CA,BTYXT02.7BEM,minivan,6.0,19,24.0,21,4,No
+TOYOTA Sienna,3.5,6,SemiAuto-6,2,Gasoline,CA,BTYXT03.5BEN,minivan,6.0,18,24.0,20,4,No
+TOYOTA Sienna,3.5,6,SemiAuto-6,4,Gasoline,CA,BTYXT03.5BEN,minivan,6.0,16,22.0,18,3,No
+TOYOTA Sienna,2.7,4,SemiAuto-6,2,Gasoline,FA,BTYXT02.7BEM,minivan,5.0,19,24.0,21,4,No
+TOYOTA Sienna,3.5,6,SemiAuto-6,2,Gasoline,FA,BTYXT03.5BEN,minivan,5.0,18,24.0,20,4,No
+TOYOTA Sienna,3.5,6,SemiAuto-6,4,Gasoline,FA,BTYXT03.5BEN,minivan,5.0,16,22.0,18,3,No
+TOYOTA Tacoma,2.7,4,Auto-4,2,Gasoline,FA,BTYXT02.7AEN,pickup,5.0,19,25.0,21,4,No
+TOYOTA Tacoma,2.7,4,Auto-4,2,Gasoline,FA,BTYXT02.7AEP,pickup,5.0,19,25.0,21,4,No
+TOYOTA Tacoma,2.7,4,Man-5,2,Gasoline,FA,BTYXT02.7AEH,pickup,5.0,21,25.0,22,5,No
+TOYOTA Tacoma,2.7,4,Man-5,2,Gasoline,FA,BTYXT02.7AEM,pickup,5.0,21,25.0,22,5,No
+TOYOTA Tacoma,2.7,4,Man-5,4,Gasoline,FA,BTYXT02.7AEM,pickup,5.0,18,20.0,19,3,No
+TOYOTA Tacoma,2.7,4,Auto-4,4,Gasoline,FA,BTYXT02.7AEN,pickup,5.0,18,21.0,19,3,No
+TOYOTA Tacoma,2.7,4,Auto-4,2,Gasoline,CA,BTYXT02.7AEN,pickup,5.0,19,25.0,21,4,No
+TOYOTA Tacoma,2.7,4,Auto-4,2,Gasoline,CA,BTYXT02.7AEP,pickup,5.0,19,25.0,21,4,No
+TOYOTA Tacoma,2.7,4,Man-5,2,Gasoline,CA,BTYXT02.7AEH,pickup,5.0,21,25.0,22,5,No
+TOYOTA Tacoma,2.7,4,Man-5,2,Gasoline,CA,BTYXT02.7AEM,pickup,5.0,21,25.0,22,5,No
+TOYOTA Tacoma,2.7,4,Man-5,4,Gasoline,CA,BTYXT02.7AEM,pickup,5.0,18,20.0,19,3,No
+TOYOTA Tacoma,2.7,4,Auto-4,4,Gasoline,CA,BTYXT02.7AEN,pickup,5.0,18,21.0,19,3,No
+TOYOTA Tacoma,4.0,6,Man-6,2,Gasoline,FA,BTYXT04.0AEM,pickup,5.0,15,19.0,17,2,No
+TOYOTA Tacoma,4.0,6,Auto-5,2,Gasoline,FA,BTYXT04.0AEM,pickup,5.0,17,21.0,18,3,No
+TOYOTA Tacoma,4.0,6,Man-6,4,Gasoline,FA,BTYXT04.0AEM,pickup,5.0,14,18.0,15,1,No
+TOYOTA Tacoma,4.0,6,Auto-5,4,Gasoline,FA,BTYXT04.0AEM,pickup,5.0,16,20.0,18,3,No
+TOYOTA Tacoma,4.0,6,Man-6,2,Gasoline,CA,BTYXT04.0AEM,pickup,5.0,15,19.0,17,2,No
+TOYOTA Tacoma,4.0,6,Auto-5,2,Gasoline,CA,BTYXT04.0AEM,pickup,5.0,17,21.0,18,3,No
+TOYOTA Tacoma,4.0,6,Man-6,4,Gasoline,CA,BTYXT04.0AEM,pickup,5.0,14,18.0,15,1,No
+TOYOTA Tacoma,4.0,6,Auto-5,4,Gasoline,CA,BTYXT04.0AEM,pickup,5.0,16,20.0,18,3,No
+TOYOTA Tundra,4.6,8,SemiAuto-6,2,Gasoline,CA,BTYXT04.6BEW,pickup,6.0,15,20.0,17,2,No
+TOYOTA Tundra,4.6,8,SemiAuto-6,4,Gasoline,CA,BTYXT04.6BEW,pickup,6.0,14,19.0,16,1,No
+TOYOTA Tundra,5.7,8,SemiAuto-6,2,Gasoline,CA,BTYXT05.7BEX,pickup,6.0,14,18.0,16,1,No
+TOYOTA Tundra,5.7,8,SemiAuto-6,4,Gasoline,CA,BTYXT05.7BEX,pickup,6.0,13,17.0,14,1,No
+TOYOTA Tundra,4.0,6,SemiAuto-5,2,Gasoline,FA,BTYXT04.0AET,pickup,5.0,16,20.0,18,3,No
+TOYOTA Tundra,4.0,6,SemiAuto-5,2,Gasoline,CA,BTYXT04.0AET,pickup,5.0,16,20.0,18,3,No
+TOYOTA Tundra,4.6,8,SemiAuto-6,2,Gasoline,FA,BTYXT04.6BEW,pickup,5.0,15,20.0,17,2,No
+TOYOTA Tundra,4.6,8,SemiAuto-6,4,Gasoline,FA,BTYXT04.6BEW,pickup,5.0,14,19.0,16,1,No
+TOYOTA Tundra,5.7,8,SemiAuto-6,2,Gasoline,FA,BTYXT05.7BEX,pickup,5.0,14,18.0,16,1,No
+TOYOTA Tundra,5.7,8,SemiAuto-6,4,Gasoline,FA,BTYXT05.7BEX,pickup,5.0,13,17.0,14,1,No
+TOYOTA Venza,2.7,4,SemiAuto-6,2,Gasoline,CA,BTYXT02.7BEN,SUV,6.0,21,27.0,23,5,No
+TOYOTA Venza,2.7,4,SemiAuto-6,4,Gasoline,CA,BTYXT02.7BEN,SUV,6.0,20,25.0,22,5,No
+TOYOTA Venza,3.5,6,SemiAuto-6,2,Gasoline,CA,BTYXT03.5BEM,SUV,6.0,19,26.0,22,5,No
+TOYOTA Venza,3.5,6,SemiAuto-6,4,Gasoline,CA,BTYXT03.5BEM,SUV,6.0,18,25.0,21,4,No
+TOYOTA Venza,2.7,4,SemiAuto-6,2,Gasoline,FA,BTYXT02.7BEN,SUV,5.0,21,27.0,23,5,No
+TOYOTA Venza,2.7,4,SemiAuto-6,4,Gasoline,FA,BTYXT02.7BEN,SUV,5.0,20,25.0,22,5,No
+TOYOTA Venza,3.5,6,SemiAuto-6,2,Gasoline,FA,BTYXT03.5BEM,SUV,5.0,19,26.0,22,5,No
+TOYOTA Venza,3.5,6,SemiAuto-6,4,Gasoline,FA,BTYXT03.5BEM,SUV,5.0,18,25.0,21,4,No
+TOYOTA Yaris,1.5,4,Auto-4,2,Gasoline,CA,BTYXV01.5BEA,small car,6.0,29,35.0,31,7,Yes
+TOYOTA Yaris,1.5,4,Man-5,2,Gasoline,CA,BTYXV01.5BEA,small car,6.0,29,36.0,32,7,Yes
+TOYOTA Yaris,1.5,4,Auto-4,2,Gasoline,FA,BTYXV01.5BEA,small car,5.0,29,35.0,31,7,Yes
+TOYOTA Yaris,1.5,4,Man-5,2,Gasoline,FA,BTYXV01.5BEA,small car,5.0,29,36.0,32,7,Yes
+VEHICLE PRODUCTION GROUP MV-1,4.6,8,Auto-4,2,CNG,FA,BTVPT04.6CG1,special purpose,8.0,11,16.0,13,2,No
+VEHICLE PRODUCTION GROUP MV-1,4.6,8,Auto-4,2,CNG,CA,BTVPT04.6CG1,special purpose,8.0,11,16.0,13,2,No
+VOLKSWAGEN CC,2.0,4,SemiAuto-6,2,Gasoline,CA,BVWXV02.03PA,small car,9.0,22,31.0,25,6,Yes
+VOLKSWAGEN CC,2.0,4,SemiAuto-6,2,Gasoline,FA,BVWXV02.03PA,small car,7.0,22,31.0,25,6,Yes
+VOLKSWAGEN CC,2.0,4,Man-6,2,Gasoline,CA,BADXV02.03UA,small car,6.0,21,31.0,25,6,Yes
+VOLKSWAGEN CC,2.0,4,Man-6,2,Gasoline,FA,BADXV02.03UA,small car,5.0,21,31.0,25,6,No
+VOLKSWAGEN CC 4Motion,3.6,6,SemiAuto-6,4,Gasoline,CA,BVWXV03.6U46,small car,6.0,17,25.0,20,4,No
+VOLKSWAGEN CC 4Motion,3.6,6,SemiAuto-6,4,Gasoline,FA,BVWXV03.6U46,small car,5.0,17,25.0,20,4,No
+VOLKSWAGEN Eos,2.0,4,Man-6,2,Gasoline,CA,BVWXV02.03SA,small car,8.0,21,31.0,25,6,Yes
+VOLKSWAGEN Eos,2.0,4,SemiAuto-6,2,Gasoline,CA,BVWXV02.03SA,small car,8.0,22,30.0,25,6,Yes
+VOLKSWAGEN Eos,2.0,4,Man-6,2,Gasoline,FA,BVWXV02.03SA,small car,7.0,21,31.0,25,6,Yes
+VOLKSWAGEN Eos,2.0,4,SemiAuto-6,2,Gasoline,FA,BVWXV02.03SA,small car,7.0,22,30.0,25,6,Yes
+VOLKSWAGEN Golf,2.5,5,Man-5,2,Gasoline,CA,BVWXV02.5259,small car,9.0,23,33.0,26,6,Yes
+VOLKSWAGEN Golf,2.5,5,SemiAuto-6,2,Gasoline,CA,BVWXV02.5259,small car,9.0,24,31.0,27,6,Yes
+VOLKSWAGEN Golf,2.5,5,Man-5,2,Gasoline,FA,BVWXV02.5259,small car,7.0,23,33.0,26,6,Yes
+VOLKSWAGEN Golf,2.5,5,SemiAuto-6,2,Gasoline,FA,BVWXV02.5259,small car,7.0,24,31.0,27,6,Yes
+VOLKSWAGEN Golf,2.5,5,Man-5,2,Gasoline,FA,BVWXV02.5U35,small car,5.0,23,33.0,26,6,No
+VOLKSWAGEN Golf,2.5,5,SemiAuto-6,2,Gasoline,FA,BVWXV02.5U35,small car,5.0,24,31.0,27,6,No
+VOLKSWAGEN Golf,2.0,4,Man-6,2,Diesel,CA,BVWXV02.0U5N,small car,4.0,29,39.0,32,4,Yes
+VOLKSWAGEN Golf,2.0,4,SemiAuto-6,2,Diesel,CA,BVWXV02.0U5N,small car,4.0,29,37.0,32,4,Yes
+VOLKSWAGEN Golf,2.0,4,Man-6,2,Diesel,FA,BVWXV02.0U5N,small car,4.0,29,39.0,32,4,Yes
+VOLKSWAGEN Golf,2.0,4,SemiAuto-6,2,Diesel,FA,BVWXV02.0U5N,small car,4.0,29,37.0,32,4,Yes
+VOLKSWAGEN GTI,2.0,4,Man-6,2,Gasoline,CA,BADXV02.03PA,small car,9.0,21,31.0,25,6,Yes
+VOLKSWAGEN GTI,2.0,4,SemiAuto-6,2,Gasoline,CA,BADXV02.03PA,small car,9.0,24,33.0,27,6,Yes
+VOLKSWAGEN GTI,2.0,4,Man-6,2,Gasoline,FA,BADXV02.03PA,small car,7.0,21,31.0,25,6,Yes
+VOLKSWAGEN GTI,2.0,4,SemiAuto-6,2,Gasoline,FA,BADXV02.03PA,small car,7.0,24,33.0,27,6,Yes
+VOLKSWAGEN GTI,2.0,4,Man-6,2,Gasoline,CA,BADXV02.03UA,small car,6.0,21,31.0,25,6,Yes
+VOLKSWAGEN GTI,2.0,4,SemiAuto-6,2,Gasoline,CA,BADXV02.03UA,small car,6.0,24,33.0,27,6,Yes
+VOLKSWAGEN GTI,2.0,4,Man-6,2,Gasoline,FA,BADXV02.03UA,small car,5.0,21,31.0,25,6,No
+VOLKSWAGEN GTI,2.0,4,SemiAuto-6,2,Gasoline,FA,BADXV02.03UA,small car,5.0,24,33.0,27,6,No
+VOLKSWAGEN Jetta,2.5,5,Man-5,2,Gasoline,CA,BVWXV02.5259,small car,9.0,23,33.0,26,6,Yes
+VOLKSWAGEN Jetta,2.5,5,SemiAuto-6,2,Gasoline,CA,BVWXV02.5259,small car,9.0,24,31.0,27,6,Yes
+VOLKSWAGEN Jetta,2.5,5,Man-5,2,Gasoline,FA,BVWXV02.5259,small car,7.0,23,33.0,26,6,Yes
+VOLKSWAGEN Jetta,2.5,5,SemiAuto-6,2,Gasoline,FA,BVWXV02.5259,small car,7.0,24,31.0,27,6,Yes
+VOLKSWAGEN Jetta,2.0,4,SemiAuto-6,2,Gasoline,CA,BVWXV02.0MPI,small car,6.0,23,29.0,25,6,Yes
+VOLKSWAGEN Jetta,2.0,4,Man-5,2,Gasoline,CA,BVWXV02.0MPI,small car,6.0,24,34.0,28,7,Yes
+VOLKSWAGEN Jetta,2.0,4,SemiAuto-6,2,Gasoline,FA,BVWXV02.0MPI,small car,5.0,23,29.0,25,6,No
+VOLKSWAGEN Jetta,2.0,4,Man-5,2,Gasoline,FA,BVWXV02.0MPI,small car,5.0,24,34.0,28,7,Yes
+VOLKSWAGEN Jetta,2.5,5,Man-5,2,Gasoline,FA,BVWXV02.5U35,small car,5.0,23,33.0,26,6,No
+VOLKSWAGEN Jetta,2.5,5,SemiAuto-6,2,Gasoline,FA,BVWXV02.5U35,small car,5.0,24,31.0,27,6,No
+VOLKSWAGEN Jetta,2.0,4,Man-6,2,Diesel,CA,BVWXV02.0U5N,small car,4.0,29,39.0,32,4,Yes
+VOLKSWAGEN Jetta,2.0,4,SemiAuto-6,2,Diesel,CA,BVWXV02.0U5N,small car,4.0,29,37.0,32,4,Yes
+VOLKSWAGEN Jetta,2.0,4,Man-6,2,Diesel,FA,BVWXV02.0U5N,small car,4.0,29,39.0,32,4,Yes
+VOLKSWAGEN Jetta,2.0,4,SemiAuto-6,2,Diesel,FA,BVWXV02.0U5N,small car,4.0,29,37.0,32,4,Yes
+VOLKSWAGEN Jetta SportWagen,2.5,5,Man-5,2,Gasoline,CA,BVWXV02.5259,station wagon,9.0,23,33.0,26,6,Yes
+VOLKSWAGEN Jetta SportWagen,2.5,5,SemiAuto-6,2,Gasoline,CA,BVWXV02.5259,station wagon,9.0,24,31.0,27,6,Yes
+VOLKSWAGEN Jetta SportWagen,2.5,5,Man-5,2,Gasoline,FA,BVWXV02.5259,station wagon,7.0,23,33.0,26,6,Yes
+VOLKSWAGEN Jetta SportWagen,2.5,5,SemiAuto-6,2,Gasoline,FA,BVWXV02.5259,station wagon,7.0,24,31.0,27,6,Yes
+VOLKSWAGEN Jetta SportWagen,2.5,5,Man-5,2,Gasoline,FA,BVWXV02.5U35,station wagon,5.0,23,33.0,26,6,No
+VOLKSWAGEN Jetta SportWagen,2.5,5,SemiAuto-6,2,Gasoline,FA,BVWXV02.5U35,station wagon,5.0,24,31.0,27,6,No
+VOLKSWAGEN Jetta SportWagen,2.0,4,SemiAuto-6,2,Diesel,CA,BVWXV02.0U5N,station wagon,4.0,29,37.0,32,4,Yes
+VOLKSWAGEN Jetta SportWagen,2.0,4,Man-6,2,Diesel,CA,BVWXV02.0U5N,station wagon,4.0,29,39.0,32,4,Yes
+VOLKSWAGEN Jetta SportWagen,2.0,4,SemiAuto-6,2,Diesel,FA,BVWXV02.0U5N,station wagon,4.0,29,37.0,32,4,Yes
+VOLKSWAGEN Jetta SportWagen,2.0,4,Man-6,2,Diesel,FA,BVWXV02.0U5N,station wagon,4.0,29,39.0,32,4,Yes
+VOLKSWAGEN Tiguan,2.0,4,Man-6,2,Gasoline,CA,BADXV02.03UA,SUV,6.0,18,26.0,21,4,No
+VOLKSWAGEN Tiguan,2.0,4,SemiAuto-6,2,Gasoline,CA,BADXV02.03UA,SUV,6.0,20,25.0,22,5,No
+VOLKSWAGEN Tiguan,2.0,4,SemiAuto-6,4,Gasoline,CA,BADXV02.03UA,SUV,6.0,19,25.0,21,4,No
+VOLKSWAGEN Tiguan,2.0,4,Man-6,2,Gasoline,FA,BADXV02.03UA,SUV,5.0,18,26.0,21,4,No
+VOLKSWAGEN Tiguan,2.0,4,SemiAuto-6,2,Gasoline,FA,BADXV02.03UA,SUV,5.0,20,25.0,22,5,No
+VOLKSWAGEN Tiguan,2.0,4,SemiAuto-6,4,Gasoline,FA,BADXV02.03UA,SUV,5.0,19,25.0,21,4,No
+VOLKSWAGEN Touareg,3.0,6,SemiAuto-8,4,Diesel,CA,BADXT03.02UG,SUV,4.0,19,26.0,22,4,No
+VOLKSWAGEN Touareg,3.6,6,SemiAuto-8,4,Gasoline,CA,BVWXT03.6U76,SUV,6.0,16,23.0,19,3,No
+VOLKSWAGEN Touareg,3.0,6,SemiAuto-8,4,Diesel,FA,BADXT03.02UG,SUV,4.0,19,26.0,22,4,No
+VOLKSWAGEN Touareg,3.6,6,SemiAuto-8,4,Gasoline,FA,BVWXT03.6U76,SUV,5.0,16,23.0,19,3,No
+VOLKSWAGEN Touareg Hybrid,3.0,6,SemiAuto-8,4,Gasoline,CA,BVWXT03.0HEV,SUV,6.0,20,24.0,21,4,No
+VOLKSWAGEN Touareg Hybrid,3.0,6,SemiAuto-8,4,Gasoline,FA,BVWXT03.0HEV,SUV,5.0,20,24.0,21,4,No
+VOLVO C30,2.5,5,Man-6,2,Gasoline,CA,BVVXV02.5U2T,small car,6.0,21,29.0,24,5,No
+VOLVO C30,2.5,5,SemiAuto-5,2,Gasoline,CA,BVVXV02.5U2T,small car,6.0,21,30.0,24,5,No
+VOLVO C30,2.5,5,Man-6,2,Gasoline,FA,BVVXV02.5U2T,small car,5.0,21,29.0,24,5,No
+VOLVO C30,2.5,5,SemiAuto-5,2,Gasoline,FA,BVVXV02.5U2T,small car,5.0,21,30.0,24,5,No
+VOLVO C70,2.5,5,SemiAuto-5,2,Gasoline,CA,BVVXV02.5U2T,small car,6.0,19,28.0,23,5,No
+VOLVO C70,2.5,5,Man-6,2,Gasoline,CA,BVVXV02.5U2T,small car,6.0,20,28.0,23,5,No
+VOLVO C70,2.5,5,SemiAuto-5,2,Gasoline,FA,BVVXV02.5U2T,small car,5.0,19,28.0,23,5,No
+VOLVO C70,2.5,5,Man-6,2,Gasoline,FA,BVVXV02.5U2T,small car,5.0,20,28.0,23,5,No
+VOLVO S40,2.5,5,SemiAuto-5,2,Gasoline,CA,BVVXV02.5U2T,small car,6.0,21,30.0,24,5,No
+VOLVO S40,2.5,5,SemiAuto-5,2,Gasoline,FA,BVVXV02.5U2T,small car,5.0,21,30.0,24,5,No
+VOLVO S60,3.0,6,SemiAuto-6,4,Gasoline,CA,BVVXJ03.0U2T,small car,6.0,18,26.0,21,4,No
+VOLVO S60,3.0,6,SemiAuto-6,4,Gasoline,FA,BVVXJ03.0U2T,small car,5.0,18,26.0,21,4,No
+VOLVO S80,3.2,6,SemiAuto-6,2,Gasoline,CA,BVVXJ03.2S2N,midsize car,9.0,19,27.0,22,5,No
+VOLVO S80,3.0,6,SemiAuto-6,4,Gasoline,CA,BVVXJ03.0U2T,midsize car,6.0,18,26.0,21,4,No
+VOLVO S80,3.2,6,SemiAuto-6,2,Gasoline,CA,BVVXJ03.2U2N,midsize car,6.0,19,27.0,22,5,No
+VOLVO S80,3.0,6,SemiAuto-6,4,Gasoline,FA,BVVXJ03.0U2T,midsize car,5.0,18,26.0,21,4,No
+VOLVO S80,3.2,6,SemiAuto-6,2,Gasoline,FA,BVVXJ03.2U2N,midsize car,5.0,19,27.0,22,5,No
+VOLVO V50,2.5,5,SemiAuto-5,2,Gasoline,CA,BVVXV02.5U2T,station wagon,6.0,21,30.0,24,5,No
+VOLVO V50,2.5,5,SemiAuto-5,2,Gasoline,FA,BVVXV02.5U2T,station wagon,5.0,21,30.0,24,5,No
+VOLVO XC 60,3.2,6,SemiAuto-6,2,Gasoline,CA,BVVXJ03.2S2N,SUV,9.0,18,25.0,21,4,No
+VOLVO XC 60,3.2,6,SemiAuto-6,4,Gasoline,CA,BVVXJ03.2S2N,SUV,9.0,18,24.0,20,4,No
+VOLVO XC 60,3.0,6,SemiAuto-6,4,Gasoline,CA,BVVXJ03.0U2T,SUV,6.0,17,22.0,19,3,No
+VOLVO XC 60,3.2,6,SemiAuto-6,2,Gasoline,CA,BVVXJ03.2U2N,SUV,6.0,18,25.0,21,4,No
+VOLVO XC 60,3.2,6,SemiAuto-6,4,Gasoline,CA,BVVXJ03.2U2N,SUV,6.0,18,24.0,20,4,No
+VOLVO XC 60,3.0,6,SemiAuto-6,4,Gasoline,FA,BVVXJ03.0U2T,SUV,5.0,17,22.0,19,3,No
+VOLVO XC 60,3.2,6,SemiAuto-6,2,Gasoline,FA,BVVXJ03.2U2N,SUV,5.0,18,25.0,21,4,No
+VOLVO XC 60,3.2,6,SemiAuto-6,4,Gasoline,FA,BVVXJ03.2U2N,SUV,5.0,18,24.0,20,4,No
+VOLVO XC 70,3.2,6,SemiAuto-6,2,Gasoline,CA,BVVXJ03.2S2N,SUV,9.0,18,25.0,21,4,No
+VOLVO XC 70,3.2,6,SemiAuto-6,4,Gasoline,CA,BVVXJ03.2S2N,SUV,9.0,18,24.0,20,4,No
+VOLVO XC 70,3.0,6,SemiAuto-6,4,Gasoline,CA,BVVXJ03.0U2T,SUV,6.0,17,22.0,19,3,No
+VOLVO XC 70,3.2,6,SemiAuto-6,2,Gasoline,CA,BVVXJ03.2U2N,SUV,6.0,18,25.0,21,4,No
+VOLVO XC 70,3.2,6,SemiAuto-6,4,Gasoline,CA,BVVXJ03.2U2N,SUV,6.0,18,24.0,20,4,No
+VOLVO XC 70,3.0,6,SemiAuto-6,4,Gasoline,FA,BVVXJ03.0U2T,SUV,5.0,17,22.0,19,3,No
+VOLVO XC 70,3.2,6,SemiAuto-6,2,Gasoline,FA,BVVXJ03.2U2N,SUV,5.0,18,25.0,21,4,No
+VOLVO XC 70,3.2,6,SemiAuto-6,4,Gasoline,FA,BVVXJ03.2U2N,SUV,5.0,18,24.0,20,4,No
+VOLVO XC 90,3.2,6,SemiAuto-6,2,Gasoline,CA,BVVXJ03.2U2N,SUV,6.0,16,22.0,18,3,No
+VOLVO XC 90,3.2,6,SemiAuto-6,4,Gasoline,CA,BVVXJ03.2U2N,SUV,6.0,16,22.0,18,3,No
+VOLVO XC 90,4.4,8,SemiAuto-6,4,Gasoline,CA,BVVXT04.4U2N,SUV,6.0,14,21.0,16,1,No
+VOLVO XC 90,3.2,6,SemiAuto-6,2,Gasoline,FA,BVVXJ03.2U2N,SUV,5.0,16,22.0,18,3,No
+VOLVO XC 90,3.2,6,SemiAuto-6,4,Gasoline,FA,BVVXJ03.2U2N,SUV,5.0,16,22.0,18,3,No
+VOLVO XC 90,4.4,8,SemiAuto-6,4,Gasoline,FA,BVVXT04.4U2N,SUV,5.0,14,21.0,16,1,No
+BENTLEY Continental Flying Spur,6.0,12,SemiAuto-6,4,Ethanol,FA,BBEXV06.0501,midsize car,5.0,8,13.0,9,1,No
+BENTLEY Continental Flying Spur,6.0,12,SemiAuto-6,4,Ethanol,CA,BBEXV06.0501,midsize car,5.0,8,13.0,9,1,No
+BENTLEY Continental GTC,6.0,12,SemiAuto-6,4,Ethanol,FA,BBEXV06.0501,small car,5.0,8,13.0,9,1,No
+BENTLEY Continental GTC,6.0,12,SemiAuto-6,4,Ethanol,CA,BBEXV06.0501,small car,5.0,8,13.0,9,1,No
+BENTLEY Continental Supersports,6.0,12,SemiAuto-6,4,Ethanol,FA,BBEXV06.0501,small car,5.0,8,14.0,10,1,No
+BENTLEY Continental Supersports,6.0,12,SemiAuto-6,4,Ethanol,CA,BBEXV06.0501,small car,5.0,8,14.0,10,1,No
+BUICK Lucerne,3.9,6,Auto-4,2,Ethanol,FC,BGMXV03.9055,large car,6.0,13,20.0,15,4,No
+BUICK REGAL,2.0,4,SemiAuto-6,2,Ethanol,FC,BGMXV02.0001,midsize car,6.0,13,21.0,16,5,No
+BUICK REGAL,2.0,4,Man-6,2,Ethanol,FC,BGMXV02.0001,midsize car,6.0,15,22.0,17,5,No
+CADILLAC Escalade,6.2,8,Auto-6,2,Ethanol,FA,BGMXT06.2375,SUV,5.0,10,15.0,12,2,No
+CADILLAC Escalade,6.2,8,Auto-6,4,Ethanol,FA,BGMXT06.2375,SUV,5.0,10,14.0,12,2,No
+CADILLAC Escalade ESV,6.2,8,Auto-6,2,Ethanol,FA,BGMXT06.2375,SUV,5.0,10,15.0,12,2,No
+CADILLAC Escalade ESV,6.2,8,Auto-6,4,Ethanol,FA,BGMXT06.2375,SUV,5.0,9,13.0,10,1,No
+CADILLAC Escalade EXT,6.2,8,Auto-6,4,Ethanol,FA,BGMXT06.2375,SUV,5.0,9,13.0,10,1,No
+CHEVROLET Avalanche 1500,5.3,8,Auto-6,2,Ethanol,FA,BGMXT05.3373,SUV,5.0,11,16.0,13,3,No
+CHEVROLET Avalanche 1500,5.3,8,Auto-6,4,Ethanol,FA,BGMXT05.3373,SUV,5.0,11,16.0,13,3,No
+CHEVROLET Equinox,3.0,6,Auto-6,2,Ethanol,FC,BGMXT03.0159,SUV,6.0,12,18.0,14,4,No
+CHEVROLET Equinox,3.0,6,Auto-6,4,Ethanol,FC,BGMXT03.0159,SUV,6.0,12,17.0,14,4,No
+CHEVROLET Express 1500,5.3,8,Auto-4,4,Ethanol,FA,BGMXT05.3373,van,5.0,10,13.0,11,1,No
+CHEVROLET Express 1500,5.3,8,Auto-4,2,Ethanol,FA,BGMXT05.3373,van,5.0,10,13.0,11,1,No
+CHEVROLET Express 1500,5.3,8,Auto-4,4,Ethanol,FA,BGMXT05.3373,van,5.0,9,12.0,10,1,No
+CHEVROLET Express 1500 Conv,5.3,8,Auto-4,4,Ethanol,FA,BGMXT05.3373,van,5.0,9,12.0,10,1,No
+CHEVROLET Express 1500 Conv,5.3,8,Auto-4,2,Ethanol,FA,BGMXT05.3373,van,5.0,10,13.0,11,1,No
+CHEVROLET Express 2500,4.8,8,Auto-6,2,Ethanol,FC,BGMXT06.0398,van,5.0,8,12.0,10,1,No
+CHEVROLET Express 2500,6.0,8,Auto-6,2,Ethanol,FC,BGMXT06.0398,van,5.0,8,12.0,9,1,No
+CHEVROLET Express 3500,6.0,8,Auto-6,2,Ethanol,FC,BGMXT06.0398,van,5.0,8,12.0,9,1,No
+CHEVROLET HHR,2.2,4,Auto-4,2,Ethanol,FC,BGMXV02.4033,SUV,6.0,16,22.0,18,6,Yes
+CHEVROLET HHR,2.2,4,Man-5,2,Ethanol,FC,BGMXV02.4033,SUV,6.0,16,23.0,19,6,Yes
+CHEVROLET HHR,2.4,4,Auto-4,2,Ethanol,FC,BGMXV02.4033,SUV,6.0,15,21.0,17,5,No
+CHEVROLET HHR,2.4,4,Man-5,2,Ethanol,FC,BGMXV02.4033,SUV,6.0,16,23.0,19,6,Yes
+CHEVROLET HHR Panel,2.2,4,Auto-4,2,Ethanol,FC,BGMXV02.4033,SUV,6.0,16,22.0,18,6,Yes
+CHEVROLET HHR Panel,2.2,4,Man-5,2,Ethanol,FC,BGMXV02.4033,SUV,6.0,16,23.0,19,6,Yes
+CHEVROLET HHR Panel,2.4,4,Auto-4,2,Ethanol,FC,BGMXV02.4033,SUV,6.0,15,21.0,17,5,No
+CHEVROLET HHR Panel,2.4,4,Man-5,2,Ethanol,FC,BGMXV02.4033,SUV,6.0,16,23.0,19,6,Yes
+CHEVROLET Impala,3.5,6,Auto-4,2,Ethanol,FC,BGMXV03.9055,large car,6.0,14,22.0,17,5,No
+CHEVROLET Impala,3.9,6,Auto-4,2,Ethanol,FC,BGMXV03.9055,large car,6.0,13,20.0,15,4,No
+CHEVROLET Malibu,2.4,4,SemiAuto-6,2,Ethanol,FC,BGMXV02.4033,midsize car,6.0,15,23.0,18,6,Yes
+CHEVROLET Silverado 15,4.8,8,Auto-4,2,Ethanol,FA,BGMXT05.3373,pickup,5.0,10,14.0,12,2,No
+CHEVROLET Silverado 15,4.8,8,Auto-4,4,Ethanol,FA,BGMXT05.3373,pickup,5.0,10,13.0,11,1,No
+CHEVROLET Silverado 15,5.3,8,Auto-6,2,Ethanol,FA,BGMXT05.3373,pickup,5.0,11,16.0,13,3,No
+CHEVROLET Silverado 15,5.3,8,Auto-6,4,Ethanol,FA,BGMXT05.3373,pickup,5.0,11,16.0,13,3,No
+CHEVROLET Silverado 15,6.2,8,Auto-6,2,Ethanol,FA,BGMXT06.2375,pickup,5.0,9,13.0,11,1,No
+CHEVROLET Silverado 15,6.2,8,Auto-6,4,Ethanol,FA,BGMXT06.2375,pickup,5.0,9,13.0,10,1,No
+CHEVROLET Silverado 15 XFE,5.3,8,Auto-6,2,Ethanol,FA,BGMXT05.3373,pickup,5.0,11,16.0,13,3,No
+CHEVROLET Suburban 1500,5.3,8,Auto-6,2,Ethanol,FA,BGMXT05.3373,SUV,5.0,11,16.0,13,3,No
+CHEVROLET Suburban 1500,5.3,8,Auto-6,4,Ethanol,FA,BGMXT05.3373,SUV,5.0,11,16.0,13,3,No
+CHEVROLET Tahoe 1500,5.3,8,Auto-6,2,Ethanol,FA,BGMXT05.3373,SUV,5.0,11,16.0,13,3,No
+CHEVROLET Tahoe 1500,5.3,8,Auto-6,4,Ethanol,FA,BGMXT05.3373,SUV,5.0,11,16.0,13,3,No
+CHEVROLET Volt,1.4,4,CVT,2,Electricity,FC,BGMXV01.4001,small car,6.0,95,90.0,93,10,Yes
+CHRYSLER 200,3.6,6,Auto-6,2,Ethanol,FC,BCRXJ03.6UPA,midsize car,6.0,14,21.0,16,5,No
+CHRYSLER 200 Convertible,3.6,6,Auto-6,2,Ethanol,FC,BCRXJ03.6UPA,small car,6.0,14,21.0,16,5,No
+CHRYSLER 300,3.6,6,Auto-5,2,Ethanol,FC,BCRXV03.6UPA,large car,6.0,13,19.0,15,4,No
+CHRYSLER 300,3.6,6,Auto-5,2,Ethanol,FA,BCRXV03.6RNA,large car,5.0,13,19.0,15,4,No
+CHRYSLER Town & Country,3.6,6,Auto-6,2,Ethanol,FC,BCRXJ03.6UPA,minivan,6.0,12,18.0,14,4,No
+DODGE Avenger,3.6,6,Auto-6,2,Ethanol,FC,BCRXJ03.6UPA,midsize car,6.0,14,21.0,16,5,No
+DODGE Challenger,3.6,6,Auto-5,2,Ethanol,FA,BCRXV03.6RNA,small car,5.0,13,19.0,15,4,No
+DODGE Charger,3.6,6,Auto-5,2,Ethanol,FC,BCRXV03.6UPA,large car,6.0,13,19.0,15,4,No
+DODGE Charger,3.6,6,Auto-5,2,Ethanol,FA,BCRXV03.6RNA,large car,5.0,13,19.0,15,4,No
+DODGE Dakota,4.7,8,Auto-5,2,Ethanol,FC,BCRXT04.7UPA,pickup,6.0,9,13.0,10,1,No
+DODGE Dakota,4.7,8,Auto-5,4,Ethanol,FC,BCRXT04.7UPA,pickup,6.0,9,13.0,10,1,No
+DODGE Durango,3.6,6,Auto-5,4,Ethanol,FA,BCRXT03.6UPA,SUV,6.0,12,16.0,14,4,No
+DODGE Durango,3.6,6,Auto-5,2,Ethanol,FA,BCRXT03.6RNA,SUV,5.0,12,17.0,14,4,No
+DODGE Grand Caravan,3.6,6,Auto-6,2,Ethanol,FC,BCRXJ03.6UPA,minivan,6.0,12,18.0,14,4,No
+DODGE Journey,3.6,6,Auto-6,2,Ethanol,FC,BCRXJ03.6UPA,SUV,6.0,13,18.0,15,4,No
+DODGE RAM 1500,4.7,8,Auto-5,2,Ethanol,FC,BCRXT04.7UPA,pickup,6.0,9,13.0,10,1,No
+DODGE RAM 1500,4.7,8,Auto-5,4,Ethanol,FC,BCRXT04.7UPA,pickup,6.0,9,12.0,10,1,No
+FORD Crown Victoria FFV,4.6,8,Auto-4,2,Ethanol,FC,BFMXV04.6VDF,large car,6.0,12,17.0,14,4,No
+FORD E150 FFV,4.6,8,Auto-4,2,Ethanol,FC,BFMXT04.65H9,van,2.0,10,12.0,11,1,No
+FORD E150 FFV,4.6,8,Auto-4,2,Ethanol,FC,BFMXT04.65H9,van,2.0,9,12.0,10,1,No
+FORD E150 FFV,5.4,8,Auto-4,2,Ethanol,FC,BFMXT05.45HK,van,2.0,9,12.0,10,1,No
+FORD E250 FFV,4.6,8,Auto-4,2,Ethanol,FC,BFMXT04.65H9,van,2.0,10,12.0,11,1,No
+FORD E250 FFV,5.4,8,Auto-4,2,Ethanol,FC,BFMXT05.45HK,van,2.0,9,12.0,10,1,No
+FORD E350 FFV,5.4,8,Auto-4,2,Ethanol,FC,BFMXT05.45HK,van,2.0,9,12.0,10,1,No
+FORD E350 FFV,5.4,8,Auto-4,2,Ethanol,FA,BFMXT05.45HK,van,2.0,9,11.0,10,1,No
+FORD Escape FFV,3.0,6,Auto-6,2,Ethanol,FC,BFMXT03.01DG,SUV,6.0,14,19.0,16,5,No
+FORD Escape FFV,3.0,6,Auto-6,4,Ethanol,FC,BFMXT03.02DE,SUV,6.0,13,17.0,14,4,No
+FORD Expedition FFV,5.4,8,Auto-6,2,Ethanol,FC,BFMXT05.44BC,SUV,6.0,10,15.0,12,2,No
+FORD Expedition FFV,5.4,8,Auto-6,4,Ethanol,FC,BFMXT05.44BC,SUV,6.0,9,13.0,11,1,No
+FORD Expedition FFV,5.4,8,Auto-6,2,Ethanol,FA,BFMXT05.44HY,SUV,2.0,10,15.0,12,2,No
+FORD Expedition FFV,5.4,8,Auto-6,4,Ethanol,FA,BFMXT05.44HY,SUV,2.0,9,13.0,11,1,No
+FORD F150 FFV,3.7,6,SemiAuto-6,2,Ethanol,FC,BFMXT03.73DP,pickup,6.0,12,17.0,14,4,No
+FORD F150 FFV,3.7,6,Auto-6,2,Ethanol,FC,BFMXT03.73DP,pickup,6.0,12,17.0,14,4,No
+FORD F150 FFV,3.7,6,Auto-6,4,Ethanol,FC,BFMXT03.73DP,pickup,6.0,12,15.0,13,3,No
+FORD F150 FFV,3.7,6,SemiAuto-6,4,Ethanol,FC,BFMXT03.73DP,pickup,6.0,12,15.0,13,3,No
+FORD F150 FFV,5.0,8,SemiAuto-6,2,Ethanol,FC,BFMXT05.03DD,pickup,6.0,11,15.0,13,3,No
+FORD F150 FFV,5.0,8,Auto-6,2,Ethanol,FC,BFMXT05.03DD,pickup,6.0,11,15.0,13,3,No
+FORD F150 FFV,5.0,8,Auto-6,4,Ethanol,FC,BFMXT05.03DD,pickup,6.0,10,14.0,12,2,No
+FORD F150 FFV,5.0,8,SemiAuto-6,4,Ethanol,FC,BFMXT05.03DD,pickup,6.0,10,14.0,12,2,No
+FORD Fusion FFV,3.0,6,SemiAuto-6,4,Ethanol,FA,BFMXV03.0VEG,midsize car,5.0,13,19.0,15,4,No
+FORD Fusion FFV,3.0,6,SemiAuto-6,2,Ethanol,FA,BFMXV03.0VEG,midsize car,5.0,14,21.0,16,5,No
+GMC Savana 1500,5.3,8,Auto-4,4,Ethanol,FA,BGMXT05.3373,van,5.0,9,12.0,10,1,No
+GMC Savana 1500,5.3,8,Auto-4,4,Ethanol,FA,BGMXT05.3373,van,5.0,10,13.0,11,1,No
+GMC Savana 1500,5.3,8,Auto-4,2,Ethanol,FA,BGMXT05.3373,van,5.0,10,13.0,11,1,No
+GMC Savana 2500,4.8,8,Auto-6,2,Ethanol,FC,BGMXT06.0398,van,5.0,8,12.0,10,1,No
+GMC Savana 2500,6.0,8,Auto-6,2,Ethanol,FC,BGMXT06.0398,van,5.0,8,12.0,9,1,No
+GMC Savana 3500,6.0,8,Auto-6,2,Ethanol,FC,BGMXT06.0398,van,5.0,8,12.0,9,1,No
+GMC Sierra 15,4.8,8,Auto-4,2,Ethanol,FA,BGMXT05.3373,pickup,5.0,10,14.0,12,2,No
+GMC Sierra 15,4.8,8,Auto-4,4,Ethanol,FA,BGMXT05.3373,pickup,5.0,10,13.0,11,1,No
+GMC Sierra 15,5.3,8,Auto-6,2,Ethanol,FA,BGMXT05.3373,pickup,5.0,11,16.0,13,3,No
+GMC Sierra 15,5.3,8,Auto-6,4,Ethanol,FA,BGMXT05.3373,pickup,5.0,11,16.0,13,3,No
+GMC Sierra 15,6.2,8,Auto-6,2,Ethanol,FA,BGMXT06.2375,pickup,5.0,9,13.0,11,1,No
+GMC Sierra 15,6.2,8,Auto-6,4,Ethanol,FA,BGMXT06.2375,pickup,5.0,9,13.0,10,1,No
+GMC Sierra 15 XFE,5.3,8,Auto-6,2,Ethanol,FA,BGMXT05.3373,pickup,5.0,11,16.0,13,3,No
+GMC Terrain,3.0,6,Auto-6,2,Ethanol,FC,BGMXT03.0159,SUV,6.0,12,18.0,14,4,No
+GMC Terrain,3.0,6,Auto-6,4,Ethanol,FC,BGMXT03.0159,SUV,6.0,12,17.0,14,4,No
+GMC Yukon 1500,5.3,8,Auto-6,2,Ethanol,FA,BGMXT05.3373,SUV,5.0,11,16.0,13,3,No
+GMC Yukon 1500,5.3,8,Auto-6,4,Ethanol,FA,BGMXT05.3373,SUV,5.0,11,16.0,13,3,No
+GMC Yukon 1500,6.2,8,Auto-6,2,Ethanol,FA,BGMXT06.2375,SUV,5.0,10,15.0,12,2,No
+GMC Yukon 1500 XL,5.3,8,Auto-6,2,Ethanol,FA,BGMXT05.3373,SUV,5.0,11,16.0,13,3,No
+GMC Yukon 1500 XL,6.2,8,Auto-6,2,Ethanol,FA,BGMXT06.2375,SUV,5.0,10,15.0,12,2,No
+GMC Yukon Denali 1500,6.2,8,Auto-6,4,Ethanol,FA,BGMXT06.2375,SUV,5.0,10,14.0,12,2,No
+GMC Yukon XL 1500,5.3,8,Auto-6,4,Ethanol,FA,BGMXT05.3373,SUV,5.0,11,16.0,13,3,No
+GMC Yukon XL 1500,6.2,8,Auto-6,4,Ethanol,FA,BGMXT06.2375,SUV,5.0,9,13.0,10,1,No
+JEEP Grand Cherokee,3.6,6,Auto-5,2,Ethanol,FA,BCRXT03.6RNA,SUV,5.0,13,17.0,14,4,No
+JEEP Grand Cherokee,3.6,6,Auto-5,4,Ethanol,FA,BCRXT03.6RNA,SUV,5.0,12,16.0,14,4,No
+LINCOLN Navigator FFV,5.4,8,Auto-6,4,Ethanol,FC,BFMXT05.44BC,SUV,6.0,9,13.0,11,1,No
+LINCOLN Navigator FFV,5.4,8,Auto-6,2,Ethanol,FC,BFMXT05.44BC,SUV,6.0,10,15.0,12,2,No
+LINCOLN Navigator FFV,5.4,8,Auto-6,4,Ethanol,FA,BFMXT05.44HY,SUV,2.0,9,13.0,11,1,No
+LINCOLN Navigator FFV,5.4,8,Auto-6,2,Ethanol,FA,BFMXT05.44HY,SUV,2.0,10,15.0,12,2,No
+LINCOLN Town Car FFV,4.6,8,Auto-4,2,Ethanol,FC,BFMXV04.6VDF,large car,6.0,12,17.0,14,4,No
+MAZDA Tribute FFV,3.0,6,Auto-6,2,Ethanol,FC,BFMXT03.01DG,SUV,6.0,14,19.0,16,5,No
+MAZDA Tribute FFV,3.0,6,Auto-6,4,Ethanol,FC,BFMXT03.02DE,SUV,6.0,13,17.0,14,4,No
+MERCEDES-BENZ C300,3.0,6,Auto-7,2,Ethanol,FA,BMBXV03.0L2A,small car,5.0,13,19.0,15,4,No
+MERCEDES-BENZ C300,3.0,6,Auto-7,2,Ethanol,CA,BMBXV03.0L2A,small car,5.0,13,19.0,15,4,No
+MERCEDES-BENZ C300 4Matic,3.0,6,Auto-7,4,Ethanol,FA,BMBXV03.0L2A,small car,5.0,13,18.0,15,4,No
+MERCEDES-BENZ C300 4Matic,3.0,6,Auto-7,4,Ethanol,CA,BMBXV03.0L2A,small car,5.0,13,18.0,15,4,No
+MERCURY Grand Marquis FFV,4.6,8,Auto-4,2,Ethanol,FC,BFMXV04.6VDF,large car,6.0,12,17.0,14,4,No
+MERCURY Mariner FFV,3.0,6,Auto-6,2,Ethanol,FC,BFMXT03.01DG,SUV,6.0,14,19.0,16,5,No
+MERCURY Mariner FFV,3.0,6,Auto-6,4,Ethanol,FC,BFMXT03.02DE,SUV,6.0,13,17.0,14,4,No
+MERCURY Milan FFV,3.0,6,SemiAuto-6,4,Ethanol,FA,BFMXV03.0VEG,midsize car,5.0,13,19.0,15,4,No
+MERCURY Milan FFV,3.0,6,SemiAuto-6,2,Ethanol,FA,BFMXV03.0VEG,midsize car,5.0,14,21.0,16,5,No
+NISSAN Armada,5.6,8,Auto-5,4,Ethanol,FA,BNSXT05.6G9B,SUV,5.0,9,13.0,11,1,No
+NISSAN Armada FFV,5.6,8,Auto-5,2,Ethanol,FA,BNSXT05.6G9B,SUV,5.0,9,13.0,11,1,No
+NISSAN Titan FFV,5.6,8,Auto-5,4,Ethanol,FA,BNSXT05.6G9B,pickup,5.0,9,13.0,10,1,No
+NISSAN Titan FFV,5.6,8,Auto-5,2,Ethanol,FA,BNSXT05.6G9B,pickup,5.0,9,13.0,11,1,No
+SAAB 9-5,2.0,4,SemiAuto-6,2,Ethanol,FC,BSAXV02.0002,midsize car,6.0,13,21.0,16,5,No
+SAAB 9-5,2.0,4,Man-6,2,Ethanol,FC,BSAXV02.0002,midsize car,6.0,15,23.0,18,6,Yes
+TOYOTA Sequoia FFV,5.7,8,SemiAuto-6,4,Ethanol,FA,BTYXT05.7XE8,SUV,5.0,9,12.0,10,1,No
+TOYOTA Tundra FFV,5.7,8,SemiAuto-6,4,Ethanol,FA,BTYXT05.7XE8,pickup,5.0,10,13.0,11,1,No
+VOLKSWAGEN Routan,3.6,6,Auto-6,2,Ethanol,FC,BCRXJ03.6UPA,minivan,6.0,12,18.0,14,4,No
+BENTLEY Continental Flying Spur,6.0,12,SemiAuto-6,4,Gas,FA,BBEXV06.0501,midsize car,5.0,11,18.0,13,1,No
+BENTLEY Continental Flying Spur,6.0,12,SemiAuto-6,4,Gas,CA,BBEXV06.0501,midsize car,5.0,11,18.0,13,1,No
+BENTLEY Continental GTC,6.0,12,SemiAuto-6,4,Gas,FA,BBEXV06.0501,small car,5.0,11,18.0,13,1,No
+BENTLEY Continental GTC,6.0,12,SemiAuto-6,4,Gas,CA,BBEXV06.0501,small car,5.0,11,18.0,13,1,No
+BENTLEY Continental Supersports,6.0,12,SemiAuto-6,4,Gas,FA,BBEXV06.0501,small car,5.0,12,19.0,14,1,No
+BENTLEY Continental Supersports,6.0,12,SemiAuto-6,4,Gas,CA,BBEXV06.0501,small car,5.0,12,19.0,14,1,No
+BUICK Lucerne,3.9,6,Auto-4,2,Gas,FC,BGMXV03.9055,large car,6.0,17,27.0,21,4,No
+BUICK REGAL,2.0,4,SemiAuto-6,2,Gas,FC,BGMXV02.0001,midsize car,6.0,18,28.0,22,5,No
+BUICK REGAL,2.0,4,Man-6,2,Gas,FC,BGMXV02.0001,midsize car,6.0,20,32.0,24,5,No
+CADILLAC Escalade,6.2,8,Auto-6,2,Gas,FA,BGMXT06.2375,SUV,5.0,14,18.0,16,1,No
+CADILLAC Escalade,6.2,8,Auto-6,4,Gas,FA,BGMXT06.2375,SUV,5.0,13,18.0,15,1,No
+CADILLAC Escalade ESV,6.2,8,Auto-6,2,Gas,FA,BGMXT06.2375,SUV,5.0,14,18.0,16,1,No
+CADILLAC Escalade ESV,6.2,8,Auto-6,4,Gas,FA,BGMXT06.2375,SUV,5.0,13,18.0,14,1,No
+CADILLAC Escalade EXT,6.2,8,Auto-6,4,Gas,FA,BGMXT06.2375,SUV,5.0,13,18.0,14,1,No
+CHEVROLET Avalanche 1500,5.3,8,Auto-6,2,Gas,FA,BGMXT05.3373,SUV,5.0,15,21.0,17,2,No
+CHEVROLET Avalanche 1500,5.3,8,Auto-6,4,Gas,FA,BGMXT05.3373,SUV,5.0,15,21.0,17,2,No
+CHEVROLET Equinox,3.0,6,Auto-6,2,Gas,FC,BGMXT03.0159,SUV,6.0,17,24.0,19,3,No
+CHEVROLET Equinox,3.0,6,Auto-6,4,Gas,FC,BGMXT03.0159,SUV,6.0,16,22.0,19,3,No
+CHEVROLET Express 1500,5.3,8,Auto-4,4,Gas,FA,BGMXT05.3373,van,5.0,13,17.0,14,1,No
+CHEVROLET Express 1500,5.3,8,Auto-4,2,Gas,FA,BGMXT05.3373,van,5.0,13,18.0,15,1,No
+CHEVROLET Express 1500,5.3,8,Auto-4,2,Gas,FA,BGMXT05.3373,van,5.0,13,17.0,14,1,No
+CHEVROLET Express 1500 Conv,5.3,8,Auto-4,4,Gas,FA,BGMXT05.3373,van,5.0,13,17.0,14,1,No
+CHEVROLET Express 1500 Conv,5.3,8,Auto-4,2,Gas,FA,BGMXT05.3373,van,5.0,13,17.0,14,1,No
+CHEVROLET Express 2500,4.8,8,Auto-6,2,Gas,FC,BGMXT06.0398,van,5.0,11,17.0,13,1,No
+CHEVROLET Express 2500,6.0,8,Auto-6,2,Gas,FC,BGMXT06.0398,van,5.0,10,16.0,12,1,No
+CHEVROLET Express 2500,6.0,8,Auto-6,2,Gas,FC,BGMXT06.0398,van,5.0,11,16.0,13,1,No
+CHEVROLET Express 3500,6.0,8,Auto-6,2,Gas,FC,BGMXT06.0398,van,5.0,10,16.0,12,1,No
+CHEVROLET Express 3500,6.0,8,Auto-6,2,Gas,FC,BGMXT06.0398,van,5.0,11,16.0,12,1,No
+CHEVROLET HHR,2.2,4,Auto-4,2,Gas,FC,BGMXV02.4033,SUV,6.0,22,30.0,25,6,Yes
+CHEVROLET HHR,2.2,4,Man-5,2,Gas,FC,BGMXV02.4033,SUV,6.0,22,32.0,26,6,Yes
+CHEVROLET HHR,2.4,4,Auto-4,2,Gas,FC,BGMXV02.4033,SUV,6.0,22,30.0,25,6,No
+CHEVROLET HHR,2.4,4,Man-5,2,Gas,FC,BGMXV02.4033,SUV,6.0,22,30.0,25,6,Yes
+CHEVROLET HHR Panel,2.2,4,Auto-4,2,Gas,FC,BGMXV02.4033,SUV,6.0,22,30.0,25,6,Yes
+CHEVROLET HHR Panel,2.2,4,Man-5,2,Gas,FC,BGMXV02.4033,SUV,6.0,22,32.0,26,6,Yes
+CHEVROLET HHR Panel,2.4,4,Auto-4,2,Gas,FC,BGMXV02.4033,SUV,6.0,22,30.0,25,6,No
+CHEVROLET HHR Panel,2.4,4,Man-5,2,Gas,FC,BGMXV02.4033,SUV,6.0,22,30.0,25,6,Yes
+CHEVROLET Impala,3.5,6,Auto-4,2,Gas,FC,BGMXV03.9055,large car,6.0,19,29.0,23,5,No
+CHEVROLET Impala,3.9,6,Auto-4,2,Gas,FC,BGMXV03.9055,large car,6.0,17,27.0,21,4,No
+CHEVROLET Malibu,2.4,4,SemiAuto-6,2,Gas,FC,BGMXV02.4033,midsize car,6.0,22,33.0,26,6,Yes
+CHEVROLET Silverado 15,4.8,8,Auto-4,2,Gas,FA,BGMXT05.3373,pickup,5.0,14,19.0,16,1,No
+CHEVROLET Silverado 15,4.8,8,Auto-4,4,Gas,FA,BGMXT05.3373,pickup,5.0,13,18.0,15,1,No
+CHEVROLET Silverado 15,5.3,8,Auto-6,2,Gas,FA,BGMXT05.3373,pickup,5.0,15,21.0,17,2,No
+CHEVROLET Silverado 15,5.3,8,Auto-6,4,Gas,FA,BGMXT05.3373,pickup,5.0,15,21.0,17,2,No
+CHEVROLET Silverado 15,6.2,8,Auto-6,2,Gas,FA,BGMXT06.2375,pickup,5.0,13,18.0,14,1,No
+CHEVROLET Silverado 15,6.2,8,Auto-6,4,Gas,FA,BGMXT06.2375,pickup,5.0,12,18.0,14,1,No
+CHEVROLET Silverado 15 XFE,5.3,8,Auto-6,2,Gas,FA,BGMXT05.3373,pickup,5.0,15,22.0,18,3,No
+CHEVROLET Suburban 1500,5.3,8,Auto-6,2,Gas,FA,BGMXT05.3373,SUV,5.0,15,21.0,17,2,No
+CHEVROLET Suburban 1500,5.3,8,Auto-6,4,Gas,FA,BGMXT05.3373,SUV,5.0,15,21.0,17,2,No
+CHEVROLET Tahoe 1500,5.3,8,Auto-6,2,Gas,FA,BGMXT05.3373,SUV,5.0,15,21.0,17,2,No
+CHEVROLET Tahoe 1500,5.3,8,Auto-6,4,Gas,FA,BGMXT05.3373,SUV,5.0,15,21.0,17,2,No
+CHEVROLET Volt,1.4,4,CVT,2,Gasoline,FC,BGMXV01.4001,small car,6.0,35,40.0,37,8,Yes
+CHRYSLER 200,3.6,6,Auto-6,2,Gas,FC,BCRXJ03.6UPA,midsize car,6.0,19,29.0,22,5,No
+CHRYSLER 200 Convertible,3.6,6,Auto-6,2,Gas,FC,BCRXJ03.6UPA,small car,6.0,19,29.0,22,5,No
+CHRYSLER 300,3.6,6,Auto-5,2,Gas,FC,BCRXV03.6UPA,large car,6.0,18,27.0,21,4,No
+CHRYSLER 300,3.6,6,Auto-5,2,Gas,FA,BCRXV03.6RNA,large car,5.0,18,27.0,21,4,No
+CHRYSLER Town & Country,3.6,6,Auto-6,2,Gas,FC,BCRXJ03.6UPA,minivan,6.0,17,25.0,20,4,No
+DODGE Avenger,3.6,6,Auto-6,2,Gas,FC,BCRXJ03.6UPA,midsize car,6.0,19,29.0,22,5,No
+DODGE Challenger,3.6,6,Auto-5,2,Gas,FA,BCRXV03.6RNA,small car,5.0,18,27.0,21,4,No
+DODGE Charger,3.6,6,Auto-5,2,Gas,FC,BCRXV03.6UPA,large car,6.0,18,27.0,21,4,No
+DODGE Charger,3.6,6,Auto-5,2,Gas,FA,BCRXV03.6RNA,large car,5.0,18,27.0,21,4,No
+DODGE Dakota,4.7,8,Auto-5,2,Gas,FC,BCRXT04.7UPA,pickup,6.0,14,19.0,16,1,No
+DODGE Dakota,4.7,8,Auto-5,4,Gas,FC,BCRXT04.7UPA,pickup,6.0,14,19.0,15,1,No
+DODGE Durango,3.6,6,Auto-5,4,Gas,FA,BCRXT03.6UPA,SUV,6.0,16,22.0,18,3,No
+DODGE Durango,3.6,6,Auto-5,2,Gas,FA,BCRXT03.6RNA,SUV,5.0,16,23.0,19,3,No
+DODGE Grand Caravan,3.6,6,Auto-6,2,Gas,FC,BCRXJ03.6UPA,minivan,6.0,17,25.0,20,4,No
+DODGE Journey,3.6,6,Auto-6,2,Gas,FC,BCRXJ03.6UPA,SUV,6.0,17,25.0,20,4,No
+DODGE RAM 1500,4.7,8,Auto-5,2,Gas,FC,BCRXT04.7UPA,pickup,6.0,14,19.0,15,1,No
+DODGE RAM 1500,4.7,8,Auto-5,4,Gas,FC,BCRXT04.7UPA,pickup,6.0,13,18.0,15,1,No
+FORD Crown Victoria FFV,4.6,8,Auto-4,2,Gas,FC,BFMXV04.6VDF,large car,6.0,16,24.0,19,3,No
+FORD E150 FFV,4.6,8,Auto-4,2,Gas,FC,BFMXT04.65H9,van,2.0,13,17.0,15,1,No
+FORD E150 FFV,4.6,8,Auto-4,2,Gas,FC,BFMXT04.65H9,van,2.0,13,16.0,14,1,No
+FORD E150 FFV,5.4,8,Auto-4,2,Gas,FC,BFMXT05.45HK,van,2.0,12,16.0,14,1,No
+FORD E150 FFV,5.4,8,Auto-4,2,Gas,FC,BFMXT05.45HK,van,2.0,12,15.0,13,1,No
+FORD E250 FFV,4.6,8,Auto-4,2,Gas,FC,BFMXT04.65H9,van,2.0,13,17.0,15,1,No
+FORD E250 FFV,5.4,8,Auto-4,2,Gas,FC,BFMXT05.45HK,van,2.0,12,16.0,13,1,No
+FORD E350 FFV,5.4,8,Auto-4,2,Gas,FC,BFMXT05.45HK,van,2.0,12,15.0,13,1,No
+FORD E350 FFV,5.4,8,Auto-4,2,Gas,FA,BFMXT05.45HK,van,2.0,11,15.0,13,1,No
+FORD Escape FFV,3.0,6,Auto-6,2,Gas,FC,BFMXT03.01DG,SUV,6.0,19,25.0,21,4,No
+FORD Escape FFV,3.0,6,Auto-6,4,Gas,FC,BFMXT03.02DE,SUV,6.0,18,23.0,20,4,No
+FORD Expedition FFV,5.4,8,Auto-6,2,Gas,FC,BFMXT05.44BC,SUV,6.0,14,20.0,16,1,No
+FORD Expedition FFV,5.4,8,Auto-6,4,Gas,FC,BFMXT05.44BC,SUV,6.0,13,18.0,15,1,No
+FORD Expedition FFV,5.4,8,Auto-6,2,Gas,FA,BFMXT05.44HY,SUV,2.0,14,20.0,16,1,No
+FORD Expedition FFV,5.4,8,Auto-6,4,Gas,FA,BFMXT05.44HY,SUV,2.0,13,18.0,15,1,No
+FORD F150 FFV,3.7,6,SemiAuto-6,2,Gas,FC,BFMXT03.73DP,pickup,6.0,17,23.0,19,3,No
+FORD F150 FFV,3.7,6,Auto-6,2,Gas,FC,BFMXT03.73DP,pickup,6.0,17,23.0,19,3,No
+FORD F150 FFV,3.7,6,Auto-6,4,Gas,FC,BFMXT03.73DP,pickup,6.0,16,21.0,18,3,No
+FORD F150 FFV,3.7,6,SemiAuto-6,4,Gas,FC,BFMXT03.73DP,pickup,6.0,16,21.0,18,3,No
+FORD F150 FFV,5.0,8,SemiAuto-6,2,Gas,FC,BFMXT05.03DD,pickup,6.0,15,21.0,17,2,No
+FORD F150 FFV,5.0,8,Auto-6,2,Gas,FC,BFMXT05.03DD,pickup,6.0,15,21.0,17,2,No
+FORD F150 FFV,5.0,8,Auto-6,4,Gas,FC,BFMXT05.03DD,pickup,6.0,14,19.0,16,1,No
+FORD F150 FFV,5.0,8,SemiAuto-6,4,Gas,FC,BFMXT05.03DD,pickup,6.0,14,19.0,16,1,No
+FORD Fusion FFV,3.0,6,SemiAuto-6,4,Gas,FA,BFMXV03.0VEG,midsize car,5.0,18,26.0,20,4,No
+FORD Fusion FFV,3.0,6,SemiAuto-6,2,Gas,FA,BFMXV03.0VEG,midsize car,5.0,20,28.0,23,5,No
+GMC Savana 1500,5.3,8,Auto-4,4,Gas,FA,BGMXT05.3373,van,5.0,13,17.0,14,1,No
+GMC Savana 1500,5.3,8,Auto-4,2,Gas,FA,BGMXT05.3373,van,5.0,13,17.0,14,1,No
+GMC Savana 1500,5.3,8,Auto-4,2,Gas,FA,BGMXT05.3373,van,5.0,13,18.0,15,1,No
+GMC Savana 2500,4.8,8,Auto-6,2,Gas,FC,BGMXT06.0398,van,5.0,11,17.0,13,1,No
+GMC Savana 2500,6.0,8,Auto-6,2,Gas,FC,BGMXT06.0398,van,5.0,10,16.0,12,1,No
+GMC Savana 2500,6.0,8,Auto-6,2,Gas,FC,BGMXT06.0398,van,5.0,11,16.0,13,1,No
+GMC Savana 3500,6.0,8,Auto-6,2,Gas,FC,BGMXT06.0398,van,5.0,10,16.0,12,1,No
+GMC Savana 3500,6.0,8,Auto-6,2,Gas,FC,BGMXT06.0398,van,5.0,11,16.0,12,1,No
+GMC Sierra 15,4.8,8,Auto-4,2,Gas,FA,BGMXT05.3373,pickup,5.0,14,19.0,16,1,No
+GMC Sierra 15,4.8,8,Auto-4,4,Gas,FA,BGMXT05.3373,pickup,5.0,13,18.0,15,1,No
+GMC Sierra 15,5.3,8,Auto-6,2,Gas,FA,BGMXT05.3373,pickup,5.0,15,21.0,17,2,No
+GMC Sierra 15,5.3,8,Auto-6,4,Gas,FA,BGMXT05.3373,pickup,5.0,15,21.0,17,2,No
+GMC Sierra 15,6.2,8,Auto-6,2,Gas,FA,BGMXT06.2375,pickup,5.0,13,18.0,14,1,No
+GMC Sierra 15,6.2,8,Auto-6,4,Gas,FA,BGMXT06.2375,pickup,5.0,12,18.0,14,1,No
+GMC Sierra 15 XFE,5.3,8,Auto-6,2,Gas,FA,BGMXT05.3373,pickup,5.0,15,22.0,18,3,No
+GMC Terrain,3.0,6,Auto-6,2,Gas,FC,BGMXT03.0159,SUV,6.0,17,24.0,19,3,No
+GMC Terrain,3.0,6,Auto-6,4,Gas,FC,BGMXT03.0159,SUV,6.0,16,22.0,19,3,No
+GMC Yukon 1500,5.3,8,Auto-6,2,Gas,FA,BGMXT05.3373,SUV,5.0,15,21.0,17,2,No
+GMC Yukon 1500,5.3,8,Auto-6,4,Gas,FA,BGMXT05.3373,SUV,5.0,15,21.0,17,2,No
+GMC Yukon 1500,6.2,8,Auto-6,2,Gas,FA,BGMXT06.2375,SUV,5.0,14,18.0,16,1,No
+GMC Yukon 1500 XL,5.3,8,Auto-6,2,Gas,FA,BGMXT05.3373,SUV,5.0,15,21.0,17,2,No
+GMC Yukon 1500 XL,6.2,8,Auto-6,2,Gas,FA,BGMXT06.2375,SUV,5.0,14,18.0,16,1,No
+GMC Yukon Denali 1500,6.2,8,Auto-6,4,Gas,FA,BGMXT06.2375,SUV,5.0,13,18.0,15,1,No
+GMC Yukon XL 1500,5.3,8,Auto-6,4,Gas,FA,BGMXT05.3373,SUV,5.0,15,21.0,17,2,No
+GMC Yukon XL 1500,6.2,8,Auto-6,4,Gas,FA,BGMXT06.2375,SUV,5.0,13,18.0,14,1,No
+JEEP Grand Cherokee,3.6,6,Auto-5,2,Gas,FA,BCRXT03.6RNA,SUV,5.0,16,23.0,18,3,No
+JEEP Grand Cherokee,3.6,6,Auto-5,4,Gas,FA,BCRXT03.6RNA,SUV,5.0,16,22.0,18,3,No
+LINCOLN Navigator FFV,5.4,8,Auto-6,4,Gas,FC,BFMXT05.44BC,SUV,6.0,13,18.0,15,1,No
+LINCOLN Navigator FFV,5.4,8,Auto-6,2,Gas,FC,BFMXT05.44BC,SUV,6.0,14,20.0,16,1,No
+LINCOLN Navigator FFV,5.4,8,Auto-6,4,Gas,FA,BFMXT05.44HY,SUV,2.0,13,18.0,15,1,No
+LINCOLN Navigator FFV,5.4,8,Auto-6,2,Gas,FA,BFMXT05.44HY,SUV,2.0,14,20.0,16,1,No
+LINCOLN Town Car FFV,4.6,8,Auto-4,2,Gas,FC,BFMXV04.6VDF,large car,6.0,16,24.0,19,3,No
+MAZDA Tribute FFV,3.0,6,Auto-6,2,Gas,FC,BFMXT03.01DG,SUV,6.0,19,25.0,21,4,No
+MAZDA Tribute FFV,3.0,6,Auto-6,4,Gas,FC,BFMXT03.02DE,SUV,6.0,18,23.0,20,4,No
+MERCEDES-BENZ C300,3.0,6,Auto-7,2,Gas,FA,BMBXV03.0L2A,small car,5.0,18,26.0,20,4,No
+MERCEDES-BENZ C300,3.0,6,Auto-7,2,Gas,CA,BMBXV03.0L2A,small car,3.0,18,26.0,20,4,No
+MERCEDES-BENZ C300 4Matic,3.0,6,Auto-7,4,Gas,FA,BMBXV03.0L2A,small car,5.0,18,25.0,20,4,No
+MERCEDES-BENZ C300 4Matic,3.0,6,Auto-7,4,Gas,CA,BMBXV03.0L2A,small car,3.0,18,25.0,20,4,No
+MERCURY Grand Marquis FFV,4.6,8,Auto-4,2,Gas,FC,BFMXV04.6VDF,large car,6.0,16,24.0,19,3,No
+MERCURY Mariner FFV,3.0,6,Auto-6,2,Gas,FC,BFMXT03.01DG,SUV,6.0,19,25.0,21,4,No
+MERCURY Mariner FFV,3.0,6,Auto-6,4,Gas,FC,BFMXT03.02DE,SUV,6.0,18,23.0,20,4,No
+MERCURY Milan FFV,3.0,6,SemiAuto-6,4,Gas,FA,BFMXV03.0VEG,midsize car,5.0,18,26.0,20,4,No
+MERCURY Milan FFV,3.0,6,SemiAuto-6,2,Gas,FA,BFMXV03.0VEG,midsize car,5.0,20,28.0,23,5,No
+NISSAN Armada,5.6,8,Auto-5,4,Gas,FA,BNSXT05.6G9B,SUV,5.0,12,18.0,14,1,No
+NISSAN Armada FFV,5.6,8,Auto-5,2,Gas,FA,BNSXT05.6G9B,SUV,5.0,12,19.0,15,1,No
+NISSAN Titan FFV,5.6,8,Auto-5,4,Gas,FA,BNSXT05.6G9B,pickup,5.0,12,17.0,14,1,No
+NISSAN Titan FFV,5.6,8,Auto-5,2,Gas,FA,BNSXT05.6G9B,pickup,5.0,13,18.0,15,1,No
+SAAB 9-5,2.0,4,SemiAuto-6,2,Gas,FC,BSAXV02.0002,midsize car,6.0,18,28.0,21,4,No
+SAAB 9-5,2.0,4,Man-6,2,Gas,FC,BSAXV02.0002,midsize car,6.0,20,33.0,25,6,Yes
+TOYOTA Sequoia FFV,5.7,8,SemiAuto-6,4,Gas,FA,BTYXT05.7XE8,SUV,5.0,12,17.0,14,1,No
+TOYOTA Tundra FFV,5.7,8,SemiAuto-6,4,Gas,FA,BTYXT05.7XE8,pickup,5.0,13,17.0,15,1,No
+VOLKSWAGEN Routan,3.6,6,Auto-6,2,Gas,FC,BCRXJ03.6UPA,minivan,6.0,17,25.0,20,4,No
